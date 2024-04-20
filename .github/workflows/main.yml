@@ -1,0 +1,51 @@
+name: update-from-api
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  getdata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+      - name: install deps
+        run: |
+          pip install requests
+      - name: execute python script
+        run: |
+          python api.py
+        working-directory: scripts
+      - name: commit changes
+        run: |
+          git config user.email "imran271828@gmail.com"
+          git config user.name "Muhammad Imran"
+          git add .
+          git commit -m 'update'
+          git push
+  deploy:
+    needs: getdata
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: './web'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
