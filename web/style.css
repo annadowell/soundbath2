@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+#map {
+  position: absolute;
+  width: 100vw;
+  height: 100vw;
+}
+
+/* Zoom-in and rotate animation */
+@keyframes zoomInRotate {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) rotateX(90deg); /* Start from smaller size and rotated */
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1) rotateX(45deg); /* Zoom in and rotate halfway */
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotateX(0deg); /* Fully zoomed in and rotated */
+  }
+}
+
+/* Default styling for larger screens */
+#info {
+    font-size: 16px; /* or any size you prefer for larger screens */
+}
+
+/* Media query for screens narrower than 600px (typical mobile breakpoint) */
+@media screen and (max-width: 600px) {
+    #info {
+        font-size: 12px; /* smaller font size for mobile screens */
+    }
+}
+
