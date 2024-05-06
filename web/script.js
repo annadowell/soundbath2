@@ -123,44 +123,40 @@ function updateAverageRainfall() {
     if (!geojsonData || !device) return;
 
     let bounds = map.getBounds(); // Retrieve the current geographic boundaries of the visible map area.
-    let visibleFeatures = geojsonData.features.filter(feature => {
-        let [lng, lat] = feature.geometry.coordinates;
-        return bounds.contains([lng, lat]);
-    });
-
     let totalRainfall = 0;
     let stationsWithRainfall = 0;
     let rainfallAndCountryCodes = '';
 
-    // Create an array to store rainfall and country code data.
-    let rainfallData = geojsonData.features.map(feature => {
-        let [lng, lat] = feature.geometry.coordinates;
-        let isVisible = bounds.contains([lng, lat]);
-        let rainfall = isVisible ? parseFloat(feature.properties.rainfall) : 0; // Set rainfall to 0 if not visible
-        let country_code = feature.properties.country_code;
-        return `${rainfall} ${country_code}`; // Maintain the country code
+    // Prepare an array to hold all station data for sending, initialized with zeros for rainfall
+    let allStationData = geojsonData.features.map(feature => {
+        return { rainfall: 0, country_code: feature.properties.country_code };
     });
 
-    // Calculate total rainfall and count stations with rainfall.
-    visibleFeatures.forEach(feature => {
-        let rainfall = parseFloat(feature.properties.rainfall);
-        let country_code = feature.properties.country_code;
-
-        if (!isNaN(rainfall) && country_code !== undefined) {
-            stationsWithRainfall++;
-            totalRainfall += rainfall;
-            rainfallAndCountryCodes += `${rainfall} ${country_code} `;
+    // Filter and process only visible features
+    geojsonData.features.forEach((feature, index) => {
+        let [lng, lat] = feature.geometry.coordinates;
+        if (bounds.contains([lng, lat])) {
+            let rainfall = parseFloat(feature.properties.rainfall);
+            let country_code = feature.properties.country_code;
+            if (!isNaN(rainfall) && country_code !== undefined) {
+                stationsWithRainfall++;
+                totalRainfall += rainfall;
+                rainfallAndCountryCodes += `${rainfall} ${country_code} `;
+                allStationData[index].rainfall = rainfall; // Update only visible stations
+            }
         }
     });
 
-    rainfallAndCountryCodes = rainfallAndCountryCodes.trim(); // Trim the final string.
-
-    let averageRainfall = (visibleFeatures.length > 0) ? (totalRainfall / visibleFeatures.length).toFixed(2) : 'N/A';
-
-    // If no stations are visible, send the specified string instead of NaN
-    if (visibleFeatures.length === 0) {
-        rainfallData = ['0 1', '0 2', '0 3'];
+    // Special handling when no stations are visible
+    if (stationsWithRainfall === 0) {
+        rainfallData = [0, 1, 0, 2, 0, 3].map((e, i) => i % 2 === 0 ? e : `${e}`);
+    } else {
+        // Convert allStationData to the required string format and map to floats
+        rainfallData = allStationData.map(data => `${data.rainfall} ${data.country_code}`).join(" ").split(/\s+/).map(parseFloat);
     }
+
+    // Calculate average rainfall
+    let averageRainfall = (stationsWithRainfall > 0) ? (totalRainfall / stationsWithRainfall).toFixed(2) : 'N/A';
 
     // Send the message event to the RNBO device
     let messageEvent = new RNBO.MessageEvent(RNBO.TimeNow, "Data", rainfallData);
@@ -171,9 +167,9 @@ function updateAverageRainfall() {
     // Update the HTML content.
     document.getElementById('info').innerHTML = 'Average Rainfall: ' + averageRainfall + ' mm<br>' +
                                                 'Total Rainfall: ' + totalRainfall.toFixed(2) + ' mm<br>' +
-                                                'Total Stations: ' + visibleFeatures.length + '<br>' +
+                                                'Total Stations: ' + geojsonData.features.length + '<br>' +
                                                 'Stations with Rainfall > 0mm: ' + stationsWithRainfall + '<br>' +
-                                                'Visible Rainfall & Country Codes: ' + rainfallAndCountryCodes;
+                                                'Visible Rainfall & Country Codes: ' + rainfallAndCountryCodes.trim();
 }
 
 
