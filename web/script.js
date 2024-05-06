@@ -69,6 +69,7 @@ async function main() {
         outputNode.connect(context.destination);
         //outputNode.gain.setValueAtTime(0, context.currentTime);
 
+        // THIS IS THE RAW LINK TO THE PATCH
         const patcherUrl = "https://raw.githubusercontent.com/annadowell/soundbath2/main/export/patch.export.json";
         const patcherResponse = await fetch(patcherUrl);
 
