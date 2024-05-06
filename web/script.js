@@ -180,7 +180,7 @@ function updateAverageRainfall() {
 // Event handler for the 'load' event of the map.
 map.on('load', () => {
     // Fetch GeoJSON data asynchronously from a URL.
-    fetch("https://raw.githubusercontent.com/muimran/betatesting_soundbath/main/web/data/myData.geojson")
+    fetch("https://raw.githubusercontent.com/annadowell/soundbath2/main/export/patch.export.json")
         .then(response => response.json()) // Parse the fetched data as JSON.
         .then(data => {
             geojsonData = data; // Store the parsed GeoJSON data.
