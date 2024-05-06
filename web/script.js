@@ -69,7 +69,7 @@ async function main() {
         outputNode.connect(context.destination);
         //outputNode.gain.setValueAtTime(0, context.currentTime);
 
-        const patcherUrl = "https://raw.githubusercontent.com/muimran/betatesting_soundbath/main/export/patch.export.json";
+        const patcherUrl = "https://raw.githubusercontent.com/annadowell/soundbath2/main/export/patch.export.json";
         const patcherResponse = await fetch(patcherUrl);
 
         if (!patcherResponse.ok) {
