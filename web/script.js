@@ -149,7 +149,7 @@ function updateAverageRainfall() {
 
     // Special handling when no stations are visible
     if (stationsWithRainfall === 0) {
-        rainfallData = [0, 1, 0, 2, 0, 3].map((e, i) => i % 2 === 0 ? e : `${e}`);
+        rainfallData = [0, 1, 0, 2, 0, 3];
     } else {
         // Convert allStationData to the required string format and map to floats
         rainfallData = allStationData.map(data => `${data.rainfall} ${data.country_code}`).join(" ").split(/\s+/).map(parseFloat);
