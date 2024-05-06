@@ -39,6 +39,7 @@ def get_rainfall_data_eng():
         return eng_data['items']
     return []
 
+
 # Function to fetch station data with coordinates for Scotland
 def get_scotland_rainfall_data(base_url):
     # Fetch the list of stations
@@ -51,26 +52,38 @@ def get_scotland_rainfall_data(base_url):
         # Fetch latest data for each station
         for station in stations:
             station_id = station.get("station_no")
-            station_data_url = f"{base_url}/api/Stations/{station_id}"
-            try:
-                response = requests.get(station_data_url)
-                if response.status_code == 200 and response.content:
-                    data = json.loads(response.content)
-                    # Convert data types
-                    latitude = float(data.get("station_latitude"))
-                    longitude = float(data.get("station_longitude"))
-                    rainfall = float(data.get("itemValue")) / 4  # Dividing rainfall value by 4
-                    station_id = int(station_id)  # Convert station_id to integer
+            station_details_url = f"{base_url}/api/Stations/{station_id}"
+            hourly_data_url = f"{base_url}/api/Hourly/{station_id}?all=true"
 
-                    if latitude is not None and longitude is not None and rainfall is not None:
-                        scotland_rainfall_data.append({
-                            'station_id': station_id,
-                            'latitude': latitude,
-                            'longitude': longitude,
-                            'rainfall': rainfall
-                        })
+            try:
+                # Get station details including latitude and longitude
+                details_response = requests.get(station_details_url)
+                if details_response.status_code == 200 and details_response.content:
+                    details_data = json.loads(details_response.content)
+                    latitude = float(details_data.get("station_latitude", "0.0"))  # Default to 0.0 if not found
+                    longitude = float(details_data.get("station_longitude", "0.0"))
+
+                     # Get latest rainfall data
+                    hourly_response = requests.get(hourly_data_url)
+                    if hourly_response.status_code == 200 and hourly_response.content:
+                        hourly_data = json.loads(hourly_response.content)
+                        if hourly_data:
+                            # Get the last record for the latest timestamp
+                            last_record = hourly_data[-1]
+                            timestamp = last_record.get("Timestamp")
+                            rainfall = float(last_record.get("Value", "0.0"))  # Convert to float, default to 0.0
+                            adjusted_rainfall = rainfall / 4  # Divide the rainfall value by 4
+                            if latitude is not None and longitude is not None and rainfall is not None:
+                                scotland_rainfall_data.append({
+                                    'station_id': station_id,
+                                    'latitude': latitude,
+                                    'longitude': longitude,
+                                    'timestamp': timestamp,
+                                    'rainfall': adjusted_rainfall  # Use the adjusted rainfall
+
+                                })
                 else:
-                    print(f"Error fetching data for station {station_id}: HTTP {response.status_code}")
+                    print(f"Error fetching station details for {station_id}: HTTP {details_response.status_code}")
             except json.JSONDecodeError:
                 print(f"Invalid JSON response for station {station_id}")
             except Exception as e:
@@ -182,10 +195,15 @@ update_count = 0
 for csv_row in csv_data:
     for index, feature in enumerate(geojson_data['features']):
         if coords_match(feature, csv_row):
-            feature['properties']['rainfall'] = csv_row['rainfall_mm']
+            # Update both rainfall and country code properties in one line
+            feature['properties'].update({
+                'rainfall': csv_row['rainfall_mm'],
+                'country_code': int(csv_row['country_code'])  # Convert to integer if necessary
+            })
             update_count += 1
-            print(f"Updated GeoJSON Feature at Index {index} with Rainfall {csv_row['rainfall_mm']}")
+            print(f"Updated GeoJSON Feature at Index {index} with Rainfall {csv_row['rainfall_mm']} and Country Code {csv_row['country_code']}")
             break  # Stop looking once we've found the matching feature
+
 
 # Save the updated GeoJSON data
 with open(geojson_file_path, 'w') as geojson_file:
@@ -194,3 +212,4 @@ with open(geojson_file_path, 'w') as geojson_file:
 # Final print statement
 current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print(f"Data has been updated in both {csv_file_path} and {geojson_file_path}. Current time is {current_time}")
+
