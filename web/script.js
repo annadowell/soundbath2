@@ -105,17 +105,17 @@ let geojsonData;
 
 
 
-function mapRainfallLogarithmically(rainfall) {
-    if (rainfall > 2) {
-        return 7;
-    } else if (rainfall >= 0.01) {
-        const logBase = Math.log(2) - Math.log(0.01); // This is the scale factor
-        const adjustedLog = Math.log(rainfall) - Math.log(0.01);
-        return 7 * (adjustedLog / logBase);
-    } else {
-        return 0; // Assuming values below 0.01 should be treated as 0
-    }
-}
+// function mapRainfallLogarithmically(rainfall) {
+//     if (rainfall > 2) {
+//         return 7;
+//     } else if (rainfall >= 0.01) {
+//         const logBase = Math.log(2) - Math.log(0.01); // This is the scale factor
+//         const adjustedLog = Math.log(rainfall) - Math.log(0.01);
+//         return 7 * (adjustedLog / logBase);
+//     } else {
+//         return 0; // Assuming values below 0.01 should be treated as 0
+//     }
+// }
 
 
 function updateAverageRainfall() {
@@ -137,7 +137,7 @@ function updateAverageRainfall() {
         let country_code = feature.properties.country_code;
         
         // Apply the logarithmic mapping to the rainfall value
-        rainfall = mapRainfallLogarithmically(rainfall);
+        // rainfall = mapRainfallLogarithmically(rainfall);
 
         // Ensure country code is defined and rainfall is processed.
         if (!isNaN(rainfall) && country_code !== undefined) {
