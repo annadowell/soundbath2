@@ -2,45 +2,212 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Rainfall Radar Map</title>
+    <title>Soundbath User Testing</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta name="rnbo-version" content="1.0.0-alpha.5">
     <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
     <script type="text/javascript" src="https://cdn.cycling74.com/rnbo/latest/rnbo.min.js"></script>
+    
+    
     <style>
+        /* Basic CSS reset for body */
         body { margin: 0; padding: 0; }
+        /* Full-screen map positioning */
         #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-        #info { 
-            position: absolute; 
-            top: 10px; 
-            left: 100px; 
-            padding: 5px; 
-            background: black;
-            font-family: Helvetica, sans-serif; /* Ensured font is set once */
-            color: black; /* Made color simpler */
-            width: 90%; /* Control the width of the info box */
-            margin: 20px; /* Adds margin around the box */
-            border: 1px solid #ccc; /* Adds a border */
-            background-color: #f9f9f9; /* Light background for the box */
-            font-size: 0.8em; /* Smaller font size for the data */
-            overflow-y: auto; /* Allows scrolling */
-            height: 200px; /* Fixed height, but can scroll */
+
+        /* Initially hide info and help icons */
+        #infoIcon, #helpIcon {
+            display: none;
         }
+
+        /* Styling for help icon */
+        #helpIcon {
+            position: absolute;
+            top: 45px;
+            right: 30px;
+            width: 40px;
+            height: 40px;
+            z-index: 100;
+            cursor: pointer;
+        }
+
+        /* Pseudo-element for help icon for visual effects */
+        #helpIcon::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, transparent 50%, #e7e56c 50%);
+            background-size: 100% 200%;
+            transition: background-position 0.5s;
+            -webkit-mask-image: url('web/images/question-mark-mask.png');
+            mask-image: url('web/images/question-mark-mask.png');
+            mask-size: cover;
+            pointer-events: none;
+        }
+
+        /* Hover effect for help icon */
+        #helpIcon:hover::after {
+            background-position: 0 -100%;
+        }
+
+        /* Styling for information icon */
+        #infoIcon {
+            position: absolute;
+            top: 100px;
+            right: 30px;
+            width: 40px;
+            height: 40px;
+            z-index: 96;
+            cursor: pointer;
+        }
+
+
+        /* Popup box styling, initially hidden */
+        #popupBox {
+            display: none;
+            position: absolute;
+            top: calc(30px + 7%);
+            right: 30px;
+            width: 225px;
+            height: auto;
+            max-height: 180px;
+            overflow-y: auto;
+            background: rgba(255, 255, 255, 1);
+            z-index: 99;
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+ 
+        /* Paragraph styling within popup box */
+        #popupBox p {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+
+        /* Hidden additional info area */
+        #info {
+            display: none;
+            position: absolute;
+            top: 200px;
+            left: 20px;
+            padding: 5px;
+            background: black;
+            color: black;
+            width: 16%;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+            font-size: 0.8em;
+            overflow-y: auto;
+            height: 450px;
+            z-index: 97;
+        }
+
+        /* Start button styling */
+#start {
+    position: absolute;
+    top: 15%; /* Vertical positioning */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Offset to the left by half its width */
+    width: 120px;
+    height: 120px;
+    z-index: 100;
+    cursor: pointer;
+    animation: pulse 3s infinite;
+    transform-origin: center; /* Ensure transformations scale from the center */
+}
+
+/* Keyframes for start button animation ensuring transform is included */
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1) translateX(-52%);
+    }
+    50% {
+        transform: scale(0.8) translateX(-48%);
+    }
+}
+
+/* Ensures media query reiterates necessary transforms for mobile */
+@media (max-width: 600px) {
+    #start {
+        top: 10%;
+        left: 48%; /* Horizontally center the button */
+        transform: translateX(-52%); /* Maintain horizontal centering */
+    }
+}
+
+
     </style>
+
+
 </head>
 <body>
+    <div id="helpIcon">
+        <img src="images/question.svg" alt="Help" style="width:100%; height:100%;">
+    </div>
+    <div id="infoIcon">
+        <a href="about.html" target="_blank">
+            <img src="images/information.svg" alt="Info" style="width:100%; height:100%;">
+        </a>
+    </div>
+    
+    <div id="start">
+        <img src="images/start_button.svg" alt="Help" style="width:100%; height:100%;">
+    </div>
+<div id="popupBox">
+    <p><strong>Lorem Ipsam</strong><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+    <p><strong>Lorem Ipsam</strong><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+    <p><strong>Lorem Ipsam</strong><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+</div>
+<div id="map"></div>
+<div id="info">Information content goes here</div>
 
-<div id="map"> </div>
-<div id="info"></div>
-
-<!-- Link to the external JavaScript file -->
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        // Disable interactions except for the 'start' button initially
+        document.querySelectorAll('div, a').forEach(el => {
+            if (el.id !== 'start') {
+                el.classList.add('disable-interaction');
+            }
+        });
+    
+        // Function to enable interactions and show icons
+        function enableAllInteractionsAndShowIcons() {
+            document.querySelectorAll('.disable-interaction').forEach(el => {
+                el.classList.remove('disable-interaction');
+            });
+            document.getElementById('infoIcon').style.display = 'block';
+            document.getElementById('helpIcon').style.display = 'block';
+        }
+    
+        // Enable interactions and show icons on 'start' button click
+        document.getElementById('start').addEventListener('click', function() {
+            enableAllInteractionsAndShowIcons();
+        });
+    });
+    
+    document.getElementById('helpIcon').addEventListener('click', function(event) {
+        var popupBox = document.getElementById('popupBox');
+        popupBox.style.display = (popupBox.style.display === 'block' ? 'none' : 'block');
+        event.stopPropagation();
+    });
+    
+    document.getElementById('popupBox').addEventListener('click', function(event) {
+        event.stopPropagation();
+    });
+    
+    document.addEventListener('click', function() {
+        var popupBox = document.getElementById('popupBox');
+        popupBox.style.display = 'none';
+    });
+</script>
 
 <script type="text/javascript" src="script.js"></script>
-
-   <!-- (Optional) The guardrails.js script isn't required for RNBO to work, and you can skip including it -->
-    <!-- It simply offers some helpful error messages for common problems -->
-<script type="text/javascript" src="guardrails.js"></script>
-
-</body>
+<script type="text...
 </html>

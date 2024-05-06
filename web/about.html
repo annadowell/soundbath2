@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Content Layout Page</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;  /* Ensures the page fits the viewport height */
+        width: 100%;  /* Ensures the page fits the viewport width */
+        overflow-x: hidden;  /* Prevent horizontal overflow */
+        background-color: black;
+        color: rgb(227, 222, 222);
+        font-family: Arial, sans-serif;
+    }
+
+    *, *:before, *:after {
+        box-sizing: border-box;  /* Includes padding and border in width and height */
+    }
+
+    .header {
+        text-align: left;
+        font-size: 2em;
+        padding: 80px 20px;
+        position: fixed;
+        width: 100%;
+        top: 115px;  /* Maintained original position */
+        left: 290px;  /* Maintained original positioning */
+        background: transparent;
+        z-index: 2;
+        color: #e7e56c;
+        font-family: 'Grandstander', sans-serif;
+    }
+    .main-container {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        grid-template-rows: auto 1fr;
+        margin-top: 180px; /* Adjusted top margin */
+        height: calc(100vh - 180px); /* Adjusted height to fit viewport */
+    }
+    .subheadings {
+        grid-column: 4;
+        grid-row: 1 / span 2;
+        padding: 15px;
+        padding-top: 530px; /* Space for header */
+        font-family: 'Grandstander', sans-serif;
+        font-weight: bold;
+    }
+    .subheading {
+        cursor: pointer;
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .active-subheading {
+        color: #e7e56c;
+    }
+    .content {
+        grid-column: 5 / span 2;
+        grid-row: 2;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        position: relative;
+        line-height: 1.5;
+        font-family: 'Grandstander', sans-serif;
+    }
+    .content-section {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        visibility: hidden;
+        opacity: 0;
+        transition: opacity 0.5s linear;
+    }
+    .content-section.visible {
+        visibility: visible;
+        opacity: 1;
+    }
+    @media (max-width: 600px) {
+        .header {
+            padding: 20px 20px;
+            position: relative;  /* Reverted to fixed to keep the header in view */
+            top: 0;  /* Reset position for better viewability */
+            left: 0;
+            width: 100%;  /* Full width to align correctly on mobile */
+        }
+        .main-container {
+            display: grid;
+            grid-template-columns: 1fr;  /* Single column layout */
+            grid-template-rows: auto auto;  /* Two rows: one for subheadings, one for content */
+            margin-top: 60px;  /* Reduced top margin */
+            height: auto;  /* Auto height to fit content */
+        }
+        .subheadings, .content {
+            grid-column: 1;  /* Full width */
+            padding: 15px 20px;  /* Slightly padded for edge space */
+        }
+        .subheadings {
+            grid-row: 1;  /* Subheadings remain at the top */
+        }
+        .content {
+            grid-row: 2;  /* Content remains below subheadings */
+            display: block;  /* Block layout for simplicity */
+        }
+    }
+</style>
+</head>
+<body>
+    <div class="header" id="animatedHeader">ABOUT</div>
+    <div class="main-container">
+        <div class="subheadings">
+            <div class="subheading" onclick="showContent('section1')">About Soundbath</div>
+            <div class="subheading" onclick="showContent('section2')">Background</div>
+            <div class="subheading" onclick="showContent('section3')">Creators</div>
+        </div>
+        <div class="content">
+            <div id="section1" class="content-section">
+                <p>TEXT 1: We then made a list of things we’d like to have in the project, and discussed what for each of us made something a ‘good’ project. 
+                    We wanted a hook, either something absurd that anchored a larger news story, or something novel in terms of format.</p>
+                     
+                    <p></p>We were all keen on using data to tell stories that had a human impact in some way. Interestingly, we were more set on project format, 
+                    identifying the specific skills that we wanted to develop over the next 12 weeks, than a specific area of research. 
+                    Primarily focusing on this story offered a unique opportunity to collect data where none currently exists, 
+                    with potential to unearth a story that no one else could cover due to a complete lack of data. We knew there would 
+                    be collection challenges, so we immediately set up interviews and meetings to gauge participation interest should we move forward with this proposal.</p>
+    
+                    <p></p>That weekend, we met with climate activists from the Cardiff chapter of Extinction Rebellion, 
+                    who were very keen on collecting this overlooked data. Some members did raise concerns about data protection and privacy, 
+                    which we would need to address to move forward. We understood that we would likely not get participants to submit arrest 
+                    data if we could not assure them it would be secure. This highlighted ethical concerns we would need to discuss with our advisors. 
+                </p>
+            </div>
+            <div id="section2" class="content-section">
+                <p>TEXT 2: We then made a list of things we’d like to have in the project, and discussed what for each of us made something a ‘good’ project. 
+                    We wanted a hook, either something absurd that anchored a larger news story, or something novel in terms of format. 
+                    We were all keen on using data to tell stories that had a human impact in some way. Interestingly, we were more set on project format, 
+                    identifying the specific skills that we wanted to develop over the next 12 weeks, than a specific area of research. </p>
+                    
+                <p> Primarily focusing on this story offered a unique opportunity to collect data where none currently exists, 
+                    with potential to unearth a story that no one else could cover due to a complete lack of data. We knew there would 
+                    be collection challenges, so we immediately set up interviews and meetings to gauge participation interest should we move forward with this proposal.
+                    That weekend, we met with climate activists from the Cardiff chapter of Extinction Rebellion, 
+                    who were very keen on collecting this overlooked data. Some members did raise concerns about data protection and privacy, 
+                    which we would need to address to move forward. We understood that we would likely not get participants to submit arrest 
+                    data if we could not assure them it would be secure. This highlighted ethical concerns we would need to discuss with our advisors. </p>
+            </div>
+            <div id="section3" class="content-section">
+                <p>TEXT 3: We then made a list of things we’d like to have in the project, and discussed what for each of us made something a ‘good’ project. </p>
+    
+                <p>We wanted a hook, either something absurd that anchored a larger news story, or something novel in terms of format. 
+                    We were all keen on using data to tell stories that had a human impact in some way. Interestingly, we were more set on project format, 
+                    identifying the specific skills that we wanted to develop over the next 12 weeks, than a specific area of research. </p>
+    
+                <p>Primarily focusing on this story offered a unique opportunity to collect data where none currently exists, 
+                    with potential to unearth a story that no one else could cover due to a complete lack of data. We knew there would 
+                    be collection challenges, so we immediately set up interviews and meetings to gauge participation interest should we move forward with this proposal.
+                    That weekend, we met with climate activists from the Cardiff chapter of Extinction Rebellion, 
+                    who were very keen on collecting this overlooked data. </p>
+                    
+                <p>Some members did raise concerns about data protection and privacy, 
+                    which we would need to address to move forward. We understood that we would likely not get participants to submit arrest 
+                    data if we could not assure them it would be secure. This highlighted ethical concerns we would need to discuss with our advisors.</p>
+            </div>
+        </div>
+    </div>
+    <script>
+    function showContent(sectionId) {
+        const sections = document.querySelectorAll('.content-section');
+        const subheadings = document.querySelectorAll('.subheading');
+        subheadings.forEach(subheading => {
+            subheading.classList.remove('active-subheading');
+        });
+        sections.forEach(section => {
+            section.style.opacity = '0';
+            section.addEventListener('transitionend', function handler(e) {
+                if (e.propertyName === 'opacity' && section.style.opacity === '0') {
+                    section.style.visibility = 'hidden';
+                    section.removeEventListener('transitionend', handler);
+                }
+            });
+        });
+        setTimeout(() => {
+            sections.forEach((section, index) => {
+                if (section.id === sectionId) {
+                    section.style.visibility = 'visible';
+                    section.style.opacity = '1';
+                    subheadings[index].classList.add('active-subheading');
+                }
+            });
+        }, 500);
+    }
+    document.addEventListener('DOMContentLoaded', function() {
+        showContent('section1');
+    });
+    </script>
+</body>
+</html>
