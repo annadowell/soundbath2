@@ -191,13 +191,21 @@ map.on('load', () => {
                 'data': geojsonData
             });
 
-            // Define a heatmap layer to visualize rainfall intensity.
+// Define a heatmap layer to visualize rainfall intensity.
             map.addLayer({
                 'id': 'rainfall-heat',
                 'type': 'heatmap',
                 'source': 'rainfall-data',
-                'maxzoom': 9,
+                'maxzoom': 20,
                 'paint': {
+                    // 'heatmap-weight': {
+                    //     property: 'rainfall',
+                    //     type: 'exponential',
+                    //     stops: [
+                    //         [0,0],
+                    //         [1,1]
+                    //     ]
+                    // },
                     'heatmap-weight': [
                         'interpolate',
                         ['linear'],
@@ -207,54 +215,42 @@ map.on('load', () => {
                         1,
                         1
                     ],
-                    'heatmap-intensity': [
-                        'interpolate',
-                        ['linear'],
-                        ['zoom'],
-                        0,
-                        1,
-                        9,
-                        3
-                    ],
+                    'heatmap-intensity': {
+                        stops: [
+                          [12, 1],
+                          [15, 3]
+                        ]
+                    },
                     'heatmap-color': [
                         'interpolate',
                         ['linear'],
                         ['heatmap-density'],
                         0,
                         'rgba(33,102,172,0)',
-                        0.2,
-                        'rgba(172, 159, 219, 0.8)',
-                        0.4,
+                        0.1,
                         'rgba(142, 120, 217, 0.8)',
-                        0.6,
+                        0.4,
                         'rgba(116, 86, 218, 0.8)',
-                        0.8,
+                        0.6,
                         'rgba(92, 56, 214, 0.8)',
-                        1,
+                        0.8,
                         'rgba(48, 0, 208, 0.8)'
                     ],
-                    'heatmap-radius': [
-                        'interpolate',
-                        ['linear'],
-                        ['zoom'],
-                        0,
-                        2,
-                        10,
-                        30,
-                        14,
-                        800
-                    ],
-                    'heatmap-opacity': [
-                        'interpolate',
-                        ['linear'],
-                        ['zoom'],
-                        7,
-                        1,
-                        10,
-                        1,
-                        14,
-                        0
-                    ]
+                    'heatmap-radius': {
+                        stops: [
+                          [1,1],
+                          [5,20],
+                          [7,45],
+                          [9,85]
+                        ]
+                    },
+                    'heatmap-opacity': {
+                        default: 1,
+                        stops: [
+                          [12, 1],
+                          [20,0]
+                        ]
+                      }
                 }
             });
 
@@ -263,39 +259,48 @@ map.on('load', () => {
               'id': 'rainfall-point',
               'type': 'circle',
               'source': 'rainfall-data',
-              'minzoom': 7,
+              'minzoom': 12,
               'paint': {
-                  'circle-radius': [
-                      'interpolate',
-                      ['linear'],
-                      ['zoom'],
-                      7,
-                      ['interpolate', ['linear'], ['to-number', ['get', 'rainfall'], 0], 0, 1, 10, 10],
-                      16,
-                      ['interpolate', ['linear'], ['to-number', ['get', 'rainfall'], 0], 0, 5, 10, 50]
-                  ],
+                  'circle-radius': {
+                    property: 'rainfall',
+                    type: 'exponential',
+                    stops: [
+                        [{ zoom: 12, value: 0.25 }, 5],
+                        [{ zoom: 13, value: 0.5 }, 10],
+                        [{ zoom: 14, value: 0.75 }, 15],
+                        [{ zoom: 15, value: 1 }, 20]
+                    ]
+                  },
                   'circle-color': [
-                      'interpolate',
-                      ['linear'],
-                      ['to-number', ['get', 'rainfall'], 0],
-                      0,
-                      'rgba(33,102,172,0)',
-                      .8,
-                      'rgb(103,169,207)',
-                      3,
-                      'rgb(178,24,43)'
+                    // property: 'rainfall',
+                    // type: 'exponential',
+                    // stops: [
+                    //     [0, 'rgba(33,102,172,0)'],
+                    //     // [0.5, 'rgb(103,169,207)'],
+                    //     // [1, 'rgb(178,24,43)']
+                    // ]
+                    'interpolate',
+                        ['linear'],
+                        ['heatmap-density'],
+                        0,
+                        'rgba(33,102,172,0)',
+                        0.2,
+                        'rgba(142, 120, 217, 0.8)',
+                        0.4,
+                        'rgba(116, 86, 218, 0.8)',
+                        0.7,
+                        'rgba(92, 56, 214, 0.8)',
+                        0.8,
+                        'rgba(48, 0, 208, 0.8)'
                   ],
                   'circle-stroke-color': 'white',
                   'circle-stroke-width': 1,
-                  'circle-opacity': [
-                      'interpolate',
-                      ['linear'],
-                      ['zoom'],
-                      8,
-                      1,
-                      22,
-                      1
-                  ]
+                  'circle-opacity': {
+                    stops: [
+                      [14, 0],
+                      [15, 1]
+                    ]
+                  }
               }
           });
 
