@@ -106,17 +106,17 @@ let geojsonData;
 
 
 // log scale starts here
-function mapRainfallLogarithmically(rainfall) {
-    if (rainfall > 2) {
-        return 7;
-    } else if (rainfall >= 0.01) {
-        const logBase = Math.log(2) - Math.log(0.01); // This is the scale factor
-        const adjustedLog = Math.log(rainfall) - Math.log(0.01);
-        return 7 * (adjustedLog / logBase);
-    } else {
-        return 0; // Assuming values below 0.01 should be treated as 0
-    }
-}
+// function mapRainfallLogarithmically(rainfall) {
+//     if (rainfall > 2) {
+//         return 7;
+//     } else if (rainfall >= 0.01) {
+//         const logBase = Math.log(2) - Math.log(0.01); // This is the scale factor
+//         const adjustedLog = Math.log(rainfall) - Math.log(0.01);
+//         return 7 * (adjustedLog / logBase);
+//     } else {
+//         return 0; // Assuming values below 0.01 should be treated as 0
+//     }
+// }
 // log scale ends here
 
 function updateAverageRainfall() {
