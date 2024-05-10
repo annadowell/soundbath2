@@ -136,9 +136,6 @@ function updateAverageRainfall() {
     visibleFeatures.forEach(feature => {
         let rainfall = parseFloat(feature.properties.rainfall);
         let country_code = feature.properties.country_code;
-        
-        // Apply the logarithmic mapping to the rainfall value
-        // rainfall = mapRainfallLogarithmically(rainfall);
 
         // Ensure country code is defined and rainfall is processed.
         if (!isNaN(rainfall) && country_code !== undefined) {
@@ -152,18 +149,16 @@ function updateAverageRainfall() {
 
     let averageRainfall = (visibleFeatures.length > 0) ? (totalRainfall / visibleFeatures.length).toFixed(2) : 'N/A';
 
+    // Prepare the rainfall data as an array of floats.
     let rainfall = rainfallAndCountryCodes.split(/\s+/).map(s => parseFloat(s));
 
+    // Append the specific array `[0, 1, 0, 2, 0, 3]` to the rainfall data.
+    rainfall.push(0, 1, 0, 2, 0, 3);
 
-        // If no stations are visible, send the specified string instead of NaN
-    if (visibleFeatures.length === 0) {
-        rainfall = [0, 1, 0, 2, 0, 3];
-    }
-    
-    // Send the message event to the RNBO device 
+    // Send the message event to the RNBO device.
     let messageEvent = new RNBO.MessageEvent(RNBO.TimeNow, "Data", rainfall);
     device.scheduleEvent(messageEvent);
-    
+
     console.log("Data sent to RNBO:", rainfall);
 
     // Update the HTML content.
