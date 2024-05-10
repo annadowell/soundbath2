@@ -266,7 +266,7 @@ E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 288504TP,0.0,51.349274,0.009666,England,London Borough of Bromley,0.07,0,1
 269627TP,0.0,51.345161,-1.239706,England,Hampshire,0.07,0.07,1
 596791,0.0,54.843273,-3.064299,England,Cumberland,0.07,0.07,1
-259110TP,0.1,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
+259110TP,0.0,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
 E15500,0.0,51.435174,0.135731,England,London Borough of Bexley,0.07,0,1
 564160,0.0,53.381621,-2.570469,England,Warrington,0.07,0.05,1
 1760,0.0,52.140634,-1.974376,England,Worcestershire,0.07,0.14,1
@@ -562,7 +562,7 @@ E1300,0.0,51.141861,-0.009362,England,Surrey,0.07,0,1
 E1908,0.0,53.316679,-0.344986,England,Lincolnshire,0.07,0,1
 1552,0.0,52.541438,-2.193841,England,Staffordshire,0.07,0.14,1
 3380,0.0,53.405172,-1.738982,England,Derbyshire,0.07,0.07,1
-E5728,0.0,52.651369,0.565622,England,Norfolk,0.07,0,1
+E5728,0.1,52.651369,0.565622,England,Norfolk,0.07,0,1
 E2578,0.0,52.890974,-0.512865,England,Lincolnshire,0.07,0,1
 E4090,0.0,51.297928,1.053239,England,Kent,0.07,0.01,1
 68762,0.0,54.368186,-0.974109,England,North Yorkshire,0.07,0.06,1
@@ -783,7 +783,7 @@ E21602,0.0,51.733425,0.429285,England,Essex,0.07,0,1
 E8743,,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 E8743,0.0,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 3571,0.0,53.105132,-2.154547,England,Staffordshire,0.07,0.14,1
-E5723,0.0,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
+E5723,0.1,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
 E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 34091,0.0,54.596104,-1.039588,England,Redcar and Cleveland,0.07,0,1
 575335,,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
@@ -909,7 +909,7 @@ E7260,0.0,50.8635,0.56711,England,East Sussex,0.07,0,1
 46167,0.0,50.592206,-3.717163,England,Devon,0.07,0.14,1
 E7190,,50.811276,0.219288,England,East Sussex,0.07,0,1
 E7190,,50.811276,0.219288,England,East Sussex,0.07,0,1
-588886,0.1,54.136092,-3.238939,England,Westmorland and Furness,0.07,0.16,1
+588886,0.0,54.136092,-3.238939,England,Westmorland and Furness,0.07,0.16,1
 45184,0.0,50.728619,-3.475599,England,Devon,0.07,0.14,1
 45108_,0.0,50.884946,-3.487642,England,Devon,0.07,0.14,1
 E1711,,51.142735,0.09504,England,Kent,0.07,0.01,1
