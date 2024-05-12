@@ -999,7 +999,7 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 62916,,53.911915,-1.662765,England,North Yorkshire,0.07,0.06,1
 574786,0.0,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
 1772,0.0,51.793782,-2.615455,England,Gloucestershire,0.07,0.1,1
-3339,0.1,52.55502,-1.878268,England,Birmingham,0.07,0.05,1
+3339,0.0,52.55502,-1.878268,England,Birmingham,0.07,0.05,1
 592850,0.0,54.548496,-3.06434,England,Cumberland,0.07,0.07,1
 75497,0.0,53.815189,-1.823015,England,Bradford,0.07,0.1,1
 585160,0.0,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
@@ -1014,7 +1014,7 @@ NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
 E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
-3340,0.1,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
+3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
@@ -1034,7 +1034,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115500,0.0,55.66964373,-4.413260863,Scotland,East Ayrshire,0.08,0.11,2
 115501,0.0,55.35009103,-5.717857841,Scotland,Argyll and Bute,0.08,0.15,2
 15198,0.0,56.06640057,-3.371633207,Scotland,Fife,0.08,0,2
-115506,0.0,55.66308049,-4.757486092,Scotland,North Ayrshire,0.08,0,2
+115506,0.05,55.66308049,-4.757486092,Scotland,North Ayrshire,0.08,0,2
 491811,0.0,57.22063972,-3.651932222,Scotland,Highland,0.08,0.08,2
 15163,0.0,56.11221933,-4.342412217,Scotland,Stirling,0.08,0,2
 14964,0.0,56.31678388,-4.112254665,Scotland,Perth and Kinross,0.08,0,2
