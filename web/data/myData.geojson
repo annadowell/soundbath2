@@ -81,7 +81,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -95,7 +95,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -109,7 +109,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -668,7 +668,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -737,7 +737,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -849,7 +849,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.779",
+                "rainfall": "0.309",
                 "country_code": 1
             }
         },
@@ -891,7 +891,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -1310,7 +1310,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.532",
+                "rainfall": "0.558",
                 "country_code": 1
             }
         },
@@ -1352,7 +1352,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.151",
+                "rainfall": "0.105",
                 "country_code": 1
             }
         },
@@ -1464,7 +1464,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.369",
+                "rainfall": "0.226",
                 "country_code": 1
             }
         },
@@ -1548,7 +1548,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -1645,7 +1645,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.756",
+                "rainfall": "0.559",
                 "country_code": 1
             }
         },
@@ -1728,7 +1728,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -1784,7 +1784,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -1812,7 +1812,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -1854,7 +1854,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -1980,7 +1980,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.3",
                 "country_code": 1
             }
         },
@@ -2106,7 +2106,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -2120,7 +2120,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -2204,7 +2204,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -2260,7 +2260,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -2358,7 +2358,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -2400,7 +2400,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.067",
+                "rainfall": "0.078",
                 "country_code": 1
             }
         },
@@ -2442,7 +2442,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -2567,7 +2567,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.629",
+                "rainfall": "0.394",
                 "country_code": 1
             }
         },
@@ -2665,7 +2665,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -2679,7 +2679,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.7",
                 "country_code": 1
             }
         },
@@ -2707,7 +2707,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -2805,7 +2805,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -2917,7 +2917,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -2945,7 +2945,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -3043,7 +3043,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -3239,7 +3239,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -3281,7 +3281,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.3",
                 "country_code": 1
             }
         },
@@ -3572,7 +3572,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.792",
+                "rainfall": "0.494",
                 "country_code": 1
             }
         },
@@ -3614,7 +3614,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -3656,7 +3656,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -3684,7 +3684,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -3712,7 +3712,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -3782,7 +3782,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -3838,7 +3838,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -3964,7 +3964,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -4006,7 +4006,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.0",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -4076,7 +4076,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -4188,7 +4188,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.8",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -4356,7 +4356,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.852",
+                "rainfall": "0.601",
                 "country_code": 1
             }
         },
@@ -4398,7 +4398,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -4468,7 +4468,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -4482,7 +4482,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -4720,7 +4720,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -4790,7 +4790,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -4818,7 +4818,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -4860,7 +4860,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -4958,7 +4958,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -5028,7 +5028,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -5167,7 +5167,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -5363,7 +5363,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -5377,7 +5377,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -5419,7 +5419,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -5460,7 +5460,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -5474,7 +5474,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -5516,7 +5516,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6118,7 +6118,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.3",
                 "country_code": 1
             }
         },
@@ -6272,7 +6272,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -6286,7 +6286,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6300,7 +6300,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6342,7 +6342,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6412,7 +6412,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.5",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -6454,7 +6454,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6608,7 +6608,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -6650,7 +6650,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -6748,7 +6748,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.7",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -6762,7 +6762,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.218",
+                "rainfall": "0.331",
                 "country_code": 1
             }
         },
@@ -6776,7 +6776,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.5",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6818,7 +6818,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -6874,7 +6874,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -6888,7 +6888,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -7097,7 +7097,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -7167,7 +7167,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -7279,7 +7279,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -7307,7 +7307,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -7349,7 +7349,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -7363,7 +7363,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.553",
+                "rainfall": "0.365",
                 "country_code": 1
             }
         },
@@ -7377,7 +7377,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -7475,7 +7475,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.159",
+                "rainfall": "0.213",
                 "country_code": 1
             }
         },
@@ -7559,7 +7559,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.789",
+                "rainfall": "0.838",
                 "country_code": 1
             }
         },
@@ -7671,7 +7671,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -7769,7 +7769,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -7853,7 +7853,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -8007,7 +8007,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.7",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -8287,7 +8287,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.212",
+                "rainfall": "0.655",
                 "country_code": 1
             }
         },
@@ -8427,7 +8427,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -8609,7 +8609,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.3",
                 "country_code": 1
             }
         },
@@ -8665,7 +8665,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -8805,7 +8805,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -8903,7 +8903,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.74",
+                "rainfall": "0.62",
                 "country_code": 1
             }
         },
@@ -9336,7 +9336,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -9406,7 +9406,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.476",
+                "rainfall": "0.233",
                 "country_code": 1
             }
         },
@@ -9434,7 +9434,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.2",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -9546,7 +9546,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.418",
+                "rainfall": "0.361",
                 "country_code": 1
             }
         },
@@ -9588,7 +9588,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.8",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -9602,7 +9602,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -9630,7 +9630,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.327",
+                "rainfall": "0.274",
                 "country_code": 1
             }
         },
@@ -9714,7 +9714,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -9980,7 +9980,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.338",
+                "rainfall": "0.294",
                 "country_code": 1
             }
         },
@@ -10120,7 +10120,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -10204,7 +10204,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -10232,7 +10232,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -10358,7 +10358,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.384",
+                "rainfall": "0.75",
                 "country_code": 1
             }
         },
@@ -10456,7 +10456,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.7",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -10666,7 +10666,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -10749,7 +10749,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -10888,7 +10888,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.477",
+                "rainfall": "0.448",
                 "country_code": 1
             }
         },
@@ -11096,7 +11096,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.8",
+                "rainfall": "0.5",
                 "country_code": 1
             }
         },
@@ -11110,7 +11110,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.6",
+                "rainfall": "0.8",
                 "country_code": 1
             }
         },
@@ -11124,7 +11124,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -11166,7 +11166,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.7",
+                "rainfall": "0.9",
                 "country_code": 1
             }
         },
@@ -11348,7 +11348,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.088",
+                "rainfall": "0.19",
                 "country_code": 1
             }
         },
@@ -11460,7 +11460,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -11488,7 +11488,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -11794,7 +11794,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -11933,7 +11933,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.3",
                 "country_code": 1
             }
         },
@@ -12059,7 +12059,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -12073,7 +12073,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -12143,7 +12143,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.149",
+                "rainfall": "0.053",
                 "country_code": 1
             }
         },
@@ -12185,7 +12185,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -12479,7 +12479,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -12647,7 +12647,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -12784,7 +12784,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -12839,7 +12839,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -13290,7 +13290,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -13401,7 +13401,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -13415,7 +13415,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.0",
                 "country_code": 1
             }
         },
@@ -13470,7 +13470,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.5",
+                "rainfall": "0.4",
                 "country_code": 1
             }
         },
@@ -13716,7 +13716,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -13948,7 +13948,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.5",
+                "rainfall": "0.8",
                 "country_code": 1
             }
         },
@@ -13962,7 +13962,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -14004,7 +14004,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.7",
                 "country_code": 1
             }
         },
@@ -14058,7 +14058,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 1
             }
         },
@@ -14127,7 +14127,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.5",
+                "rainfall": "0.6",
                 "country_code": 1
             }
         },
@@ -14182,7 +14182,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.2",
                 "country_code": 1
             }
         },
@@ -14302,7 +14302,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.331",
+                "rainfall": "0.464",
                 "country_code": 1
             }
         },
@@ -14386,7 +14386,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.05",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -14400,7 +14400,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -14428,7 +14428,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.1",
+                "rainfall": "0.0",
                 "country_code": 2
             }
         },
@@ -14554,7 +14554,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -14596,7 +14596,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -14708,7 +14708,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.05",
+                "rainfall": "0.0",
                 "country_code": 2
             }
         },
@@ -14820,7 +14820,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.35",
+                "rainfall": "0.15",
                 "country_code": 2
             }
         },
@@ -15002,7 +15002,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.35",
+                "rainfall": "0.3",
                 "country_code": 2
             }
         },
@@ -15156,7 +15156,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.25",
+                "rainfall": "0.3",
                 "country_code": 2
             }
         },
@@ -15198,7 +15198,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.45",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -15240,7 +15240,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.05",
                 "country_code": 2
             }
         },
@@ -15268,7 +15268,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.25",
+                "rainfall": "0.35",
                 "country_code": 2
             }
         },
@@ -15534,7 +15534,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.05",
+                "rainfall": "0.15",
                 "country_code": 2
             }
         },
@@ -15800,7 +15800,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.35",
+                "rainfall": "0.4",
                 "country_code": 2
             }
         },
@@ -15842,7 +15842,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.15",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -15996,7 +15996,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.15",
+                "rainfall": "0.05",
                 "country_code": 2
             }
         },
@@ -16206,7 +16206,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.45",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -16220,7 +16220,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.25",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16262,7 +16262,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.05",
                 "country_code": 2
             }
         },
@@ -16556,7 +16556,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -16570,7 +16570,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16598,7 +16598,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.25",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16626,7 +16626,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -16654,7 +16654,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.05",
+                "rainfall": "0.15",
                 "country_code": 2
             }
         },
@@ -16696,7 +16696,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.05",
                 "country_code": 2
             }
         },
@@ -16724,7 +16724,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16766,7 +16766,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.05",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16864,7 +16864,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.0",
+                "rainfall": "0.05",
                 "country_code": 2
             }
         },
@@ -16948,7 +16948,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.85",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16962,7 +16962,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.35",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -16990,7 +16990,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.2",
                 "country_code": 2
             }
         },
@@ -17256,7 +17256,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -17326,7 +17326,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.3",
+                "rainfall": "0.5",
                 "country_code": 2
             }
         },
@@ -17634,7 +17634,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.35",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -17886,7 +17886,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "0.3",
                 "country_code": 2
             }
         },
@@ -17900,7 +17900,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.15",
+                "rainfall": "0.25",
                 "country_code": 2
             }
         },
@@ -17956,7 +17956,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "29.05",
+                "rainfall": "0.0",
                 "country_code": 2
             }
         },
@@ -17998,7 +17998,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.15",
+                "rainfall": "0.1",
                 "country_code": 2
             }
         },
@@ -18124,7 +18124,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.4",
                 "country_code": 3
             }
         },
@@ -18194,7 +18194,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.6",
+                "rainfall": "1.8",
                 "country_code": 3
             }
         },
@@ -18250,7 +18250,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.8",
+                "rainfall": "0.6",
                 "country_code": 3
             }
         },
@@ -18334,7 +18334,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.0",
+                "rainfall": "0.8",
                 "country_code": 3
             }
         },
@@ -18502,7 +18502,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.8",
+                "rainfall": "2.0",
                 "country_code": 3
             }
         },
@@ -18544,7 +18544,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.0",
                 "country_code": 3
             }
         },
@@ -18558,7 +18558,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.6",
+                "rainfall": "1.2",
                 "country_code": 3
             }
         },
@@ -18586,7 +18586,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.0",
+                "rainfall": "1.2",
                 "country_code": 3
             }
         },
@@ -18614,7 +18614,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "2.0",
+                "rainfall": "1.6",
                 "country_code": 3
             }
         },
@@ -18684,7 +18684,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.6",
                 "country_code": 3
             }
         },
@@ -18698,7 +18698,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.2",
                 "country_code": 3
             }
         },
@@ -18712,7 +18712,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.6",
+                "rainfall": "1.8",
                 "country_code": 3
             }
         },
@@ -18726,7 +18726,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.2",
                 "country_code": 3
             }
         },
@@ -18922,7 +18922,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.0",
                 "country_code": 3
             }
         },
@@ -18936,7 +18936,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "2.0",
+                "rainfall": "1.8",
                 "country_code": 3
             }
         },
@@ -19146,7 +19146,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.0",
                 "country_code": 3
             }
         },
@@ -19188,7 +19188,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.0",
                 "country_code": 3
             }
         },
@@ -19286,7 +19286,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "1.4",
+                "rainfall": "1.6",
                 "country_code": 3
             }
         },
@@ -19566,7 +19566,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.2",
+                "rainfall": "0.4",
                 "country_code": 3
             }
         },
@@ -19594,7 +19594,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.4",
                 "country_code": 3
             }
         },
@@ -19678,7 +19678,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.6",
+                "rainfall": "0.8",
                 "country_code": 3
             }
         },
