@@ -39,7 +39,6 @@ def get_rainfall_data_eng():
         return eng_data['items']
     return []
 
-
 # Function to fetch station data with coordinates for Scotland
 def get_scotland_rainfall_data(base_url):
     # Fetch the list of stations
@@ -180,36 +179,37 @@ with open(filename, mode='w', newline='', encoding='utf-8') as file:
 
 # Update the GeoJSON data with rainfall data from the CSV
 csv_file_path = '../web/data/coordinates_rainfall_data.csv'
-geojson_file_path = '../web/data/myData.geojson'
+# geojson_file_path = '../web/data/myData.geojson'
 
 # Read the updated CSV data
 with open(csv_file_path, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     csv_data = [row for row in reader]
 
-# Load the GeoJSON data
-with open(geojson_file_path) as geojson_file:
-    geojson_data = json.load(geojson_file)
+# Create a new GeoJSON data structure
+geojson_data = {
+    "type": "FeatureCollection",
+    "features": []
+}
 
-update_count = 0
+# Iterate through CSV data and populate GeoJSON
 for csv_row in csv_data:
-    for index, feature in enumerate(geojson_data['features']):
-        if coords_match(feature, csv_row):
-            # Update both rainfall and country code properties in one line
-            feature['properties'].update({
-                'rainfall': csv_row['rainfall_mm'],
-                'country_code': int(csv_row['country_code'])  # Convert to integer if necessary
-            })
-            update_count += 1
-            print(f"Updated GeoJSON Feature at Index {index} with Rainfall {csv_row['rainfall_mm']} and Country Code {csv_row['country_code']}")
-            break  # Stop looking once we've found the matching feature
+    feature = {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [float(csv_row['long']), float(csv_row['lat'])]
+        },
+        "properties": {
+            "rainfall": csv_row['rainfall_mm'],
+            "country_code": int(csv_row['country_code'])
+        }
+    }
+    geojson_data["features"].append(feature)
 
+# Save the GeoJSON data to a new file
+geojson_file_path = '../web/data/myData.geojson'
+with open(geojson_file_path, 'w') as new_geojson_file:
+    json.dump(geojson_data, new_geojson_file, indent=4)
 
-# Save the updated GeoJSON data
-with open(geojson_file_path, 'w') as geojson_file:
-    json.dump(geojson_data, geojson_file, indent=4)
-
-# Final print statement
-current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-print(f"Data has been updated in both {csv_file_path} and {geojson_file_path}. Current time is {current_time}")
-
+print(f"New GeoJSON file '{geojson_file_path}' created with data from the CSV.")
