@@ -149,8 +149,11 @@ function updateAverageRainfall() {
 
     let averageRainfall = (visibleFeatures.length > 0) ? (totalRainfall / visibleFeatures.length).toFixed(2) : 'N/A';
 
-    // Prepare the rainfall data as an array of floats.
-    let rainfall = rainfallAndCountryCodes.split(/\s+/).map(s => parseFloat(s));
+    // Prepare the rainfall data as an array of floats, filtering out any NaN values.
+    let rainfall = rainfallAndCountryCodes
+        .split(/\s+/)
+        .map(s => parseFloat(s))
+        .filter(value => !isNaN(value));
 
     // Append the specific array `[0, 1, 0, 2, 0, 3]` to the rainfall data.
     rainfall.push(0, 1, 0, 2, 0, 3);
@@ -160,7 +163,10 @@ function updateAverageRainfall() {
     device.scheduleEvent(messageEvent);
 
     console.log("Data sent to RNBO:", rainfall);
-
+    
+    // Log only the data that is currently being visualized.
+    console.log("Currently visualized data:", visibleFeatures);
+    
     // Update the HTML content.
     document.getElementById('info').innerHTML = 'Average Rainfall: ' + averageRainfall + ' mm<br>' +
                                                 'Total Rainfall: ' + totalRainfall.toFixed(2) + ' mm<br>' +
@@ -175,10 +181,11 @@ function updateAverageRainfall() {
 
 
 
+
 // Event handler for the 'load' event of the map.
 map.on('load', () => {
     // Fetch GeoJSON data asynchronously from a URL.
-    fetch("https://raw.githubusercontent.com/annadowell/soundbath2/main/web/data/myData.geojson")
+    fetch("https://raw.githubusercontent.com/muimran/betatesting_soundbath/main/web/data/myData.geojson")
         .then(response => response.json()) // Parse the fetched data as JSON.
         .then(data => {
             geojsonData = data; // Store the parsed GeoJSON data.
@@ -252,32 +259,25 @@ map.on('load', () => {
                 }
             });
 
-            // Define a circle layer to represent individual points of rainfall data visually.
+    // Define a circle layer to represent individual points of rainfall data visually.
             map.addLayer({
-              'id': 'rainfall-point',
-              'type': 'circle',
-              'source': 'rainfall-data',
-              'minzoom': 12,
-              'paint': {
-                  'circle-radius': {
-                    property: 'rainfall',
-                    type: 'exponential',
-                    stops: [
-                        [{ zoom: 12, value: 0.25 }, 5],
-                        [{ zoom: 13, value: 0.5 }, 10],
-                        [{ zoom: 14, value: 0.75 }, 15],
-                        [{ zoom: 15, value: 1 }, 20]
-                    ]
-                  },
-                  'circle-color': [
-                    // property: 'rainfall',
-                    // type: 'exponential',
-                    // stops: [
-                    //     [0, 'rgba(33,102,172,0)'],
-                    //     // [0.5, 'rgb(103,169,207)'],
-                    //     // [1, 'rgb(178,24,43)']
-                    // ]
-                    'interpolate',
+                'id': 'rainfall-point',
+                'type': 'circle',
+                'source': 'rainfall-data',
+                'minzoom': 12,
+                'paint': {
+                    'circle-radius': {
+                        property: 'rainfall',
+                        type: 'exponential',
+                        stops: [
+                            [{ zoom: 12, value: 0.25 }, 5],
+                            [{ zoom: 13, value: 0.5 }, 10],
+                            [{ zoom: 14, value: 0.75 }, 15],
+                            [{ zoom: 15, value: 1 }, 20]
+                        ]
+                    },
+                    'circle-color': [
+                        'interpolate',
                         ['linear'],
                         ['heatmap-density'],
                         0,
@@ -290,17 +290,22 @@ map.on('load', () => {
                         'rgba(92, 56, 214, 0.8)',
                         0.8,
                         'rgba(48, 0, 208, 0.8)'
-                  ],
-                  'circle-stroke-color': 'white',
-                  'circle-stroke-width': 1,
-                  'circle-opacity': {
-                    stops: [
-                      [14, 0],
-                      [15, 1]
-                    ]
-                  }
-              }
-          });
+                    ],
+                    'circle-stroke-color': 'white',
+                    'circle-stroke-width': 1,
+                    'circle-opacity': {
+                        stops: [
+                            [14, 0],
+                            [15, 1]
+                        ]
+                    }
+                },
+                'filter': [
+                    'all',
+                    ['>', ['to-number', ['get', 'rainfall'], 0], 0], // Filter out zero rainfall values
+                    ['has', 'country_code'] // Include only features with a country code
+                ]
+            });
 
             // Initialize and update the average rainfall calculation.
             updateAverageRainfall();
