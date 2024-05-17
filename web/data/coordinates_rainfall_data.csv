@@ -88,7 +88,7 @@ E44111,0.0,51.874052,0.368575,England,Essex,0.07,0,1
 E24289,0.0,52.172202,0.251294,England,Cambridgeshire,0.07,0,1
 49149,0.0,50.679797,-4.695684,England,Cornwall,0.07,0.08,1
 E871,0.0,51.274484,0.217164,England,Kent,0.07,0.01,1
-1201,0.8,52.343809,-1.955178,England,Worcestershire,0.07,0.14,1
+1201,0.0,52.343809,-1.955178,England,Worcestershire,0.07,0.14,1
 E7155,0.0,52.645246,-0.420704,England,City of Peterborough,0.07,0,1
 E12560,0.0,51.006173,-1.114132,England,Hampshire,0.07,0.07,1
 82672,0.0,53.324572,-1.539797,England,Sheffield,0.07,0,1
@@ -140,7 +140,7 @@ E7295,0.0,50.814838,0.358583,England,East Sussex,0.07,0,1
 E1613,0.0,53.397417,-0.269659,England,Lincolnshire,0.07,0,1
 E7095,0.0,53.326702,-0.11185,England,Lincolnshire,0.07,0,1
 E24874,0.0,51.906849,1.087118,England,Essex,0.07,0,1
-268851TP,0.1,51.462587,-1.327004,England,West Berkshire,0.07,0.06,1
+268851TP,0.0,51.462587,-1.327004,England,West Berkshire,0.07,0.06,1
 247281TP,0.0,51.67255,-0.366544,England,Hertfordshire,0.07,0,1
 6403,0.0,55.237908,-1.918977,England,Northumberland,0.07,0,1
 1773,0.0,52.222319,-2.17488,England,Worcestershire,0.07,0.14,1
@@ -152,7 +152,7 @@ E14930,0.0,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
 E11120,0.0,50.78281,-0.694221,England,West Sussex,0.07,0.04,1
 1387,0.0,52.424304,-3.172736,England,Shropshire,0.07,0.16,1
 77952,0.0,53.772138,-1.90361,England,Calderdale,0.07,0.13,1
-3998,0.0,53.396184,-0.931457,England,Nottinghamshire,0.07,0,1
+3998,0.4,53.396184,-0.931457,England,Nottinghamshire,0.07,0,1
 E24894,,51.890899,1.212487,England,Essex,0.07,0,1
 554472,0.0,53.169907,-2.103919,England,Staffordshire,0.07,0.14,1
 26297,0.0,54.701508,-1.198486,England,Hartlepool,0.07,0,1
@@ -230,7 +230,7 @@ E25041,0.0,52.786909,-0.264322,England,Lincolnshire,0.07,0,1
 37973,0.0,54.297778,-1.167931,England,North Yorkshire,0.07,0.06,1
 E9360,0.0,50.929113,-0.384184,England,West Sussex,0.07,0.04,1
 E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
-248965TP,0.0,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
+248965TP,0.3,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
@@ -313,7 +313,7 @@ E43041,,51.59932,0.300821,England,Essex,0.07,0,1
 53114,0.0,51.230621,-2.486172,England,Somerset,0.07,0.05,1
 033108NE,0.0,54.543358,-1.201588,England,Middlesbrough,0.07,0,1
 53104,0.0,51.538159,-2.480793,England,South Gloucestershire,0.07,0.07,1
-E13261,0.2,50.788809,-1.033124,England,England,0.07,0,1
+E13261,0.1,50.788809,-1.033124,England,England,0.07,0,1
 50199,0.0,50.873373,-3.798545,England,Devon,0.07,0.14,1
 47159,0.0,50.644847,-4.529589,England,Cornwall,0.07,0.08,1
 36487,0.0,54.408361,-0.754323,England,North Yorkshire,0.07,0.06,1
@@ -573,7 +573,7 @@ E24767,0.0,52.323479,1.278981,England,Suffolk,0.07,0,1
 238097TP,,51.556104,0.161588,England,London Borough of Barking and Dagenham,0.07,0,1
 E13590,0.0,50.953747,-1.533691,England,Hampshire,0.07,0.07,1
 287141TP,0.0,51.362722,-0.209526,England,London Borough of Sutton,0.07,0,1
-39163,0.0,54.100377,-0.208409,England,East Riding of Yorkshire,0.07,0,1
+39163,0.2,54.100377,-0.208409,England,East Riding of Yorkshire,0.07,0,1
 E22218,0.0,52.295794,-0.512351,England,Bedford,0.07,0,1
 E7160,0.0,52.649303,-0.762024,England,Rutland,0.07,0,1
 E10140,0.0,51.023941,-0.551999,England,West Sussex,0.07,0.04,1
@@ -1285,7 +1285,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115247,0.0,57.39918687,-3.44381882,Scotland,Highland,0.08,0.08,2
 506152,0.0,55.24281443,-2.964073002,Scotland,Dumfries and Galloway,0.08,0.3,2
 116007,0.0,56.39271229,-4.463706898,Scotland,Stirling,0.08,0,2
-115406,1.25,57.59399199,-4.374371661,Scotland,Highland,0.08,0.08,2
+115406,6.05,57.59399199,-4.374371661,Scotland,Highland,0.08,0.08,2
 234331,0.0,57.58239454,-3.608335401,Scotland,Moray,0.08,0,2
 369554,0.0,56.89929851,-2.820760629,Scotland,Angus,0.08,0,2
 115660,0.0,55.79484353,-4.353627607,Scotland,Glasgow City,0.08,0,2
