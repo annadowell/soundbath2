@@ -90,7 +90,7 @@ E24289,0.0,52.172202,0.251294,England,Cambridgeshire,0.07,0,1
 E871,0.0,51.274484,0.217164,England,Kent,0.07,0.01,1
 1201,0.0,52.343809,-1.955178,England,Worcestershire,0.07,0.14,1
 E7155,0.0,52.645246,-0.420704,England,City of Peterborough,0.07,0,1
-E12560,0.1,51.006173,-1.114132,England,Hampshire,0.07,0.07,1
+E12560,0.0,51.006173,-1.114132,England,Hampshire,0.07,0.07,1
 82672,0.0,53.324572,-1.539797,England,Sheffield,0.07,0,1
 52224,0.0,51.173877,-2.508462,England,Somerset,0.07,0.05,1
 E24935,0.0,51.702642,0.87633,England,Essex,0.07,0,1
@@ -537,7 +537,7 @@ E8500,0.0,51.066083,-0.159624,England,West Sussex,0.07,0.04,1
 E7120,,53.38716,-0.184362,England,Lincolnshire,0.07,0,1
 E4080,0.0,51.258867,1.033447,England,Kent,0.07,0.01,1
 287451TP,0.0,51.308021,-0.16144,England,Surrey,0.07,0,1
-E12160,0.0,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
+E12160,0.3,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
 53106,0.0,51.474338,-2.127367,England,Wiltshire,0.07,0.04,1
 52225,0.0,51.260327,-2.806074,England,Somerset,0.07,0.05,1
 265038TP,0.0,51.543602,-1.343114,England,West Berkshire,0.07,0.06,1
@@ -571,7 +571,7 @@ E24767,0.0,52.323479,1.278981,England,Suffolk,0.07,0,1
 240470TP,0.0,51.775264,-0.196143,England,Hertfordshire,0.07,0,1
 243679TP,,51.805204,0.20975,England,Essex,0.07,0,1
 238097TP,,51.556104,0.161588,England,London Borough of Barking and Dagenham,0.07,0,1
-E13590,0.0,50.953747,-1.533691,England,Hampshire,0.07,0.07,1
+E13590,0.1,50.953747,-1.533691,England,Hampshire,0.07,0.07,1
 287141TP,0.0,51.362722,-0.209526,England,London Borough of Sutton,0.07,0,1
 39163,0.0,54.100377,-0.208409,England,East Riding of Yorkshire,0.07,0,1
 E22218,0.0,52.295794,-0.512351,England,Bedford,0.07,0,1
@@ -740,7 +740,7 @@ E24952,0.0,51.743647,0.324082,England,Essex,0.07,0,1
 10660,0.0,55.320859,-2.396284,England,Northumberland,0.07,0,1
 E24591,0.0,52.345564,0.484737,England,Suffolk,0.07,0,1
 43103,,51.164146,-1.894828,England,Wiltshire,0.07,0.04,1
-287946TP,8.9,51.415955,-0.162865,England,London Borough of Merton,0.07,0,1
+287946TP,0.0,51.415955,-0.162865,England,London Borough of Merton,0.07,0,1
 E2050,0.0,51.098285,0.395836,England,Kent,0.07,0.01,1
 E2040,0.0,51.138337,0.459382,England,Kent,0.07,0.01,1
 45167,0.0,50.908664,-3.226683,England,Devon,0.07,0.14,1
