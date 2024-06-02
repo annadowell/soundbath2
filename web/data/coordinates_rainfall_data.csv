@@ -230,7 +230,7 @@ E25041,0.0,52.786909,-0.264322,England,Lincolnshire,0.07,0,1
 37973,0.0,54.297778,-1.167931,England,North Yorkshire,0.07,0.06,1
 E9360,0.0,50.929113,-0.384184,England,West Sussex,0.07,0.04,1
 E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
-248965TP,0.0,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
+248965TP,0.1,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
@@ -266,7 +266,7 @@ E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 288504TP,0.0,51.349274,0.009666,England,London Borough of Bromley,0.07,0,1
 269627TP,0.0,51.345161,-1.239706,England,Hampshire,0.07,0.07,1
 596791,0.0,54.843273,-3.064299,England,Cumberland,0.07,0.07,1
-259110TP,0.0,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
+259110TP,0.1,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
 E15500,0.0,51.435174,0.135731,England,London Borough of Bexley,0.07,0,1
 564160,0.0,53.381621,-2.570469,England,Warrington,0.07,0.05,1
 1760,0.0,52.140634,-1.974376,England,Worcestershire,0.07,0.14,1
@@ -797,7 +797,7 @@ E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 1761,0.0,52.051393,-1.762976,England,Gloucestershire,0.07,0.1,1
 3775,0.0,53.07731,-1.190151,England,Nottinghamshire,0.07,0,1
 1112,,51.684691,-2.162673,England,Gloucestershire,0.07,0.1,1
-600140,0.0,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
+600140,0.1,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
 48169,0.0,50.191057,-5.514391,England,Cornwall,0.07,0.08,1
 53101,0.0,51.602099,-2.455479,England,South Gloucestershire,0.07,0.07,1
 E46331,0.0,53.248384,0.004612,England,Lincolnshire,0.07,0,1
@@ -1196,7 +1196,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 338381,0.0,56.60403394,-2.609495534,Scotland,Angus,0.08,0,2
 133106,0.0,56.01244753,-5.422443562,Scotland,Argyll and Bute,0.08,0.15,2
 234264,0.0,58.17438109,-5.152302768,Scotland,Highland,0.08,0.08,2
-354613,0.0,58.04827715,-4.855312073,Scotland,Highland,0.08,0.08,2
+354613,0.05,58.04827715,-4.855312073,Scotland,Highland,0.08,0.08,2
 115368,0.0,57.73309629,-4.936434641,Scotland,Highland,0.08,0.08,2
 14910,0.0,56.22701614,-4.43624573,Scotland,Stirling,0.08,0,2
 485489,0.1,56.23604254,-4.853369348,Scotland,Argyll and Bute,0.08,0.15,2
