@@ -266,7 +266,7 @@ E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 288504TP,0.0,51.349274,0.009666,England,London Borough of Bromley,0.07,0,1
 269627TP,0.0,51.345161,-1.239706,England,Hampshire,0.07,0.07,1
 596791,0.0,54.843273,-3.064299,England,Cumberland,0.07,0.07,1
-259110TP,0.1,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
+259110TP,0.0,51.886777,-1.156503,England,Oxfordshire,0.07,0.07,1
 E15500,0.0,51.435174,0.135731,England,London Borough of Bexley,0.07,0,1
 564160,0.0,53.381621,-2.570469,England,Warrington,0.07,0.05,1
 1760,0.0,52.140634,-1.974376,England,Worcestershire,0.07,0.14,1
@@ -416,7 +416,7 @@ E37081,0.0,52.84066,1.075753,England,Norfolk,0.07,0,1
 45102,0.0,51.129849,-3.534087,England,Somerset,0.07,0.05,1
 23164,0,54.610418,-1.740626,England,County Durham,0.07,0.05,1
 49105,0.0,50.558792,-4.637937,England,Cornwall,0.07,0.08,1
-16140,0.0,54.960162,-2.160033,England,Northumberland,0.07,0,1
+16140,1.2,54.960162,-2.160033,England,Northumberland,0.07,0,1
 E25051,0.0,53.235003,0.102885,England,Lincolnshire,0.07,0,1
 287864TP,0.0,51.380452,-0.135546,England,London Borough of Sutton,0.07,0,1
 45158,0.0,51.06991,-3.643436,England,Somerset,0.07,0.05,1
@@ -474,7 +474,7 @@ E2544,0.0,52.495753,-0.470258,England,North Northamptonshire,0.07,0,1
 586493,0.0,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
 E21179,0.0,51.636308,0.385069,England,Essex,0.07,0,1
 243045TP,0.0,51.965517,0.147752,England,Essex,0.07,0,1
-558016,0.0,53.24456,-1.997705,England,Cheshire East,0.07,0.14,1
+558016,0.1,53.24456,-1.997705,England,Cheshire East,0.07,0.14,1
 1045,0.0,52.362576,-1.508732,England,Warwickshire,0.07,0.13,1
 E7105,0.0,53.359329,-0.017234,England,Lincolnshire,0.07,0,1
 51729,0.0,54.413883,-1.988402,England,North Yorkshire,0.07,0.06,1
@@ -759,7 +759,7 @@ E5170,0.0,51.117863,1.194265,England,Kent,0.07,0.01,1
 E23440,0.0,52.825263,1.408721,England,Norfolk,0.07,0,1
 E24908,0.0,51.584133,0.637851,England,Essex,0.07,0,1
 39268,0.0,54.04064,-0.241524,England,East Riding of Yorkshire,0.07,0,1
-592464,0.2,54.511299,-3.197753,England,Cumberland,0.07,0.07,1
+592464,0.0,54.511299,-3.197753,England,Cumberland,0.07,0.07,1
 14555,0.0,54.97002,-2.500603,England,Northumberland,0.07,0,1
 1140,,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
 1140,0.0,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
@@ -920,7 +920,7 @@ E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 2705SO,0.0,50.759531,-0.787028,England,West Sussex,0.07,0.04,1
 035024NE,0.0,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
-588006,0.0,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
+588006,0.1,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 270397,0.0,51.44172,-0.937391,England,England,0.07,0,1
 604742,0.0,54.670137,-2.788412,England,Westmorland and Furness,0.07,0.16,1
 46168,0.0,50.680022,-3.738768,England,Devon,0.07,0.14,1
@@ -1006,7 +1006,7 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 14880,0.0,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 540001RG,0.0,51.527809,0.085279,England,Greater London,0.07,0,1
 Egerton1,0.0,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
-605324,0.0,54.583702,-3.237013,England,Cumberland,0.07,0.07,1
+605324,0.1,54.583702,-3.237013,England,Cumberland,0.07,0.07,1
 E60880,0.0,51.164146,-1.894828,England,Wiltshire,0.07,0.04,1
 E85220,0.0,51.037989,-3.736447,England,Devon,0.07,0.14,1
 E82840,0.0,50.626112,-3.907858,England,Devon,0.07,0.14,1
@@ -1203,7 +1203,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 354622,0.0,57.56195723,-7.316740973,Scotland,Western Isles,0.08,0,2
 14898,0.0,56.23425763,-4.25686637,Scotland,Stirling,0.08,0,2
 336847,0.0,57.41478835,-3.691385645,Scotland,Highland,0.08,0.08,2
-509677,0.1,55.78853152,-4.618943233,Scotland,Renfrewshire,0.08,0,2
+509677,0.0,55.78853152,-4.618943233,Scotland,Renfrewshire,0.08,0,2
 473167,0.0,57.71918475,-3.323337879,Scotland,Moray,0.08,0,2
 115611,0.0,54.90352684,-4.18922643,Scotland,Dumfries and Galloway,0.08,0.3,2
 14865,0.0,56.02022484,-2.821888561,Scotland,East Lothian,0.08,0,2
