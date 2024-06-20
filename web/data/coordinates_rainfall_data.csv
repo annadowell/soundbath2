@@ -173,7 +173,7 @@ E24763,0.0,51.949875,-0.766824,England,Buckinghamshire,0.07,0.07,1
 51125,0.0,51.193548,-3.612054,England,Somerset,0.07,0.05,1
 E7780,0.0,50.80213,0.081187,England,East Sussex,0.07,0,1
 43104,0.0,51.220377,-1.669896,England,Wiltshire,0.07,0.04,1
-248332TP,0.0,51.672207,-1.952948,England,Gloucestershire,0.07,0.1,1
+248332TP,1.7,51.672207,-1.952948,England,Gloucestershire,0.07,0.1,1
 3816,0.0,53.130665,-1.23847,England,Nottinghamshire,0.07,0,1
 31555,0.0,54.469846,-1.099639,England,North Yorkshire,0.07,0.06,1
 E1320,0.0,51.202399,0.077705,England,Kent,0.07,0.01,1
@@ -792,7 +792,7 @@ E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 E1716,0.0,52.434206,-0.92251,England,West Northamptonshire,0.07,0.02,1
 40492,0.0,53.6913,-0.031959,England,East Riding of Yorkshire,0.07,0,1
 586898,0.0,54.420696,-2.979342,England,Westmorland and Furness,0.07,0.16,1
-E14430,0.2,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
+E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 45208,0.0,50.850579,-2.888483,England,Somerset,0.07,0.05,1
 1761,0.0,52.051393,-1.762976,England,Gloucestershire,0.07,0.1,1
 3775,0.0,53.07731,-1.190151,England,Nottinghamshire,0.07,0,1
@@ -1034,7 +1034,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115500,0.0,55.66964373,-4.413260863,Scotland,East Ayrshire,0.08,0.11,2
 115501,0.0,55.35009103,-5.717857841,Scotland,Argyll and Bute,0.08,0.15,2
 15198,0.0,56.06640057,-3.371633207,Scotland,Fife,0.08,0,2
-115506,0.0,55.66308049,-4.757486092,Scotland,North Ayrshire,0.08,0,2
+115506,0.1,55.66308049,-4.757486092,Scotland,North Ayrshire,0.08,0,2
 491811,0.0,57.22063972,-3.651932222,Scotland,Highland,0.08,0.08,2
 15163,0.0,56.11221933,-4.342412217,Scotland,Stirling,0.08,0,2
 14964,0.0,56.31678388,-4.112254665,Scotland,Perth and Kinross,0.08,0,2
