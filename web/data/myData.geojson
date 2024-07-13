@@ -18281,7 +18281,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "0.4",
+                "rainfall": "1.0",
                 "country_code": 3
             }
         },
@@ -18309,7 +18309,7 @@
                 ]
             },
             "properties": {
-                "rainfall": "2.8",
+                "rainfall": "4.0",
                 "country_code": 3
             }
         },
