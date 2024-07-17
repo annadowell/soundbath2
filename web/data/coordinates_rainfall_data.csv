@@ -763,7 +763,7 @@ E24908,0.0,51.584133,0.637851,England,Essex,0.07,0,1
 14555,0.0,54.97002,-2.500603,England,Northumberland,0.07,0,1
 1140,,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
 1140,0.0,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
-288092TP,0.0,51.4214,-0.109429,England,London Borough of Croydon,0.07,0,1
+288092TP,0.1,51.4214,-0.109429,England,London Borough of Croydon,0.07,0,1
 44132,0.0,50.658982,-2.415165,England,Dorset,0.07,0.17,1
 3771,0.0,52.948025,-1.088386,England,Nottinghamshire,0.07,0,1
 47112,0.0,50.440912,-4.010253,England,Devon,0.07,0.14,1
@@ -797,7 +797,7 @@ E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 1761,0.0,52.051393,-1.762976,England,Gloucestershire,0.07,0.1,1
 3775,0.0,53.07731,-1.190151,England,Nottinghamshire,0.07,0,1
 1112,,51.684691,-2.162673,England,Gloucestershire,0.07,0.1,1
-600140,0.1,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
+600140,0.0,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
 48169,0.0,50.191057,-5.514391,England,Cornwall,0.07,0.08,1
 53101,0.0,51.602099,-2.455479,England,South Gloucestershire,0.07,0.07,1
 E46331,0.0,53.248384,0.004612,England,Lincolnshire,0.07,0,1
@@ -999,10 +999,10 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 62916,,53.911915,-1.662765,England,North Yorkshire,0.07,0.06,1
 574786,0.0,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
 1772,0.0,51.793782,-2.615455,England,Gloucestershire,0.07,0.1,1
-3339,0.1,52.55502,-1.878268,England,Birmingham,0.07,0.05,1
+3339,0.0,52.55502,-1.878268,England,Birmingham,0.07,0.05,1
 592850,0.0,54.548496,-3.06434,England,Cumberland,0.07,0.07,1
 75497,0.0,53.815189,-1.823015,England,Bradford,0.07,0.1,1
-585160,0.1,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
+585160,0.0,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
 14880,0.0,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 540001RG,0.0,51.527809,0.085279,England,Greater London,0.07,0,1
 Egerton1,0.0,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
