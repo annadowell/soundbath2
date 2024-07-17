@@ -435,7 +435,7 @@ E270,0.0,51.321154,0.447621,England,Kent,0.07,0.01,1
 E42991,0.0,52.558433,1.367321,England,Norfolk,0.07,0,1
 E42981,0.0,52.554012,1.032047,England,Norfolk,0.07,0,1
 E7200,0.0,52.555577,-0.828089,England,Leicestershire,0.07,0,1
-287722TP,0.0,51.344874,-0.103964,England,London Borough of Croydon,0.07,0,1
+287722TP,0.2,51.344874,-0.103964,England,London Borough of Croydon,0.07,0,1
 E14080,0.0,51.252655,-1.256994,England,Hampshire,0.07,0.07,1
 E46061,0.0,53.546796,-0.159424,England,North East Lincolnshire,0.07,0,1
 1740,0.0,52.392235,-1.324715,England,Warwickshire,0.07,0.13,1
@@ -813,7 +813,7 @@ E9660,0.0,50.929364,-0.469557,England,West Sussex,0.07,0.04,1
 53103,0.0,51.530109,-1.896872,England,Wiltshire,0.07,0.04,1
 243543TP,0.0,51.866534,0.247617,England,Essex,0.07,0,1
 E2433,0.0,52.296783,-0.670693,England,North Northamptonshire,0.07,0,1
-286392TP,0.0,51.400709,-0.284238,England,Royal Borough of Kingston upon Thames,0.07,0,1
+286392TP,0.1,51.400709,-0.284238,England,Royal Borough of Kingston upon Thames,0.07,0,1
 78772,0.0,53.552738,-1.824111,England,Kirklees,0.07,0.03,1
 46161,0.0,50.384444,-3.523968,England,Torbay,0.07,0.45,1
 563599,,53.462415,-2.368215,England,Trafford,0.07,0.15,1
@@ -918,7 +918,7 @@ E1711,,51.142735,0.09504,England,Kent,0.07,0.01,1
 E2400,,51.096946,0.544313,England,Kent,0.07,0.01,1
 E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 2705SO,0.0,50.759531,-0.787028,England,West Sussex,0.07,0.04,1
-035024NE,0.2,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
+035024NE,0.0,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 588006,0.0,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 270397,0.0,51.44172,-0.937391,England,England,0.07,0,1
