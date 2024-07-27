@@ -230,7 +230,7 @@ E25041,0.0,52.786909,-0.264322,England,Lincolnshire,0.07,0,1
 37973,0.0,54.297778,-1.167931,England,North Yorkshire,0.07,0.06,1
 E9360,0.0,50.929113,-0.384184,England,West Sussex,0.07,0.04,1
 E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
-248965TP,0.1,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
+248965TP,0.0,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
@@ -692,7 +692,7 @@ E23470,0.0,52.191671,1.4844,England,Suffolk,0.07,0,1
 E1457,0.0,53.275431,-0.63753,England,Lincolnshire,0.07,0,1
 560557,0.0,53.431001,-2.352893,England,Trafford,0.07,0.15,1
 47281,0.0,54.275194,-2.263325,England,North Yorkshire,0.07,0.06,1
-52150,0.1,51.005958,-2.643449,England,Somerset,0.07,0.05,1
+52150,0.0,51.005958,-2.643449,England,Somerset,0.07,0.05,1
 61431,0.0,54.163943,-2.152346,England,North Yorkshire,0.07,0.06,1
 13878,0.0,54.871077,-2.52275,England,Northumberland,0.07,0,1
 291477TP,0.0,51.458979,0.11237,England,London Borough of Bexley,0.07,0,1
@@ -1166,7 +1166,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115585,0.0,54.81170556,-4.166358356,Scotland,Dumfries and Galloway,0.08,0.3,2
 336367,0.0,57.45203372,-4.184715941,Scotland,Highland,0.08,0.08,2
 115230,0.0,56.98569953,-3.500915775,Scotland,Aberdeenshire,0.08,0.02,2
-14926,0.0,56.91121364,-2.914811966,Scotland,Angus,0.08,0,2
+14926,0.1,56.91121364,-2.914811966,Scotland,Angus,0.08,0,2
 115588,0.0,56.2473573,-4.71287133,Scotland,Argyll and Bute,0.08,0.15,2
 367365,0.0,57.2583172,-2.362253256,Scotland,Aberdeenshire,0.08,0.02,2
 115589,0.0,55.58754361,-4.663320263,Scotland,North Ayrshire,0.08,0,2
