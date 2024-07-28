@@ -230,7 +230,7 @@ E25041,0.0,52.786909,-0.264322,England,Lincolnshire,0.07,0,1
 37973,0.0,54.297778,-1.167931,England,North Yorkshire,0.07,0.06,1
 E9360,0.0,50.929113,-0.384184,England,West Sussex,0.07,0.04,1
 E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
-248965TP,0.1,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
+248965TP,0.0,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
@@ -1340,7 +1340,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1044,0.0,51.657853,-3.3975177,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1045,0.0,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1046,0.0,51.48559,-3.2672733,Wales,Cardiff,0.41,0,3
-1047,0.0,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
+1047,0.2,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1048,0.0,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1049,0.0,51.939018,-3.4015996,Wales,Powys,0.41,0.29,3
 1050,0.0,51.577237,-2.8022824,Wales,Monmouthshire,0.41,0.8,3
