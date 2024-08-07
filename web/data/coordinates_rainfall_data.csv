@@ -310,7 +310,7 @@ E37241,0.0,51.94816,0.481622,England,Essex,0.07,0,1
 E37051,0.0,51.732496,0.516133,England,Essex,0.07,0,1
 249744TP,0.0,51.568666,-1.811661,England,Swindon,0.07,0,1
 E43041,,51.59932,0.300821,England,Essex,0.07,0,1
-53114,0.0,51.230621,-2.486172,England,Somerset,0.07,0.05,1
+53114,0.021,51.230621,-2.486172,England,Somerset,0.07,0.05,1
 033108NE,0.0,54.543358,-1.201588,England,Middlesbrough,0.07,0,1
 53104,0.0,51.538159,-2.480793,England,South Gloucestershire,0.07,0.07,1
 E13261,0.0,50.788809,-1.033124,England,England,0.07,0,1
@@ -539,7 +539,7 @@ E4080,0.0,51.258867,1.033447,England,Kent,0.07,0.01,1
 287451TP,0.0,51.308021,-0.16144,England,Surrey,0.07,0,1
 E12160,0.0,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
 53106,0.0,51.474338,-2.127367,England,Wiltshire,0.07,0.04,1
-52225,0.011,51.260327,-2.806074,England,Somerset,0.07,0.05,1
+52225,0.0,51.260327,-2.806074,England,Somerset,0.07,0.05,1
 265038TP,0.0,51.543602,-1.343114,England,West Berkshire,0.07,0.06,1
 598147,,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 417417TP,0.0,51.466604,-0.571144,England,Royal Borough of Windsor and Maidenhead,0.07,0,1
@@ -973,7 +973,7 @@ E42297,0.0,52.061887,0.546282,England,Essex,0.07,0,1
 380002TP,0.0,51.571638,-0.289354,England,London Borough of Brent,0.07,0,1
 551440,0.0,53.276556,-2.854006,England,Cheshire West and Chester,0.07,0.1,1
 564154,0.0,53.497891,-2.499671,England,Wigan,0.07,0.13,1
-463589,0.2,51.758734,-2.612081,England,Gloucestershire,0.07,0.1,1
+463589,0.0,51.758734,-2.612081,England,Gloucestershire,0.07,0.1,1
 E25173,0.0,52.703292,0.697456,England,Norfolk,0.07,0,1
 E48676,0.0,52.307124,1.153055,England,Suffolk,0.07,0,1
 585122,0.0,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
