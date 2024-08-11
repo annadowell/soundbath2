@@ -146,7 +146,7 @@ E24874,0.0,51.906849,1.087118,England,Essex,0.07,0,1
 1773,0.0,52.222319,-2.17488,England,Worcestershire,0.07,0.14,1
 8850,0.0,55.255608,-2.540374,England,Northumberland,0.07,0,1
 13045,0.0,54.742208,-2.378185,England,Westmorland and Furness,0.07,0.16,1
-E14930,0.0,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
+E14930,0.1,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
 1748,0.0,52.481743,-2.579368,England,Shropshire,0.07,0.16,1
 35302,0.0,54.517093,-0.752561,England,North Yorkshire,0.07,0.06,1
 E11120,0.0,50.78281,-0.694221,England,West Sussex,0.07,0.04,1
@@ -471,7 +471,7 @@ E37271,0.0,52.049494,0.452229,England,Essex,0.07,0,1
 589359,0.0,54.342135,-3.21744,England,Westmorland and Furness,0.07,0.16,1
 E2544,0.0,52.495753,-0.470258,England,North Northamptonshire,0.07,0,1
 239579TP,,51.527809,0.085279,England,Greater London,0.07,0,1
-586493,0.4,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
+586493,0.0,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
 E21179,0.0,51.636308,0.385069,England,Essex,0.07,0,1
 243045TP,0.0,51.965517,0.147752,England,Essex,0.07,0,1
 558016,0.0,53.24456,-1.997705,England,Cheshire East,0.07,0.14,1
@@ -1117,7 +1117,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 509196,0.0,56.94652496,-2.21202446,Scotland,Aberdeenshire,0.08,0.02,2
 15180,0.0,55.97221885,-3.954505606,Scotland,North Lanarkshire,0.08,0,2
 365257,0.0,56.45050242,-5.439870612,Scotland,Argyll and Bute,0.08,0.15,2
-234207,0.05,59.10852817,-3.232172832,Scotland,Orkney Islands,0.08,0,2
+234207,0.0,59.10852817,-3.232172832,Scotland,Orkney Islands,0.08,0,2
 568155,0.0,56.07055238,-4.07597911,Scotland,Stirlingshire,0.08,0,2
 115560,0.0,55.75477386,-4.171759227,Scotland,South Lanarkshire,0.08,0,2
 15201,0.0,55.96662337,-3.212310737,Scotland,Scotland,0.08,0,2
@@ -1343,7 +1343,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1047,0.0,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1048,0.0,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1049,0.0,51.939018,-3.4015996,Wales,Powys,0.41,0.29,3
-1050,0.0,51.577237,-2.8022824,Wales,Monmouthshire,0.41,0.8,3
+1050,2.0,51.577237,-2.8022824,Wales,Monmouthshire,0.41,0.8,3
 1051,0.0,51.887655,-3.6229202,Wales,Powys,0.41,0.29,3
 1052,0.0,51.757223,-3.060275,Wales,Torfaen,0.41,1.8,3
 1053,0.0,51.615371,-2.9808499,Wales,Gwent,0.41,0.7,3
