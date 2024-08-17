@@ -1017,7 +1017,7 @@ E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
-603315,0.1,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
+603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
 598145,0.0,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 569723,0.0,53.604601,-2.556847,England,Lancashire,0.07,0.08,1
 1403SE,,51.130603,1.318089,England,Kent,0.07,0.01,1
@@ -1384,8 +1384,8 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1088,0.0,51.720656,-3.7544117,Wales,Neath Port Talbot,0.41,0.52,3
 1089,0.0,51.661741,-3.7060829,Wales,Neath Port Talbot,0.41,0.52,3
 1090,0.0,51.749142,-3.5423442,Wales,Rhondda Cynon Taf,0.41,0.4,3
-1091,0.0,51.70922,-3.7023257,Wales,Neath Port Talbot,0.41,0.52,3
-1092,0.2,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
+1091,0.2,51.70922,-3.7023257,Wales,Neath Port Talbot,0.41,0.52,3
+1092,0.0,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
 1093,0.0,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
 1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
