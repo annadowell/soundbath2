@@ -92,7 +92,7 @@ E871,0.0,51.274484,0.217164,England,Kent,0.07,0.01,1
 E7155,0.0,52.645246,-0.420704,England,City of Peterborough,0.07,0,1
 E12560,0.0,51.006173,-1.114132,England,Hampshire,0.07,0.07,1
 82672,0.0,53.324572,-1.539797,England,Sheffield,0.07,0,1
-52224,0.0,51.173877,-2.508462,England,Somerset,0.07,0.05,1
+52224,0.041,51.173877,-2.508462,England,Somerset,0.07,0.05,1
 E24935,0.0,51.702642,0.87633,England,Essex,0.07,0,1
 E45881,0.0,53.219937,-0.507486,England,Lincolnshire,0.07,0,1
 51127,0.0,51.163886,-3.611019,England,Somerset,0.07,0.05,1
@@ -182,7 +182,7 @@ E1320,0.0,51.202399,0.077705,England,Kent,0.07,0.01,1
 553564,,53.113166,-2.501173,England,Cheshire East,0.07,0.14,1
 553564,0.0,53.113166,-2.501173,England,Cheshire East,0.07,0.14,1
 45164,0.0,50.614674,-3.380154,England,Devon,0.07,0.14,1
-53159,0.013,51.366659,-2.621201,England,Bath and North East Somerset,0.07,0.05,1
+53159,0.0,51.366659,-2.621201,England,Bath and North East Somerset,0.07,0.05,1
 57426,0.0,54.18467,-1.901124,England,North Yorkshire,0.07,0.06,1
 E2493,0.0,52.814,0.01276,England,Lincolnshire,0.07,0,1
 239374TP,0.0,51.575345,0.041271,England,London Borough of Redbridge,0.07,0,1
@@ -254,7 +254,7 @@ E24947,0.0,52.165978,0.556609,England,Suffolk,0.07,0,1
 261602TP,0.0,51.772802,-0.689041,England,Buckinghamshire,0.07,0.07,1
 E24790,0.0,52.409069,1.30592,England,Norfolk,0.07,0,1
 E7165,0.0,52.766451,-0.623828,England,Lincolnshire,0.07,0,1
-53115,0.0,51.210084,-2.450167,England,Somerset,0.07,0.05,1
+53115,0.062,51.210084,-2.450167,England,Somerset,0.07,0.05,1
 E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 48182,0.0,50.249425,-5.040268,England,Cornwall,0.07,0.08,1
 570231,0.0,53.596101,-2.789423,England,Lancashire,0.07,0.08,1
@@ -310,7 +310,7 @@ E37241,0.0,51.94816,0.481622,England,Essex,0.07,0,1
 E37051,0.0,51.732496,0.516133,England,Essex,0.07,0,1
 249744TP,0.0,51.568666,-1.811661,England,Swindon,0.07,0,1
 E43041,,51.59932,0.300821,England,Essex,0.07,0,1
-53114,0.0,51.230621,-2.486172,England,Somerset,0.07,0.05,1
+53114,0.058,51.230621,-2.486172,England,Somerset,0.07,0.05,1
 033108NE,0.0,54.543358,-1.201588,England,Middlesbrough,0.07,0,1
 53104,0.0,51.538159,-2.480793,England,South Gloucestershire,0.07,0.07,1
 E13261,0.0,50.788809,-1.033124,England,England,0.07,0,1
@@ -539,7 +539,7 @@ E4080,0.0,51.258867,1.033447,England,Kent,0.07,0.01,1
 287451TP,0.0,51.308021,-0.16144,England,Surrey,0.07,0,1
 E12160,0.0,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
 53106,0.0,51.474338,-2.127367,England,Wiltshire,0.07,0.04,1
-52225,0.012,51.260327,-2.806074,England,Somerset,0.07,0.05,1
+52225,0.085,51.260327,-2.806074,England,Somerset,0.07,0.05,1
 265038TP,0.0,51.543602,-1.343114,England,West Berkshire,0.07,0.06,1
 598147,,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 417417TP,0.0,51.466604,-0.571144,England,Royal Borough of Windsor and Maidenhead,0.07,0,1
@@ -712,7 +712,7 @@ E5726,0.0,52.611622,-0.461792,England,City of Peterborough,0.07,0,1
 E21335,0.0,52.132397,-0.953181,England,West Northamptonshire,0.07,0.02,1
 597519,0.0,54.362171,-2.342366,England,North Yorkshire,0.07,0.06,1
 E23420,0.0,52.77483,1.151185,England,Norfolk,0.07,0,1
-43105,0.093,51.358394,-1.927417,England,Wiltshire,0.07,0.04,1
+43105,0.0,51.358394,-1.927417,England,Wiltshire,0.07,0.04,1
 50194,0.0,51.024089,-4.236452,England,Devon,0.07,0.14,1
 17651,0.0,55.000299,-1.68497,England,Newcastle upon Tyne,0.07,0,1
 47108,0.0,50.586706,-4.106872,England,Devon,0.07,0.14,1
@@ -799,7 +799,7 @@ E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 1112,,51.684691,-2.162673,England,Gloucestershire,0.07,0.1,1
 600140,0.0,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
 48169,0.0,50.191057,-5.514391,England,Cornwall,0.07,0.08,1
-53101,1.4,51.602099,-2.455479,England,South Gloucestershire,0.07,0.07,1
+53101,0.0,51.602099,-2.455479,England,South Gloucestershire,0.07,0.07,1
 E46331,0.0,53.248384,0.004612,England,Lincolnshire,0.07,0,1
 77336,0.0,53.77754,-2.084173,England,Calderdale,0.07,0.13,1
 3201,0.0,52.579333,-1.532878,England,Warwickshire,0.07,0.13,1
