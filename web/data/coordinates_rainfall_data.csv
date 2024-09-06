@@ -1383,12 +1383,12 @@ E71440,0.014,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1087,0.0,51.679626,-3.6546251,Wales,Neath Port Talbot,0.41,0.52,3
 1088,0.0,51.720656,-3.7544117,Wales,Neath Port Talbot,0.41,0.52,3
 1089,0.0,51.661741,-3.7060829,Wales,Neath Port Talbot,0.41,0.52,3
-1090,0.0,51.749142,-3.5423442,Wales,Rhondda Cynon Taf,0.41,0.4,3
+1090,0.2,51.749142,-3.5423442,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1091,0.0,51.70922,-3.7023257,Wales,Neath Port Talbot,0.41,0.52,3
 1092,0.0,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
 1093,0.4,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
-1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
+1095,0.4,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
 1096,0.0,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
 1097,0.0,51.851752,-4.8887233,Wales,Pembrokeshire,0.41,0.57,3
 1098,0.0,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
@@ -1430,7 +1430,7 @@ E71440,0.014,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1134,0.0,52.005407,-4.2669858,Wales,Carmarthenshire,0.41,0.52,3
 1135,0.0,51.911631,-4.2592189,Wales,Carmarthenshire,0.41,0.52,3
 1136,0.0,52.109203,-3.7717883,Wales,Carmarthenshire,0.41,0.52,3
-1137,0.2,51.414662,-3.5058489,Wales,Vale of Glamorgan,0.41,0,3
+1137,1.0,51.414662,-3.5058489,Wales,Vale of Glamorgan,0.41,0,3
 1138,0.0,52.612343,-3.4172196,Wales,Powys,0.41,0.29,3
 1139,0.0,52.500357,-3.6611167,Wales,Powys,0.41,0.29,3
 1140,0.0,52.522556,-3.4298627,Wales,Powys,0.41,0.29,3
