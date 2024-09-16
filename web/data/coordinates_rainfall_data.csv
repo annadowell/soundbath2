@@ -695,7 +695,7 @@ E1457,0.0,53.275431,-0.63753,England,Lincolnshire,0.07,0,1
 52150,0.0,51.005958,-2.643449,England,Somerset,0.07,0.05,1
 61431,0.0,54.163943,-2.152346,England,North Yorkshire,0.07,0.06,1
 13878,0.0,54.871077,-2.52275,England,Northumberland,0.07,0,1
-291477TP,0.0,51.458979,0.11237,England,London Borough of Bexley,0.07,0,1
+291477TP,0.1,51.458979,0.11237,England,London Borough of Bexley,0.07,0,1
 E23518,0.0,52.603459,1.16988,England,Norfolk,0.07,0,1
 21028,0.0,54.938987,-1.393566,England,Sunderland,0.07,0,1
 276036TP,,51.54306,-0.500973,England,Buckinghamshire,0.07,0.07,1
@@ -1161,7 +1161,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115582,0.0,56.26715284,-5.494662553,Scotland,Argyll and Bute,0.08,0.15,2
 15166,0.0,56.1262023,-4.446294544,Scotland,Stirling,0.08,0,2
 469625,0.0,55.74447583,-4.86116797,Scotland,North Ayrshire,0.08,0,2
-115584,0.1,55.34214596,-3.452988353,Scotland,Dumfries and Galloway,0.08,0.3,2
+115584,0.0,55.34214596,-3.452988353,Scotland,Dumfries and Galloway,0.08,0.3,2
 115354,0.0,57.40830735,-4.957620811,Scotland,Highland,0.08,0.08,2
 115585,0.0,54.81170556,-4.166358356,Scotland,Dumfries and Galloway,0.08,0.3,2
 336367,0.0,57.45203372,-4.184715941,Scotland,Highland,0.08,0.08,2
