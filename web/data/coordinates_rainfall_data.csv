@@ -161,7 +161,7 @@ E24894,,51.890899,1.212487,England,Essex,0.07,0,1
 552376,0.0,52.965913,-2.459268,England,Cheshire East,0.07,0.14,1
 77800,0.0,53.636457,-2.005248,England,Calderdale,0.07,0.13,1
 13336,0.0,54.774946,-2.516845,England,Westmorland and Furness,0.07,0.16,1
-47113,0.1,50.418385,-3.960029,England,Devon,0.07,0.14,1
+47113,0.0,50.418385,-3.960029,England,Devon,0.07,0.14,1
 45108,,50.884946,-3.487642,England,Devon,0.07,0.14,1
 E6270,0.0,51.032353,0.577858,England,Kent,0.07,0.01,1
 3610,0.0,52.655516,-1.302927,England,Leicestershire,0.07,0,1
@@ -700,7 +700,7 @@ E23518,0.0,52.603459,1.16988,England,Norfolk,0.07,0,1
 21028,0.0,54.938987,-1.393566,England,Sunderland,0.07,0,1
 276036TP,,51.54306,-0.500973,England,Buckinghamshire,0.07,0.07,1
 E2382,0.0,52.332215,-0.788506,England,West Northamptonshire,0.07,0.02,1
-E5721,0.0,53.175194,-0.524002,England,Lincolnshire,0.07,0,1
+E5721,0.1,53.175194,-0.524002,England,Lincolnshire,0.07,0,1
 E10120,0.0,51.120939,-0.616127,England,Surrey,0.07,0,1
 E24187,,52.218546,1.268312,England,Suffolk,0.07,0,1
 E6780,0.0,50.885427,0.672112,England,East Sussex,0.07,0,1
@@ -849,7 +849,7 @@ E8030,0.0,50.99015,0.128061,England,East Sussex,0.07,0,1
 70365,0.0,54.244415,-0.80684,England,North Yorkshire,0.07,0.06,1
 E22683,0.0,51.971772,0.940138,England,Suffolk,0.07,0,1
 E8290,0.0,51.434974,-0.353451,England,London Borough of Richmond upon Thames,0.07,0,1
-E5724,0.0,53.088074,0.270439,England,Lincolnshire,0.07,0,1
+E5724,0.1,53.088074,0.270439,England,Lincolnshire,0.07,0,1
 000076TP,0.0,51.701508,-0.747539,England,Buckinghamshire,0.07,0.07,1
 270669TP,0.0,51.292403,-1.035495,England,Hampshire,0.07,0.07,1
 3323,0.0,53.025808,-1.723384,England,Derbyshire,0.07,0.07,1
@@ -1428,7 +1428,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1132,0.0,51.952713,-3.7835835,Wales,Carmarthenshire,0.41,0.52,3
 1133,0.0,52.209938,-3.8141568,Wales,Ceredigion,0.41,0.2,3
 1134,0.0,52.005407,-4.2669858,Wales,Carmarthenshire,0.41,0.52,3
-1135,0.2,51.911631,-4.2592189,Wales,Carmarthenshire,0.41,0.52,3
+1135,0.0,51.911631,-4.2592189,Wales,Carmarthenshire,0.41,0.52,3
 1136,0.0,52.109203,-3.7717883,Wales,Carmarthenshire,0.41,0.52,3
 1137,0.0,51.414662,-3.5058489,Wales,Vale of Glamorgan,0.41,0,3
 1138,0.0,52.612343,-3.4172196,Wales,Powys,0.41,0.29,3
