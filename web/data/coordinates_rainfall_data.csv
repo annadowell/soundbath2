@@ -450,7 +450,7 @@ E7075,0.0,52.490034,-0.666347,England,North Northamptonshire,0.07,0,1
 550148,0.0,53.410189,-3.10942,England,Wirral,0.07,0.5,1
 594202,0.0,54.58826,-3.316076,England,Cumberland,0.07,0.07,1
 3025,0.0,52.701554,-2.119078,England,Staffordshire,0.07,0.14,1
-575384,0.0,53.790306,-2.422692,England,Lancashire,0.07,0.08,1
+575384,0.1,53.790306,-2.422692,England,Lancashire,0.07,0.08,1
 E2410,0.0,51.204793,0.588909,England,Kent,0.07,0.01,1
 263541TP,0.0,51.741752,-1.120101,England,Oxfordshire,0.07,0.07,1
 52287,0.0,54.409101,-1.735735,England,North Yorkshire,0.07,0.06,1
@@ -605,7 +605,7 @@ E1691,,51.100206,0.007416,England,East Sussex,0.07,0,1
 E1645,0.0,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
 E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 3603,0.0,53.079174,-0.867665,England,Nottinghamshire,0.07,0,1
-51102,0.01,51.117739,-3.349372,England,Somerset,0.07,0.05,1
+51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
 E7180,0.0,50.903167,0.47968,England,East Sussex,0.07,0,1
 E7170,0.0,53.077492,-0.622888,England,Lincolnshire,0.07,0,1
 E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
@@ -835,7 +835,7 @@ E911,0.0,51.372501,0.217586,England,Kent,0.07,0.01,1
 55000A,,53.425407,-2.622222,England,Warrington,0.07,0.05,1
 E8020,,50.91155,0.289494,England,East Sussex,0.07,0,1
 E8020,0.0,50.91155,0.289494,England,East Sussex,0.07,0,1
-E5732,0.0,52.124227,0.957474,England,Suffolk,0.07,0,1
+E5732,0.1,52.124227,0.957474,England,Suffolk,0.07,0,1
 562656,,53.539768,-2.35078,England,Bolton,0.07,0.23,1
 562656,0.0,53.539768,-2.35078,England,Bolton,0.07,0.23,1
 E24632,0.0,52.342401,-0.067451,England,Cambridgeshire,0.07,0,1
@@ -988,7 +988,7 @@ E82120,0.0,51.116609,-3.940857,England,Devon,0.07,0.14,1
 574786______________________________________,,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
 15313,0.0,55.010561,-2.08518,England,Northumberland,0.07,0,1
 NelsonGC,0.0,53.820527,-2.210336,England,Lancashire,0.07,0.08,1
-575092,0.1,53.742978,-2.323663,England,Lancashire,0.07,0.08,1
+575092,0.0,53.742978,-2.323663,England,Lancashire,0.07,0.08,1
 E82920,0.0,50.598409,-3.460219,England,Devon,0.07,0.14,1
 E82960,0.0,50.475407,-3.581856,England,Torbay,0.07,0.45,1
 1775,0.0,52.27751,-1.599081,England,Warwickshire,0.07,0.13,1
@@ -1005,7 +1005,7 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 585160,0.0,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
 14880,0.0,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 540001RG,0.0,51.527809,0.085279,England,Greater London,0.07,0,1
-Egerton1,0.1,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
+Egerton1,0.0,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
 605324,0.0,54.583702,-3.237013,England,Cumberland,0.07,0.07,1
 E60880,0.0,51.164146,-1.894828,England,Wiltshire,0.07,0.04,1
 E85220,0.0,51.037989,-3.736447,England,Devon,0.07,0.14,1
