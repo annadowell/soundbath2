@@ -59,7 +59,7 @@ E46612,0.0,53.346199,0.015208,England,Lincolnshire,0.07,0,1
 48199,0.0,50.356962,-4.730773,England,Cornwall,0.07,0.08,1
 E7055,0.0,52.327013,-1.00142,England,West Northamptonshire,0.07,0.02,1
 E7045,0.0,52.185547,-0.867095,England,West Northamptonshire,0.07,0.02,1
-44200,0.01,50.837132,-2.59994,England,Dorset,0.07,0.17,1
+44200,0.0,50.837132,-2.59994,England,Dorset,0.07,0.17,1
 58461,0.0,53.979278,-1.646973,England,North Yorkshire,0.07,0.06,1
 E4530,0.0,51.156945,1.009589,England,Kent,0.07,0.01,1
 1339,0.0,52.718219,-2.570654,England,Telford and Wrekin,0.07,0.2,1
@@ -867,7 +867,7 @@ E24718,0.0,52.29472,0.332298,England,Cambridgeshire,0.07,0,1
 44201,0.0,50.613852,-1.958246,England,Dorset,0.07,0.17,1
 E24712,0.0,52.016759,-0.488107,England,Central Bedfordshire,0.07,0,1
 6077,0.0,55.207377,-2.040032,England,Northumberland,0.07,0,1
-51124,0.007,51.207152,-3.536655,England,Somerset,0.07,0.05,1
+51124,0.0,51.207152,-3.536655,England,Somerset,0.07,0.05,1
 E24141,,52.307124,1.153055,England,Suffolk,0.07,0,1
 531179,0.0,51.460233,-2.609517,England,City of Bristol,0.07,0.2,1
 3096,0.0,52.615214,-2.152813,England,Wolverhampton,0.07,0,1
@@ -959,7 +959,7 @@ E22268,0.0,52.041145,0.142627,England,Essex,0.07,0,1
 Coldw1,,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
 Mitch1,,53.742978,-2.323663,England,Lancashire,0.07,0.08,1
 Edgeh1,,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
-582191,0.1,54.144383,-2.433946,England,North Yorkshire,0.07,0.06,1
+582191,0.0,54.144383,-2.433946,England,North Yorkshire,0.07,0.06,1
 579623,0.0,54.01325,-2.77441,England,Lancashire,0.07,0.08,1
 EdgeH1,0.0,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
 45268,0.0,50.701123,-3.117886,England,Devon,0.07,0.14,1
@@ -1012,7 +1012,7 @@ E85220,0.0,51.037989,-3.736447,England,Devon,0.07,0.14,1
 E82840,0.0,50.626112,-3.907858,England,Devon,0.07,0.14,1
 NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
-E82880,0.1,51.199461,-3.702435,England,Somerset,0.07,0.05,1
+E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
@@ -1023,7 +1023,7 @@ E82880,0.1,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 1403SE,,51.130603,1.318089,England,Kent,0.07,0.01,1
 1403SE,0.0,51.130603,1.318089,England,Kent,0.07,0.01,1
 574656,,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
-574656,0.1,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
+574656,0.0,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
 E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 15018,0.0,55.85329633,-2.387448356,Scotland,Scottish Borders,0.08,0,2
 234150,0.0,57.48021805,-3.205975095,Scotland,Moray,0.08,0,2
@@ -1385,7 +1385,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1089,0.0,51.661741,-3.7060829,Wales,Neath Port Talbot,0.41,0.52,3
 1090,0.0,51.749142,-3.5423442,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1091,0.0,51.70922,-3.7023257,Wales,Neath Port Talbot,0.41,0.52,3
-1092,0.0,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
+1092,0.2,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
 1093,0.0,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
 1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
