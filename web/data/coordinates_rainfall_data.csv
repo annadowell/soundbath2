@@ -1014,7 +1014,7 @@ NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
 E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
-3340,0.1,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
+3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
@@ -1222,7 +1222,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 15078,0.0,56.69908575,-2.491155025,Scotland,Angus,0.08,0,2
 15022,0.0,55.77012815,-2.279193263,Scotland,Scottish Borders,0.08,0,2
 115622,0.0,55.51335703,-4.096604222,Scotland,East Ayrshire,0.08,0.11,2
-490986,0.0,55.84918458,-4.742664896,Scotland,Renfrewshire,0.08,0,2
+490986,0.05,55.84918458,-4.742664896,Scotland,Renfrewshire,0.08,0,2
 372859,0.0,55.91287677,-3.317681386,Scotland,Scotland,0.08,0,2
 335650,0.0,56.65077608,-2.823539396,Scotland,Angus,0.08,0,2
 335651,0.0,56.46017678,-3.075838089,Scotland,Perth and Kinross,0.08,0,2
@@ -1418,7 +1418,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1122,0.0,52.122017,-4.0428775,Wales,Ceredigion,0.41,0.2,3
 1123,0.0,52.112845,-4.6550283,Wales,Ceredigion,0.41,0.2,3
 1124,0.0,52.062139,-4.5848751,Wales,Ceredigion,0.41,0.2,3
-1125,0.2,52.246116,-4.0669889,Wales,Ceredigion,0.41,0.2,3
+1125,0.0,52.246116,-4.0669889,Wales,Ceredigion,0.41,0.2,3
 1126,0.0,52.284198,-3.8660693,Wales,Ceredigion,0.41,0.2,3
 1127,0.0,52.12733,-4.2502918,Wales,Ceredigion,0.41,0.2,3
 1128,0.0,51.98461,-4.0599328,Wales,Carmarthenshire,0.41,0.52,3
