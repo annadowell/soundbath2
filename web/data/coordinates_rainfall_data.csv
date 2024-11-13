@@ -234,7 +234,7 @@ E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
-587552,0.0,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
+587552,0.1,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
 E7135,0.0,53.572235,-0.236854,England,Lincolnshire,0.07,0,1
 E2420,0.0,51.130083,0.749109,England,Kent,0.07,0.01,1
 E11820,0.0,50.828711,-1.195588,England,Hampshire,0.07,0.07,1
@@ -450,7 +450,7 @@ E7075,0.0,52.490034,-0.666347,England,North Northamptonshire,0.07,0,1
 550148,0.0,53.410189,-3.10942,England,Wirral,0.07,0.5,1
 594202,0.0,54.58826,-3.316076,England,Cumberland,0.07,0.07,1
 3025,0.0,52.701554,-2.119078,England,Staffordshire,0.07,0.14,1
-575384,0.1,53.790306,-2.422692,England,Lancashire,0.07,0.08,1
+575384,0.0,53.790306,-2.422692,England,Lancashire,0.07,0.08,1
 E2410,0.0,51.204793,0.588909,England,Kent,0.07,0.01,1
 263541TP,0.0,51.741752,-1.120101,England,Oxfordshire,0.07,0.07,1
 52287,0.0,54.409101,-1.735735,England,North Yorkshire,0.07,0.06,1
@@ -695,7 +695,7 @@ E1457,0.0,53.275431,-0.63753,England,Lincolnshire,0.07,0,1
 52150,0.0,51.005958,-2.643449,England,Somerset,0.07,0.05,1
 61431,0.0,54.163943,-2.152346,England,North Yorkshire,0.07,0.06,1
 13878,0.0,54.871077,-2.52275,England,Northumberland,0.07,0,1
-291477TP,0.0,51.458979,0.11237,England,London Borough of Bexley,0.07,0,1
+291477TP,0.2,51.458979,0.11237,England,London Borough of Bexley,0.07,0,1
 E23518,0.0,52.603459,1.16988,England,Norfolk,0.07,0,1
 21028,0.0,54.938987,-1.393566,England,Sunderland,0.07,0,1
 276036TP,,51.54306,-0.500973,England,Buckinghamshire,0.07,0.07,1
@@ -891,7 +891,7 @@ E24499,,52.702495,0.692966,England,Norfolk,0.07,0,1
 43533,0.0,53.999217,-0.43093,England,East Riding of Yorkshire,0.07,0,1
 E5720,,53.306737,-0.547985,England,Lincolnshire,0.07,0,1
 48102,0.0,50.223298,-5.305022,England,Cornwall,0.07,0.08,1
-613905,0.1,55.089491,-2.693238,England,Cumberland,0.07,0.07,1
+613905,0.0,55.089491,-2.693238,England,Cumberland,0.07,0.07,1
 54604,0.0,54.32908,-1.456389,England,North Yorkshire,0.07,0.06,1
 53113,0.0,51.290973,-1.963375,England,Wiltshire,0.07,0.04,1
 279941TP,0.0,51.396984,-0.540252,England,Surrey,0.07,0,1
