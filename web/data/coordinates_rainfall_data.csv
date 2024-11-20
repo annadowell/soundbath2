@@ -174,7 +174,7 @@ E24763,0.0,51.949875,-0.766824,England,Buckinghamshire,0.07,0.07,1
 E7780,0.0,50.80213,0.081187,England,East Sussex,0.07,0,1
 43104,0.0,51.220377,-1.669896,England,Wiltshire,0.07,0.04,1
 248332TP,0.0,51.672207,-1.952948,England,Gloucestershire,0.07,0.1,1
-3816,0.0,53.130665,-1.23847,England,Nottinghamshire,0.07,0,1
+3816,0.4,53.130665,-1.23847,England,Nottinghamshire,0.07,0,1
 31555,0.0,54.469846,-1.099639,England,North Yorkshire,0.07,0.06,1
 E1320,0.0,51.202399,0.077705,England,Kent,0.07,0.01,1
 46100,0.0,50.390977,-3.70144,England,Devon,0.07,0.14,1
@@ -961,7 +961,7 @@ Mitch1,,53.742978,-2.323663,England,Lancashire,0.07,0.08,1
 Edgeh1,,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
 582191,0.0,54.144383,-2.433946,England,North Yorkshire,0.07,0.06,1
 579623,0.0,54.01325,-2.77441,England,Lancashire,0.07,0.08,1
-EdgeH1,0.2,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
+EdgeH1,0.0,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
 45268,0.0,50.701123,-3.117886,England,Devon,0.07,0.14,1
 Dubbs1,,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
 585122_,,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
@@ -1248,7 +1248,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115638,0.0,56.0079586,-4.377500029,Scotland,Stirling,0.08,0,2
 485490,0.0,56.22216848,-4.859016846,Scotland,Argyll and Bute,0.08,0.15,2
 115390,0.0,58.11499626,-4.439159665,Scotland,Highland,0.08,0.08,2
-336217,0.0,58.42139172,-4.991227379,Scotland,Highland,0.08,0.08,2
+336217,0.05,58.42139172,-4.991227379,Scotland,Highland,0.08,0.08,2
 368013,0.0,57.3317252,-2.828953912,Scotland,Aberdeenshire,0.08,0.02,2
 133124,0.0,56.05257642,-4.55746111,Scotland,West Dunbartonshire,0.08,0,2
 15070,0.0,56.29912602,-3.202717904,Scotland,Fife,0.08,0,2
