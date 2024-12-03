@@ -151,10 +151,10 @@ E14930,0.0,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
 35302,0.0,54.517093,-0.752561,England,North Yorkshire,0.07,0.06,1
 E11120,0.0,50.78281,-0.694221,England,West Sussex,0.07,0.04,1
 1387,0.0,52.424304,-3.172736,England,Shropshire,0.07,0.16,1
-77952,0.0,53.772138,-1.90361,England,Calderdale,0.07,0.13,1
+77952,0.2,53.772138,-1.90361,England,Calderdale,0.07,0.13,1
 3998,0.0,53.396184,-0.931457,England,Nottinghamshire,0.07,0,1
 E24894,,51.890899,1.212487,England,Essex,0.07,0,1
-554472,0.0,53.169907,-2.103919,England,Staffordshire,0.07,0.14,1
+554472,0.1,53.169907,-2.103919,England,Staffordshire,0.07,0.14,1
 26297,0.0,54.701508,-1.198486,England,Hartlepool,0.07,0,1
 591878,0.0,54.529816,-3.545999,England,Cumberland,0.07,0.07,1
 1812,0.0,51.89986,-2.41343,England,Gloucestershire,0.07,0.1,1
@@ -416,7 +416,7 @@ E37081,0.0,52.84066,1.075753,England,Norfolk,0.07,0,1
 45102,0.0,51.129849,-3.534087,England,Somerset,0.07,0.05,1
 23164,0,54.610418,-1.740626,England,County Durham,0.07,0.05,1
 49105,0.0,50.558792,-4.637937,England,Cornwall,0.07,0.08,1
-16140,0.8,54.960162,-2.160033,England,Northumberland,0.07,0,1
+16140,0.4,54.960162,-2.160033,England,Northumberland,0.07,0,1
 E25051,0.0,53.235003,0.102885,England,Lincolnshire,0.07,0,1
 287864TP,0.0,51.380452,-0.135546,England,London Borough of Sutton,0.07,0,1
 45158,0.0,51.06991,-3.643436,England,Somerset,0.07,0.05,1
@@ -867,7 +867,7 @@ E24718,0.0,52.29472,0.332298,England,Cambridgeshire,0.07,0,1
 44201,0.0,50.613852,-1.958246,England,Dorset,0.07,0.17,1
 E24712,0.0,52.016759,-0.488107,England,Central Bedfordshire,0.07,0,1
 6077,0.0,55.207377,-2.040032,England,Northumberland,0.07,0,1
-51124,0.016,51.207152,-3.536655,England,Somerset,0.07,0.05,1
+51124,0.021,51.207152,-3.536655,England,Somerset,0.07,0.05,1
 E24141,,52.307124,1.153055,England,Suffolk,0.07,0,1
 531179,0.0,51.460233,-2.609517,England,City of Bristol,0.07,0.2,1
 3096,0.0,52.615214,-2.152813,England,Wolverhampton,0.07,0,1
@@ -1014,7 +1014,7 @@ NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
 E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
-3340,0.4,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
+3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
@@ -1327,7 +1327,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1031,0.0,52.648513,-3.5993058,Wales,Powys,0.41,0.29,3
 1032,0.0,52.930315,-4.1223199,Wales,Gwynedd,0.41,0.37,3
 1033,0.0,52.797615,-3.785006,Wales,Gwynedd,0.41,0.37,3
-1034,0.2,51.809656,-3.2167269,Wales,Blaenau Gwent,0.41,0.4,3
+1034,0.0,51.809656,-3.2167269,Wales,Blaenau Gwent,0.41,0.4,3
 1035,0.0,51.755288,-3.1299887,Wales,Blaenau Gwent,0.41,0.4,3
 1036,0.0,51.589311,-3.1640454,Wales,Caerphilly County Borough,0.41,0.33,3
 1037,0.0,51.651951,-3.2967281,Wales,Caerphilly County Borough,0.41,0.33,3
