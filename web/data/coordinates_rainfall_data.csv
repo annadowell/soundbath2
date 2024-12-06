@@ -378,7 +378,7 @@ E21288,0.0,52.447056,1.60611,England,Suffolk,0.07,0,1
 35488,0.0,54.438313,-0.976984,England,North Yorkshire,0.07,0.06,1
 45236,0.0,50.776987,-3.176428,England,Devon,0.07,0.14,1
 E7065,0.0,52.56456,-0.5077,England,North Northamptonshire,0.07,0,1
-E4540,0.1,51.202987,0.784947,England,Kent,0.07,0.01,1
+E4540,0.0,51.202987,0.784947,England,Kent,0.07,0.01,1
 46108,0.0,50.641897,-3.877381,England,Devon,0.07,0.14,1
 E22876,,51.736858,0.480165,England,Essex,0.07,0,1
 44103,0.0,50.707087,-2.698828,England,Dorset,0.07,0.17,1
@@ -867,7 +867,7 @@ E24718,0.0,52.29472,0.332298,England,Cambridgeshire,0.07,0,1
 44201,0.0,50.613852,-1.958246,England,Dorset,0.07,0.17,1
 E24712,0.0,52.016759,-0.488107,England,Central Bedfordshire,0.07,0,1
 6077,0.0,55.207377,-2.040032,England,Northumberland,0.07,0,1
-51124,0.02,51.207152,-3.536655,England,Somerset,0.07,0.05,1
+51124,0.027,51.207152,-3.536655,England,Somerset,0.07,0.05,1
 E24141,,52.307124,1.153055,England,Suffolk,0.07,0,1
 531179,0.0,51.460233,-2.609517,England,City of Bristol,0.07,0.2,1
 3096,0.0,52.615214,-2.152813,England,Wolverhampton,0.07,0,1
@@ -1014,7 +1014,7 @@ NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
 E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
-3340,0.1,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
+3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
