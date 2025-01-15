@@ -521,7 +521,7 @@ E19017,0.0,52.058925,0.296651,England,Essex,0.07,0,1
 50108,,50.925011,-3.713738,England,Devon,0.07,0.14,1
 E14920,0.0,50.691845,-1.308358,England,Isle of Wight,0.07,0.01,1
 38476,0.0,54.107252,-0.128568,England,East Riding of Yorkshire,0.07,0,1
-E11461,0.0,50.902688,-1.10472,England,Hampshire,0.07,0.07,1
+E11461,0.1,50.902688,-1.10472,England,Hampshire,0.07,0.07,1
 E24727,0.0,52.7599,0.536425,England,Norfolk,0.07,0,1
 576925,0.0,53.748659,-2.825643,England,Lancashire,0.07,0.08,1
 300001TP,0.0,51.13979,-0.960059,England,Hampshire,0.07,0.07,1
@@ -1014,7 +1014,7 @@ NE063,,53.59597,-1.066946,England,Doncaster,0.07,0,1
 Greens1,0.0,54.548278,-2.983943,England,Westmorland and Furness,0.07,0.16,1
 E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
-3340,0.2,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
+3340,0.1,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
