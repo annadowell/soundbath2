@@ -145,7 +145,7 @@ E24874,0.0,51.906849,1.087118,England,Essex,0.07,0,1
 6403,0.0,55.237908,-1.918977,England,Northumberland,0.07,0,1
 1773,0.0,52.222319,-2.17488,England,Worcestershire,0.07,0.14,1
 8850,0.0,55.255608,-2.540374,England,Northumberland,0.07,0,1
-13045,0.0,54.742208,-2.378185,England,Westmorland and Furness,0.07,0.16,1
+13045,0.1,54.742208,-2.378185,England,Westmorland and Furness,0.07,0.16,1
 E14930,0.0,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
 1748,0.0,52.481743,-2.579368,England,Shropshire,0.07,0.16,1
 35302,0.0,54.517093,-0.752561,England,North Yorkshire,0.07,0.06,1
@@ -367,7 +367,7 @@ E46161,0.0,51.511603,0.583211,England,Essex,0.07,0,1
 265415TP,0.0,51.465368,-1.197403,England,West Berkshire,0.07,0.06,1
 44100,0.0,50.778033,-2.848812,England,Dorset,0.07,0.17,1
 E42971,0.0,52.181011,0.952464,England,Suffolk,0.07,0,1
-46160,0.0,50.473478,-3.89184,England,Devon,0.07,0.14,1
+46160,0.1,50.473478,-3.89184,England,Devon,0.07,0.14,1
 567866,0.0,53.460365,-2.916431,England,Liverpool,0.07,0.5,1
 531108,0.0,51.237472,-2.325815,England,Somerset,0.07,0.05,1
 18777,0.0,54.860973,-1.670477,England,County Durham,0.07,0.05,1
@@ -614,7 +614,7 @@ E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
 3773,0.0,53.032232,-1.050823,England,Nottinghamshire,0.07,0,1
 1794,0.0,51.87509,-2.275208,England,Gloucestershire,0.07,0.1,1
 290200TP,0.0,51.280521,0.134285,England,Kent,0.07,0.01,1
-600986,0.0,54.497284,-2.690895,England,Westmorland and Furness,0.07,0.16,1
+600986,0.1,54.497284,-2.690895,England,Westmorland and Furness,0.07,0.16,1
 5588,0.0,55.174997,-1.521877,England,Northumberland,0.07,0,1
 560631,0.0,53.718989,-2.194675,England,Lancashire,0.07,0.08,1
 E8510,0.0,50.90639,-0.072052,England,East Sussex,0.07,0,1
@@ -976,7 +976,7 @@ E42297,0.0,52.061887,0.546282,England,Essex,0.07,0,1
 463589,0.0,51.758734,-2.612081,England,Gloucestershire,0.07,0.1,1
 E25173,0.1,52.703292,0.697456,England,Norfolk,0.07,0,1
 E48676,0.0,52.307124,1.153055,England,Suffolk,0.07,0,1
-585122,0.1,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
+585122,0.0,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
 0323SO,,51.246536,0.022379,England,Surrey,0.07,0,1
 340767,0.0,50.968137,-1.918056,England,Hampshire,0.07,0.07,1
 604142,0.0,54.889007,-2.708497,England,Cumberland,0.07,0.07,1
