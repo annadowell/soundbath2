@@ -462,7 +462,7 @@ E12570,0.0,51.008538,-1.335019,England,Hampshire,0.07,0.07,1
 E21637,0.0,52.269301,0.00265,England,Cambridgeshire,0.07,0,1
 257039TP,0.0,52.072227,-1.333928,England,Oxfordshire,0.07,0.07,1
 055R0521E_TG_326,,52.221039,-2.984386,England,Herefordshire,0.07,0.07,1
-261923TP,0.0,51.825767,-0.852925,England,Buckinghamshire,0.07,0.07,1
+261923TP,0.1,51.825767,-0.852925,England,Buckinghamshire,0.07,0.07,1
 555207,0.0,53.114913,-2.221812,England,Cheshire East,0.07,0.14,1
 3611,0.0,53.485476,-0.775492,England,North Lincolnshire,0.07,0,1
 3601,0.0,53.231399,-0.806723,England,Nottinghamshire,0.07,0,1
@@ -594,7 +594,7 @@ E24737,0.0,52.32454,0.894501,England,Suffolk,0.07,0,1
 52227,0.0,51.183161,-2.90631,England,Somerset,0.07,0.05,1
 3781,0.0,52.49028,-1.866665,England,Birmingham,0.07,0.05,1
 247344TP,0.0,51.550032,-0.415648,England,London Borough of Hillingdon,0.07,0,1
-E13580,0.1,51.103128,-1.562184,England,Hampshire,0.07,0.07,1
+E13580,0.0,51.103128,-1.562184,England,Hampshire,0.07,0.07,1
 574718,0.0,53.851109,-2.196809,England,Lancashire,0.07,0.08,1
 43203,0.0,51.03167,-2.281587,England,Dorset,0.07,0.17,1
 562992,0.0,52.636608,-2.257802,England,Shropshire,0.07,0.16,1
