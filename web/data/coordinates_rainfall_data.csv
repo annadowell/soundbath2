@@ -615,7 +615,7 @@ E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
 1794,0.0,51.87509,-2.275208,England,Gloucestershire,0.07,0.1,1
 290200TP,0.0,51.280521,0.134285,England,Kent,0.07,0.01,1
 600986,0.0,54.497284,-2.690895,England,Westmorland and Furness,0.07,0.16,1
-5588,1.0,55.174997,-1.521877,England,Northumberland,0.07,0,1
+5588,0.0,55.174997,-1.521877,England,Northumberland,0.07,0,1
 560631,0.0,53.718989,-2.194675,England,Lancashire,0.07,0.08,1
 E8510,0.0,50.90639,-0.072052,England,East Sussex,0.07,0,1
 E13560,0.0,50.993139,-1.491976,England,Hampshire,0.07,0.07,1
@@ -916,7 +916,7 @@ E1711,,51.142735,0.09504,England,Kent,0.07,0.01,1
 558844,0.0,53.49079,-1.883147,England,Derbyshire,0.07,0.07,1
 45185,0.0,51.046267,-3.459994,England,Somerset,0.07,0.05,1
 E2400,,51.096946,0.544313,England,Kent,0.07,0.01,1
-E2400,0.1,51.096946,0.544313,England,Kent,0.07,0.01,1
+E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 2705SO,0.0,50.759531,-0.787028,England,West Sussex,0.07,0.04,1
 035024NE,0.0,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
@@ -1375,7 +1375,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1079,0.0,51.819674,-3.8593012,Wales,Carmarthenshire,0.41,0.52,3
 1080,0.0,51.834186,-3.9601068,Wales,Carmarthenshire,0.41,0.52,3
 1081,0.0,51.663436,-4.1102684,Wales,Carmarthenshire,0.41,0.52,3
-1082,0.2,51.699999,-4.1489598,Wales,Carmarthenshire,0.41,0.52,3
+1082,0.0,51.699999,-4.1489598,Wales,Carmarthenshire,0.41,0.52,3
 1083,0.0,51.770371,-4.0004888,Wales,Swansea,0.41,0.55,3
 1084,0.0,51.811983,-4.0850684,Wales,Carmarthenshire,0.41,0.52,3
 1085,0.0,51.800749,-4.2424719,Wales,Carmarthenshire,0.41,0.52,3
