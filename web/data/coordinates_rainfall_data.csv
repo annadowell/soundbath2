@@ -99,7 +99,7 @@ E45881,0.0,53.219937,-0.507486,England,Lincolnshire,0.07,0,1
 1814,0.0,52.481443,-1.558947,England,Warwickshire,0.07,0.13,1
 264845TP,0.0,51.532367,-1.135676,England,Oxfordshire,0.07,0.07,1
 63518,0.0,53.876425,-1.532241,England,Leeds,0.07,0.2,1
-48100,0.398,50.127328,-5.568494,England,Cornwall,0.07,0.08,1
+48100,1.4,50.127328,-5.568494,England,Cornwall,0.07,0.08,1
 282781TP,0.0,51.256125,-0.566214,England,Surrey,0.07,0,1
 E1971,0.0,52.452473,-0.605675,England,North Northamptonshire,0.07,0,1
 274918TP,0.0,51.440044,-0.766213,England,Bracknell Forest,0.07,0.1,1
@@ -125,7 +125,7 @@ E15510,0.0,51.307175,0.102521,England,Kent,0.07,0.01,1
 598928,0.0,54.524262,-2.505948,England,Westmorland and Furness,0.07,0.16,1
 43200,0.0,51.044768,-2.4129,England,Somerset,0.07,0.05,1
 1712,0.0,52.639137,-2.325793,England,Shropshire,0.07,0.16,1
-287283TP,0.1,51.449283,-0.224851,England,London Borough of Wandsworth,0.07,0,1
+287283TP,0.0,51.449283,-0.224851,England,London Borough of Wandsworth,0.07,0,1
 3782,0.0,52.736673,-1.993285,England,Staffordshire,0.07,0.14,1
 3588,0.0,52.958861,-1.577925,England,Derbyshire,0.07,0.07,1
 551440,,53.276556,-2.854006,England,Cheshire West and Chester,0.07,0.1,1
@@ -1386,10 +1386,10 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1090,0.0,51.749142,-3.5423442,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1091,0.0,51.70922,-3.7023257,Wales,Neath Port Talbot,0.41,0.52,3
 1092,0.0,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
-1093,1.2,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
+1093,0.0,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
 1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
-1096,0.0,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
+1096,0.2,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
 1097,0.0,51.851752,-4.8887233,Wales,Pembrokeshire,0.41,0.57,3
 1098,0.0,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
 1099,0.0,51.933469,-4.812237,Wales,Pembrokeshire,0.41,0.57,3
