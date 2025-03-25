@@ -221,7 +221,7 @@ E2331,0.0,52.473204,-0.862668,England,North Northamptonshire,0.07,0,1
 E27601,0.0,51.530977,0.519422,England,Essex,0.07,0,1
 3179,0.0,52.69041,-0.920654,England,Leicestershire,0.07,0,1
 49151,0.0,50.480775,-4.463019,England,Cornwall,0.07,0.08,1
-238777TP,0.0,51.736595,0.223782,England,Essex,0.07,0,1
+238777TP,0.2,51.736595,0.223782,England,Essex,0.07,0,1
 83534,0.0,53.250698,-1.498624,England,Derbyshire,0.07,0.07,1
 3996,0.0,52.897989,-0.911045,England,Nottinghamshire,0.07,0,1
 47157,0.0,50.431628,-4.270363,England,Cornwall,0.07,0.08,1
@@ -442,7 +442,7 @@ E46061,0.0,53.546796,-0.159424,England,North East Lincolnshire,0.07,0,1
 E1681,0.0,51.067661,0.215829,England,East Sussex,0.07,0,1
 E27621,0.0,51.542522,0.567655,England,Essex,0.07,0,1
 50110,0.0,51.016891,-3.822629,England,Devon,0.07,0.14,1
-3574,0.0,52.897659,-1.359998,England,Derbyshire,0.07,0.07,1
+3574,0.2,52.897659,-1.359998,England,Derbyshire,0.07,0.07,1
 E7075,0.0,52.490034,-0.666347,England,North Northamptonshire,0.07,0,1
 49104,0.0,50.509966,-4.568918,England,Cornwall,0.07,0.08,1
 586820,0.0,54.444792,-3.103284,England,Westmorland and Furness,0.07,0.16,1
@@ -825,7 +825,7 @@ E5733,0.2,51.895742,0.451114,England,Essex,0.07,0,1
 85960,0.0,53.527019,-1.385249,England,Barnsley,0.07,0,1
 46222,0.0,53.719928,-0.676248,England,East Riding of Yorkshire,0.07,0,1
 3198,0.0,52.530102,-1.383041,England,Leicestershire,0.07,0,1
-238944TP,0.0,51.677024,0.235326,England,Essex,0.07,0,1
+238944TP,0.1,51.677024,0.235326,England,Essex,0.07,0,1
 47106,0.0,50.562235,-4.481386,England,Cornwall,0.07,0.08,1
 E46341,0.0,52.538018,-0.337559,England,Cambridgeshire,0.07,0,1
 E21870,0.0,52.684352,0.927128,England,Norfolk,0.07,0,1
