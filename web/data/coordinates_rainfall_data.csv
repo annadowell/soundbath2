@@ -303,7 +303,7 @@ E24703,0.06,52.023252,-1.13062,England,Buckinghamshire,0.07,0.07,1
 52203,0.0,51.408672,-2.666341,England,North Somerset,0.07,0,1
 531101,0.0,51.633863,-2.371995,England,Gloucestershire,0.07,0.1,1
 1602,0.0,52.05292,-2.737138,England,Herefordshire,0.07,0.07,1
-E25033,0.1,53.449299,0.032134,England,Lincolnshire,0.07,0,1
+E25033,0.0,53.449299,0.032134,England,Lincolnshire,0.07,0,1
 8062,0.0,55.132825,-1.538065,England,Northumberland,0.07,0,1
 47155,0.0,50.416367,-4.126049,England,England,0.07,0,1
 E37241,0.0,51.94816,0.481622,England,Essex,0.07,0,1
@@ -314,7 +314,7 @@ E43041,,51.59932,0.300821,England,Essex,0.07,0,1
 033108NE,0.0,54.543358,-1.201588,England,Middlesbrough,0.07,0,1
 53104,0.0,51.538159,-2.480793,England,South Gloucestershire,0.07,0.07,1
 E13261,0.0,50.788809,-1.033124,England,England,0.07,0,1
-50199,0.1,50.873373,-3.798545,England,Devon,0.07,0.14,1
+50199,0.0,50.873373,-3.798545,England,Devon,0.07,0.14,1
 47159,0.0,50.644847,-4.529589,England,Cornwall,0.07,0.08,1
 36487,0.0,54.408361,-0.754323,England,North Yorkshire,0.07,0.06,1
 E24913,0.01,51.815014,0.765948,England,Essex,0.07,0,1
@@ -783,7 +783,7 @@ E21602,0.01,51.733425,0.429285,England,Essex,0.07,0,1
 E8743,,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 E8743,0.0,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 3571,0.0,53.105132,-2.154547,England,Staffordshire,0.07,0.14,1
-E5723,0.1,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
+E5723,0.0,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
 E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 34091,0.0,54.596104,-1.039588,England,Redcar and Cleveland,0.07,0,1
 575335,,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
@@ -835,7 +835,7 @@ E911,0.0,51.372501,0.217586,England,Kent,0.07,0.01,1
 55000A,,53.425407,-2.622222,England,Warrington,0.07,0.05,1
 E8020,,50.91155,0.289494,England,East Sussex,0.07,0,1
 E8020,0.0,50.91155,0.289494,England,East Sussex,0.07,0,1
-E5732,0.0,52.124227,0.957474,England,Suffolk,0.07,0,1
+E5732,0.1,52.124227,0.957474,England,Suffolk,0.07,0,1
 562656,,53.539768,-2.35078,England,Bolton,0.07,0.23,1
 562656,0.0,53.539768,-2.35078,England,Bolton,0.07,0.23,1
 E24632,0.0,52.342401,-0.067451,England,Cambridgeshire,0.07,0,1
