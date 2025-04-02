@@ -204,7 +204,7 @@ E24863,0.0,51.857943,0.698866,England,Essex,0.07,0,1
 E27594,0.0,52.735167,-0.4219,England,Lincolnshire,0.07,0,1
 50112,0.0,51.219415,-3.751859,England,Devon,0.07,0.14,1
 564595,0.0,53.240041,-2.077118,England,Cheshire East,0.07,0.14,1
-49902,1.0,54.130296,-1.656404,England,North Yorkshire,0.07,0.06,1
+49902,0.0,54.130296,-1.656404,England,North Yorkshire,0.07,0.06,1
 E1290,0.0,51.236919,-0.046806,England,Surrey,0.07,0,1
 3570,0.0,53.029694,-1.914215,England,Staffordshire,0.07,0.14,1
 1792,0.0,52.307409,-2.728158,England,Herefordshire,0.07,0.07,1
@@ -469,7 +469,7 @@ E21637,0.0,52.269301,0.00265,England,Cambridgeshire,0.07,0,1
 E24889,0.0,52.35513,1.431153,England,Suffolk,0.07,0,1
 E37271,0.0,52.049494,0.452229,England,Essex,0.07,0,1
 589359,0.0,54.342135,-3.21744,England,Westmorland and Furness,0.07,0.16,1
-E2544,0.0,52.495753,-0.470258,England,North Northamptonshire,0.07,0,1
+E2544,0.1,52.495753,-0.470258,England,North Northamptonshire,0.07,0,1
 239579TP,,51.527809,0.085279,England,Greater London,0.07,0,1
 586493,0.0,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
 E21179,0.0,51.636308,0.385069,England,Essex,0.07,0,1
@@ -741,7 +741,7 @@ E24952,0.0,51.743647,0.324082,England,Essex,0.07,0,1
 E24591,0.0,52.345564,0.484737,England,Suffolk,0.07,0,1
 43103,,51.164146,-1.894828,England,Wiltshire,0.07,0.04,1
 287946TP,0.0,51.415955,-0.162865,England,London Borough of Merton,0.07,0,1
-E2050,0.1,51.098285,0.395836,England,Kent,0.07,0.01,1
+E2050,0.0,51.098285,0.395836,England,Kent,0.07,0.01,1
 E2040,0.0,51.138337,0.459382,England,Kent,0.07,0.01,1
 45167,0.0,50.908664,-3.226683,England,Devon,0.07,0.14,1
 E24585,,52.164986,-0.703865,England,City of Milton Keynes,0.07,0,1
@@ -1374,8 +1374,8 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1078,0.0,52.033022,-3.1738457,Wales,Powys,0.41,0.29,3
 1079,0.0,51.819674,-3.8593012,Wales,Carmarthenshire,0.41,0.52,3
 1080,0.0,51.834186,-3.9601068,Wales,Carmarthenshire,0.41,0.52,3
-1081,0.4,51.663436,-4.1102684,Wales,Carmarthenshire,0.41,0.52,3
-1082,0.4,51.699999,-4.1489598,Wales,Carmarthenshire,0.41,0.52,3
+1081,0.0,51.663436,-4.1102684,Wales,Carmarthenshire,0.41,0.52,3
+1082,0.0,51.699999,-4.1489598,Wales,Carmarthenshire,0.41,0.52,3
 1083,0.0,51.770371,-4.0004888,Wales,Swansea,0.41,0.55,3
 1084,0.0,51.811983,-4.0850684,Wales,Carmarthenshire,0.41,0.52,3
 1085,0.0,51.800749,-4.2424719,Wales,Carmarthenshire,0.41,0.52,3
