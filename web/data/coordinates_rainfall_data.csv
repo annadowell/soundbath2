@@ -491,7 +491,7 @@ E23392,0.0,52.835301,0.858574,England,Norfolk,0.07,0,1
 E1700,0.0,51.046446,0.196269,England,East Sussex,0.07,0,1
 1795,0.0,52.416368,-2.837286,England,Shropshire,0.07,0.16,1
 1769,0.0,52.199933,-2.097246,England,Worcestershire,0.07,0.14,1
-585512,0.0,54.37577,-2.72272,England,Westmorland and Furness,0.07,0.16,1
+585512,0.1,54.37577,-2.72272,England,Westmorland and Furness,0.07,0.16,1
 603315,,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
 600735,0.0,54.630789,-2.88989,England,Westmorland and Furness,0.07,0.16,1
 E23657,,52.015604,-0.963195,England,Buckinghamshire,0.07,0.07,1
@@ -955,7 +955,7 @@ E22268,0.0,52.041145,0.142627,England,Essex,0.07,0,1
 0925SE,0.0,51.207877,1.383789,England,Kent,0.07,0.01,1
 0924SE,0.0,51.251014,1.322456,England,Kent,0.07,0.01,1
 563170,0.0,53.53478,-2.162144,England,Oldham,0.07,0.07,1
-1822SO,0.1,50.811276,0.219288,England,East Sussex,0.07,0,1
+1822SO,0.0,50.811276,0.219288,England,East Sussex,0.07,0,1
 Coldw1,,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
 Mitch1,,53.742978,-2.323663,England,Lancashire,0.07,0.08,1
 Edgeh1,,53.560463,-2.873303,England,Lancashire,0.07,0.08,1
@@ -1003,7 +1003,7 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 592850,0.0,54.548496,-3.06434,England,Cumberland,0.07,0.07,1
 75497,0.0,53.815189,-1.823015,England,Bradford,0.07,0.1,1
 585160,0.0,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
-14880,0.0,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
+14880,0.01,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 540001RG,0.0,51.527809,0.085279,England,Greater London,0.07,0,1
 Egerton1,0.0,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
 605324,0.0,54.583702,-3.237013,England,Cumberland,0.07,0.07,1
@@ -1017,7 +1017,7 @@ E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
-603315,0.1,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
+603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
 598145,0.0,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 569723,0.0,53.604601,-2.556847,England,Lancashire,0.07,0.08,1
 1403SE,,51.130603,1.318089,England,Kent,0.07,0.01,1
@@ -1335,7 +1335,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1039,0.0,52.253424,-3.6387904,Wales,Powys,0.41,0.29,3
 1040,0.0,51.718341,-3.0303118,Wales,Torfaen,0.41,1.8,3
 1041,0.0,51.689408,-3.2075244,Wales,Caerphilly County Borough,0.41,0.33,3
-1042,0.0,51.793003,-3.4337095,Wales,Rhondda Cynon Taf,0.41,0.4,3
+1042,0.2,51.793003,-3.4337095,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1043,0.2,51.679039,-3.4881214,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1044,0.0,51.657853,-3.3975177,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1045,0.0,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
