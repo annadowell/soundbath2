@@ -40,7 +40,7 @@ E24195,0.0,52.103622,0.807145,England,Suffolk,0.07,0,1
 48148,0.0,50.171774,-5.437334,England,Cornwall,0.07,0.08,1
 37292,0.0,54.204227,-0.30358,England,North Yorkshire,0.07,0.06,1
 86575,0.0,53.591095,-1.271011,England,Doncaster,0.07,0,1
-E1179,0.2,52.456899,-1.052938,England,Leicestershire,0.07,0,1
+E1179,0.0,52.456899,-1.052938,England,Leicestershire,0.07,0,1
 E4753,0.0,51.160348,1.119955,England,Kent,0.07,0.01,1
 E24847,0.0,51.889291,0.584473,England,Essex,0.07,0,1
 3173,0.0,53.017139,-1.981319,England,Staffordshire,0.07,0.14,1
@@ -608,7 +608,7 @@ E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
 E7180,0.0,50.903167,0.47968,England,East Sussex,0.07,0,1
 E7170,0.0,53.077492,-0.622888,England,Lincolnshire,0.07,0,1
-E2476,0.2,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
+E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
 245176TP,0.0,51.588712,-0.112596,England,London Borough of Haringey,0.07,0,1
 577271,0.0,53.783353,-2.991754,England,Lancashire,0.07,0.08,1
 3773,0.0,53.032232,-1.050823,England,Nottinghamshire,0.07,0,1
@@ -1395,7 +1395,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1099,0.0,51.933469,-4.812237,Wales,Pembrokeshire,0.41,0.57,3
 1100,0.0,51.942333,-5.0822954,Wales,Pembrokeshire,0.41,0.57,3
 1101,0.0,51.720185,-4.7250113,Wales,Pembrokeshire,0.41,0.57,3
-1102,0.2,51.786916,-4.6363572,Wales,Carmarthenshire,0.41,0.52,3
+1102,0.4,51.786916,-4.6363572,Wales,Carmarthenshire,0.41,0.52,3
 1103,0.0,51.67497,-4.7279362,Wales,Pembrokeshire,0.41,0.57,3
 1104,0.0,51.944699,-4.5026199,Wales,Carmarthenshire,0.41,0.52,3
 1105,0.0,52.456274,-3.939291,Wales,Ceredigion,0.41,0.2,3
