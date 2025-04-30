@@ -758,7 +758,7 @@ E5170,0.0,51.117863,1.194265,England,Kent,0.07,0.01,1
 574656,,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
 E23440,0.0,52.825263,1.408721,England,Norfolk,0.07,0,1
 E24908,0.0,51.584133,0.637851,England,Essex,0.07,0,1
-39268,0.0,54.04064,-0.241524,England,East Riding of Yorkshire,0.07,0,1
+39268,0.2,54.04064,-0.241524,England,East Riding of Yorkshire,0.07,0,1
 592464,0.0,54.511299,-3.197753,England,Cumberland,0.07,0.07,1
 14555,0.0,54.97002,-2.500603,England,Northumberland,0.07,0,1
 1140,,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
@@ -789,7 +789,7 @@ E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 575335,,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
 575335,0.0,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
 605382,,54.680261,-2.999541,England,Westmorland and Furness,0.07,0.16,1
-E1716,0.0,52.434206,-0.92251,England,West Northamptonshire,0.07,0.02,1
+E1716,0.2,52.434206,-0.92251,England,West Northamptonshire,0.07,0.02,1
 40492,0.0,53.6913,-0.031959,England,East Riding of Yorkshire,0.07,0,1
 586898,0.0,54.420696,-2.979342,England,Westmorland and Furness,0.07,0.16,1
 E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
@@ -804,7 +804,7 @@ E46331,0.0,53.248384,0.004612,England,Lincolnshire,0.07,0,1
 77336,0.0,53.77754,-2.084173,England,Calderdale,0.07,0.13,1
 3201,0.0,52.579333,-1.532878,England,Warwickshire,0.07,0.13,1
 E24940,0.0,51.835947,0.597384,England,Essex,0.07,0,1
-51126,0.1,51.124753,-3.200962,England,Somerset,0.07,0.05,1
+51126,0.0,51.124753,-3.200962,England,Somerset,0.07,0.05,1
 E1980,0.0,52.24053,-1.091234,England,West Northamptonshire,0.07,0.02,1
 E5722,0.0,53.031102,-0.503575,England,Lincolnshire,0.07,0,1
 E9660,0.0,50.929364,-0.469557,England,West Sussex,0.07,0.04,1
@@ -1035,7 +1035,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115501,0.0,55.35009103,-5.717857841,Scotland,Argyll and Bute,0.08,0.15,2
 15198,0.0,56.06640057,-3.371633207,Scotland,Fife,0.08,0,2
 115506,0.0,55.66308049,-4.757486092,Scotland,North Ayrshire,0.08,0,2
-491811,0.225,57.22063972,-3.651932222,Scotland,Highland,0.08,0.08,2
+491811,0.25,57.22063972,-3.651932222,Scotland,Highland,0.08,0.08,2
 15163,0.0,56.11221933,-4.342412217,Scotland,Stirling,0.08,0,2
 14964,0.0,56.31678388,-4.112254665,Scotland,Perth and Kinross,0.08,0,2
 14952,0.0,56.47302976,-3.904678161,Scotland,Perth and Kinross,0.08,0,2
