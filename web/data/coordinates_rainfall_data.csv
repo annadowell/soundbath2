@@ -145,10 +145,10 @@ E24874,0.0,51.906849,1.087118,England,Essex,0.07,0,1
 6403,0.0,55.237908,-1.918977,England,Northumberland,0.07,0,1
 1773,0.0,52.222319,-2.17488,England,Worcestershire,0.07,0.14,1
 8850,0.0,55.255608,-2.540374,England,Northumberland,0.07,0,1
-13045,0.1,54.742208,-2.378185,England,Westmorland and Furness,0.07,0.16,1
+13045,0.0,54.742208,-2.378185,England,Westmorland and Furness,0.07,0.16,1
 E14930,0.0,50.623497,-1.307947,England,Isle of Wight,0.07,0.01,1
 1748,0.0,52.481743,-2.579368,England,Shropshire,0.07,0.16,1
-35302,0.4,54.517093,-0.752561,England,North Yorkshire,0.07,0.06,1
+35302,0.0,54.517093,-0.752561,England,North Yorkshire,0.07,0.06,1
 E11120,0.0,50.78281,-0.694221,England,West Sussex,0.07,0.04,1
 1387,0.0,52.424304,-3.172736,England,Shropshire,0.07,0.16,1
 77952,0.0,53.772138,-1.90361,England,Calderdale,0.07,0.13,1
@@ -160,7 +160,7 @@ E24894,,51.890899,1.212487,England,Essex,0.07,0,1
 1812,0.0,51.89986,-2.41343,England,Gloucestershire,0.07,0.1,1
 552376,0.0,52.965913,-2.459268,England,Cheshire East,0.07,0.14,1
 77800,0.0,53.636457,-2.005248,England,Calderdale,0.07,0.13,1
-13336,0.2,54.774946,-2.516845,England,Westmorland and Furness,0.07,0.16,1
+13336,0.0,54.774946,-2.516845,England,Westmorland and Furness,0.07,0.16,1
 47113,0.3,50.418385,-3.960029,England,Devon,0.07,0.14,1
 45108,,50.884946,-3.487642,England,Devon,0.07,0.14,1
 E6270,0.0,51.032353,0.577858,England,Kent,0.07,0.01,1
@@ -184,7 +184,7 @@ E1320,0.0,51.202399,0.077705,England,Kent,0.07,0.01,1
 45164,0.0,50.614674,-3.380154,England,Devon,0.07,0.14,1
 53159,0.0,51.366659,-2.621201,England,Bath and North East Somerset,0.07,0.05,1
 57426,0.0,54.18467,-1.901124,England,North Yorkshire,0.07,0.06,1
-E2493,0.0,52.814,0.01276,England,Lincolnshire,0.07,0,1
+E2493,0.2,52.814,0.01276,England,Lincolnshire,0.07,0,1
 239374TP,0.0,51.575345,0.041271,England,London Borough of Redbridge,0.07,0,1
 3099,0.0,52.807639,-1.889433,England,Staffordshire,0.07,0.14,1
 77836,0.0,53.657107,-1.925056,England,Calderdale,0.07,0.13,1
@@ -215,7 +215,7 @@ E4520,0.0,51.225958,0.726173,England,Kent,0.07,0.01,1
 5782,0.0,55.154354,-1.944254,England,Northumberland,0.07,0,1
 E41311,0.0,51.520749,0.616886,England,Essex,0.07,0,1
 E2331,0.0,52.473204,-0.862668,England,North Northamptonshire,0.07,0,1
-920359,0.0,55.553328,-1.997587,England,Northumberland,0.07,0,1
+920359,0.2,55.553328,-1.997587,England,Northumberland,0.07,0,1
 1119,0.0,52.031946,-2.435056,England,Herefordshire,0.07,0.07,1
 30377,0.0,54.526112,-1.506309,England,Darlington,0.07,0,1
 E27601,0.0,51.530977,0.519422,England,Essex,0.07,0,1
@@ -252,7 +252,7 @@ E24957,0.0,52.101218,0.906298,England,Suffolk,0.07,0,1
 E24947,0.0,52.165978,0.556609,England,Suffolk,0.07,0,1
 261602TP,,51.772802,-0.689041,England,Buckinghamshire,0.07,0.07,1
 261602TP,0.0,51.772802,-0.689041,England,Buckinghamshire,0.07,0.07,1
-E24790,0.22,52.409069,1.30592,England,Norfolk,0.07,0,1
+E24790,0.0,52.409069,1.30592,England,Norfolk,0.07,0,1
 E7165,0.0,52.766451,-0.623828,England,Lincolnshire,0.07,0,1
 53115,0.0,51.210084,-2.450167,England,Somerset,0.07,0.05,1
 E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
@@ -324,7 +324,7 @@ E11080,0.0,50.828064,-0.805132,England,West Sussex,0.07,0.04,1
 3688,0.0,52.6315,-1.077247,England,City of Leicester,0.07,0,1
 53109,0.0,51.360132,-2.138539,England,Wiltshire,0.07,0.04,1
 E21234,0.0,52.633846,1.556421,England,Norfolk,0.07,0,1
-E24506,0.28,52.898685,0.4791,England,Norfolk,0.07,0,1
+E24506,0.0,52.898685,0.4791,England,Norfolk,0.07,0,1
 266474TP,,51.412945,-1.726028,England,Wiltshire,0.07,0.04,1
 48170,0.0,50.131262,-5.251088,England,Cornwall,0.07,0.08,1
 E37151,0.0,51.904776,0.848521,England,Essex,0.07,0,1
@@ -345,7 +345,7 @@ E5660,0.0,51.083056,0.871982,England,Kent,0.07,0.01,1
 1335,0.0,52.863499,-3.123644,England,Shropshire,0.07,0.16,1
 251556TP,0.0,51.826782,-1.862825,England,Gloucestershire,0.07,0.1,1
 41238,0.0,53.867134,-0.367439,England,East Riding of Yorkshire,0.07,0,1
-E22205,0.2,52.121748,-0.215784,England,Central Bedfordshire,0.07,0,1
+E22205,0.0,52.121748,-0.215784,England,Central Bedfordshire,0.07,0,1
 60947,0.0,54.218703,-2.195488,England,North Yorkshire,0.07,0.06,1
 50106,0.0,50.737466,-3.91805,England,Devon,0.07,0.14,1
 E160,0.0,51.384733,0.626364,England,Medway,0.07,0,1
@@ -375,7 +375,7 @@ E42971,0.0,52.181011,0.952464,England,Suffolk,0.07,0,1
 E21288,0.0,52.447056,1.60611,England,Suffolk,0.07,0,1
 577417,0.0,53.908061,-3.019063,England,Lancashire,0.07,0.08,1
 276956TP,0.0,51.828295,-0.446536,England,Hertfordshire,0.07,0,1
-35488,0.0,54.438313,-0.976984,England,North Yorkshire,0.07,0.06,1
+35488,1.2,54.438313,-0.976984,England,North Yorkshire,0.07,0.06,1
 45236,0.0,50.776987,-3.176428,England,Devon,0.07,0.14,1
 E7065,0.0,52.56456,-0.5077,England,North Northamptonshire,0.07,0,1
 E4540,0.0,51.202987,0.784947,England,Kent,0.07,0.01,1
@@ -416,7 +416,7 @@ E37081,0.0,52.84066,1.075753,England,Norfolk,0.07,0,1
 45102,0.0,51.129849,-3.534087,England,Somerset,0.07,0.05,1
 23164,0,54.610418,-1.740626,England,County Durham,0.07,0.05,1
 49105,0.0,50.558792,-4.637937,England,Cornwall,0.07,0.08,1
-16140,0.0,54.960162,-2.160033,England,Northumberland,0.07,0,1
+16140,0.1,54.960162,-2.160033,England,Northumberland,0.07,0,1
 E25051,0.0,53.235003,0.102885,England,Lincolnshire,0.07,0,1
 287864TP,0.0,51.380452,-0.135546,England,London Borough of Sutton,0.07,0,1
 45158,0.0,51.06991,-3.643436,England,Somerset,0.07,0.05,1
@@ -459,7 +459,7 @@ E10500,0.0,51.000801,-0.904738,England,Hampshire,0.07,0.07,1
 7292,0.0,55.033951,-1.969453,England,Northumberland,0.07,0,1
 E12570,0.0,51.008538,-1.335019,England,Hampshire,0.07,0.07,1
 244027TP,0.0,51.769108,0.016666,England,Hertfordshire,0.07,0,1
-E21637,0.09,52.269301,0.00265,England,Cambridgeshire,0.07,0,1
+E21637,0.0,52.269301,0.00265,England,Cambridgeshire,0.07,0,1
 257039TP,0.0,52.072227,-1.333928,England,Oxfordshire,0.07,0.07,1
 055R0521E_TG_326,,52.221039,-2.984386,England,Herefordshire,0.07,0.07,1
 261923TP,0.0,51.825767,-0.852925,England,Buckinghamshire,0.07,0.07,1
@@ -480,7 +480,7 @@ E7105,0.0,53.359329,-0.017234,England,Lincolnshire,0.07,0,1
 51729,0.0,54.413883,-1.988402,England,North Yorkshire,0.07,0.06,1
 E24756,0.0,52.494069,1.157581,England,Norfolk,0.07,0,1
 52101,0.0,50.971757,-3.122948,England,Somerset,0.07,0.05,1
-E22309,0.0,52.426228,0.740815,England,Norfolk,0.07,0,1
+E22309,0.03,52.426228,0.740815,England,Norfolk,0.07,0,1
 E14440,0.0,50.744376,-1.57404,England,Hampshire,0.07,0.07,1
 52105,0.0,51.134741,-2.999693,England,Somerset,0.07,0.05,1
 571894,0.0,54.103514,-2.27294,England,North Yorkshire,0.07,0.06,1
@@ -514,7 +514,7 @@ E3281,0.0,51.324099,0.908555,England,Kent,0.07,0.01,1
 1141,0.0,51.777374,-2.093434,England,Gloucestershire,0.07,0.1,1
 573674,0.0,53.971437,-2.529714,England,Lancashire,0.07,0.08,1
 E19017,0.0,52.058925,0.296651,England,Essex,0.07,0,1
-240662TP,0.0,51.937159,-0.384591,England,Hertfordshire,0.07,0,1
+240662TP,0.2,51.937159,-0.384591,England,Hertfordshire,0.07,0,1
 558491,0.0,53.38925,-1.919511,England,Derbyshire,0.07,0.07,1
 59793,0.0,53.966652,-1.115089,England,York,0.07,0,1
 13553,,54.820161,-2.445834,England,Westmorland and Furness,0.07,0.16,1
@@ -546,7 +546,7 @@ E12160,0.0,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
 45231,0.0,50.76725,-2.963477,England,Devon,0.07,0.14,1
 247540TP,0.0,51.479469,-0.451216,England,London Borough of Hillingdon,0.07,0,1
 74385,0.0,53.947438,-2.020525,England,North Yorkshire,0.07,0.06,1
-35305,0.0,54.486239,-0.724171,England,North Yorkshire,0.07,0.06,1
+35305,0.3,54.486239,-0.724171,England,North Yorkshire,0.07,0.06,1
 1774,0.0,52.338976,-2.542273,England,Worcestershire,0.07,0.14,1
 E9720,0.0,50.860296,-0.483186,England,West Sussex,0.07,0.04,1
 1548,0.0,52.408068,-2.335847,England,Worcestershire,0.07,0.14,1
@@ -752,7 +752,7 @@ E1976,0.0,52.615107,-0.675844,England,Rutland,0.07,0,1
 3779,0.0,53.591168,-0.7392,England,North Lincolnshire,0.07,0,1
 E43545,0.0,53.2518,-0.151126,England,Lincolnshire,0.07,0,1
 E5731,0.0,52.226854,-0.464875,England,Bedford,0.07,0,1
-35103,1.0,54.541989,-0.815179,England,North Yorkshire,0.07,0.06,1
+35103,0.4,54.541989,-0.815179,England,North Yorkshire,0.07,0.06,1
 E5170,0.0,51.117863,1.194265,England,Kent,0.07,0.01,1
 1040,0.0,52.309441,-1.774803,England,Warwickshire,0.07,0.13,1
 574656,,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
@@ -866,13 +866,13 @@ E24718,0.0,52.29472,0.332298,England,Cambridgeshire,0.07,0,1
 1747,0.0,52.806646,-2.49764,England,Shropshire,0.07,0.16,1
 44201,0.0,50.613852,-1.958246,England,Dorset,0.07,0.17,1
 E24712,0.0,52.016759,-0.488107,England,Central Bedfordshire,0.07,0,1
-6077,0.1,55.207377,-2.040032,England,Northumberland,0.07,0,1
+6077,0.0,55.207377,-2.040032,England,Northumberland,0.07,0,1
 51124,0.0,51.207152,-3.536655,England,Somerset,0.07,0.05,1
 E24141,,52.307124,1.153055,England,Suffolk,0.07,0,1
 531179,0.0,51.460233,-2.609517,England,City of Bristol,0.07,0.2,1
 3096,0.0,52.615214,-2.152813,England,Wolverhampton,0.07,0,1
 246726TP,0.0,51.610639,-0.312441,England,London Borough of Harrow,0.07,0,1
-54371,0.0,54.419203,-1.515299,England,North Yorkshire,0.07,0.06,1
+54371,0.2,54.419203,-1.515299,England,North Yorkshire,0.07,0.06,1
 E8040,0.0,50.930862,0.267671,England,East Sussex,0.07,0,1
 47164,0.0,50.501188,-4.060758,England,Devon,0.07,0.14,1
 562811,,53.560873,-2.141109,England,Oldham,0.07,0.07,1
@@ -918,7 +918,7 @@ E1711,,51.142735,0.09504,England,Kent,0.07,0.01,1
 E2400,,51.096946,0.544313,England,Kent,0.07,0.01,1
 E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 2705SO,0.0,50.759531,-0.787028,England,West Sussex,0.07,0.04,1
-035024NE,1.0,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
+035024NE,1.2,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 588006,0.0,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 270397,0.0,51.44172,-0.937391,England,England,0.07,0,1
@@ -975,7 +975,7 @@ E42297,0.0,52.061887,0.546282,England,Essex,0.07,0,1
 564154,0.0,53.497891,-2.499671,England,Wigan,0.07,0.13,1
 463589,0.0,51.758734,-2.612081,England,Gloucestershire,0.07,0.1,1
 E25173,0.0,52.703292,0.697456,England,Norfolk,0.07,0,1
-E48676,0.1,52.307124,1.153055,England,Suffolk,0.07,0,1
+E48676,0.0,52.307124,1.153055,England,Suffolk,0.07,0,1
 585122,0.0,54.406987,-2.892739,England,Westmorland and Furness,0.07,0.16,1
 0323SO,,51.246536,0.022379,England,Surrey,0.07,0,1
 340767,0.0,50.968137,-1.918056,England,Hampshire,0.07,0.07,1
@@ -1017,15 +1017,15 @@ E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 3340,0.0,52.446032,-1.746153,England,Metropolitan Borough of Solihull,0.07,0,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
-603315,0.1,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
+603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
 598145,0.0,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 569723,0.0,53.604601,-2.556847,England,Lancashire,0.07,0.08,1
 1403SE,,51.130603,1.318089,England,Kent,0.07,0.01,1
-1403SE,0.01,51.130603,1.318089,England,Kent,0.07,0.01,1
+1403SE,0.0,51.130603,1.318089,England,Kent,0.07,0.01,1
 574656,,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
 574656,0.0,53.833251,-2.102519,England,Lancashire,0.07,0.08,1
 E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
-15018,0.0,55.85329633,-2.387448356,Scotland,Scottish Borders,0.08,0,2
+15018,0.3,55.85329633,-2.387448356,Scotland,Scottish Borders,0.08,0,2
 234150,0.0,57.48021805,-3.205975095,Scotland,Moray,0.08,0,2
 115301,0.0,57.26272622,-5.005979754,Scotland,Highland,0.08,0.08,2
 234170,0.0,57.24230294,-2.717123004,Scotland,Aberdeenshire,0.08,0.02,2
@@ -1055,7 +1055,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 320371,0.0,58.16554218,-6.740713858,Scotland,Western Isles,0.08,0,2
 115516,0.0,55.52935031,-4.326283061,Scotland,East Ayrshire,0.08,0.11,2
 115203,0.0,57.61017023,-3.222796593,Scotland,Moray,0.08,0,2
-533744,0.05,55.59164323,-2.798878774,Scotland,Scottish Borders,0.08,0,2
+533744,0.0,55.59164323,-2.798878774,Scotland,Scottish Borders,0.08,0,2
 115518,0.0,55.20254702,-3.320073284,Scotland,Dumfries and Galloway,0.08,0.3,2
 101227,0.0,55.44068058,-4.49863386,Scotland,South Ayrshire,0.08,0.88,2
 15161,0.0,56.28192154,-3.904225732,Scotland,Perth and Kinross,0.08,0,2
@@ -1234,7 +1234,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 335621,0.0,56.03149667,-2.734270572,Scotland,East Lothian,0.08,0,2
 15215,0.0,55.92185875,-2.653499917,Scotland,East Lothian,0.08,0,2
 367364,0.0,57.35801578,-2.577016947,Scotland,Aberdeenshire,0.08,0.02,2
-15007,0.0,55.54491924,-2.473314492,Scotland,Scottish Borders,0.08,0,2
+15007,0.05,55.54491924,-2.473314492,Scotland,Scottish Borders,0.08,0,2
 335375,0.0,55.23585144,-4.747897404,Scotland,South Ayrshire,0.08,0.88,2
 341345,0.0,56.38611935,-3.464092253,Scotland,Perth and Kinross,0.08,0,2
 115632,0.0,55.73611493,-4.281846657,Scotland,East Renfrewshire,0.08,0,2
