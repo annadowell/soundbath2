@@ -254,7 +254,7 @@ E24947,0.0,52.165978,0.556609,England,Suffolk,0.07,0,1
 261602TP,0.0,51.772802,-0.689041,England,Buckinghamshire,0.07,0.07,1
 E24790,0.0,52.409069,1.30592,England,Norfolk,0.07,0,1
 E7165,0.0,52.766451,-0.623828,England,Lincolnshire,0.07,0,1
-53115,0.0,51.210084,-2.450167,England,Somerset,0.07,0.05,1
+53115,0.008,51.210084,-2.450167,England,Somerset,0.07,0.05,1
 E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 48182,0.0,50.249425,-5.040268,England,Cornwall,0.07,0.08,1
 570231,0.0,53.596101,-2.789423,England,Lancashire,0.07,0.08,1
@@ -390,7 +390,7 @@ E2365,0.0,52.632078,-0.313309,England,City of Peterborough,0.07,0,1
 596026,0.0,54.849851,-3.310562,England,Cumberland,0.07,0.07,1
 E11040,0.0,50.889075,-0.881768,England,West Sussex,0.07,0.04,1
 E14910,0.0,50.722216,-1.142162,England,Isle of Wight,0.07,0.01,1
-E12580,0.0,51.089429,-1.328148,England,Hampshire,0.07,0.07,1
+E12580,0.1,51.089429,-1.328148,England,Hampshire,0.07,0.07,1
 000102TP,,51.914149,0.249994,England,Essex,0.07,0,1
 41917,0.0,53.805201,-0.309101,England,Kingston upon Hull,0.07,0,1
 3616,0.0,53.22531,-1.701132,England,Derbyshire,0.07,0.07,1
@@ -591,7 +591,7 @@ E42135,0.0,53.232468,-0.366215,England,Lincolnshire,0.07,0,1
 3861,0.0,53.521199,-1.045964,England,Doncaster,0.07,0,1
 45113,,50.799653,-3.737529,England,Devon,0.07,0.14,1
 E24737,0.0,52.32454,0.894501,England,Suffolk,0.07,0,1
-52227,0.005,51.183161,-2.90631,England,Somerset,0.07,0.05,1
+52227,0.0,51.183161,-2.90631,England,Somerset,0.07,0.05,1
 3781,0.0,52.49028,-1.866665,England,Birmingham,0.07,0.05,1
 247344TP,0.0,51.550032,-0.415648,England,London Borough of Hillingdon,0.07,0,1
 E13580,0.0,51.103128,-1.562184,England,Hampshire,0.07,0.07,1
@@ -602,7 +602,7 @@ E13580,0.0,51.103128,-1.562184,England,Hampshire,0.07,0.07,1
 E1691,,51.100206,0.007416,England,East Sussex,0.07,0,1
 32822,0.0,54.633845,-1.480219,England,County Durham,0.07,0.05,1
 613467,0.0,55.005582,-2.999799,England,Cumberland,0.07,0.07,1
-E1645,0.0,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
+E1645,0.1,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
 E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 3603,0.0,53.079174,-0.867665,England,Nottinghamshire,0.07,0,1
 51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
@@ -687,7 +687,7 @@ E21096,0.0,52.583985,0.346152,England,Norfolk,0.07,0,1
 E14850,0.0,50.626578,-1.225903,England,Isle of Wight,0.07,0.01,1
 1713,0.0,52.84224,-2.872181,England,Shropshire,0.07,0.16,1
 22163,0.0,54.761631,-1.902834,England,County Durham,0.07,0.05,1
-52147,0.01,51.053779,-2.892367,England,Somerset,0.07,0.05,1
+52147,0.0,51.053779,-2.892367,England,Somerset,0.07,0.05,1
 E23470,0.0,52.191671,1.4844,England,Suffolk,0.07,0,1
 E1457,0.0,53.275431,-0.63753,England,Lincolnshire,0.07,0,1
 560557,0.0,53.431001,-2.352893,England,Trafford,0.07,0.15,1
@@ -1388,7 +1388,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1092,0.0,51.635761,-3.5252862,Wales,Bridgend County Borough,0.41,0.13,3
 1093,0.0,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
-1095,0.2,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
+1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
 1096,0.0,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
 1097,0.0,51.851752,-4.8887233,Wales,Pembrokeshire,0.41,0.57,3
 1098,0.0,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
