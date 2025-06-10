@@ -329,7 +329,7 @@ E24506,0.0,52.898685,0.4791,England,Norfolk,0.07,0,1
 48170,0.0,50.131262,-5.251088,England,Cornwall,0.07,0.08,1
 E37151,0.0,51.904776,0.848521,England,Essex,0.07,0,1
 28185,0.0,54.560368,-1.983723,England,County Durham,0.07,0.05,1
-46106,0.1,50.548234,-3.940001,England,Devon,0.07,0.14,1
+46106,0.0,50.548234,-3.940001,England,Devon,0.07,0.14,1
 246424TP,0.0,51.501145,-0.205547,England,Royal Borough of Kensington and Chelsea,0.07,0,1
 44101,0.0,50.800366,-2.738533,England,Dorset,0.07,0.17,1
 3066,0.0,55.350136,-2.171067,England,Northumberland,0.07,0,1
@@ -815,7 +815,7 @@ E9660,0.0,50.929364,-0.469557,England,West Sussex,0.07,0.04,1
 E2433,0.0,52.296783,-0.670693,England,North Northamptonshire,0.07,0,1
 286392TP,0.0,51.400709,-0.284238,England,Royal Borough of Kingston upon Thames,0.07,0,1
 78772,0.0,53.552738,-1.824111,England,Kirklees,0.07,0.03,1
-46161,0.1,50.384444,-3.523968,England,Torbay,0.07,0.45,1
+46161,0.0,50.384444,-3.523968,England,Torbay,0.07,0.45,1
 563599,,53.462415,-2.368215,England,Trafford,0.07,0.15,1
 E5733,0.0,51.895742,0.451114,England,Essex,0.07,0,1
 588705,0.0,54.190769,-3.163942,England,Westmorland and Furness,0.07,0.16,1
@@ -1005,7 +1005,7 @@ E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 585160,0.0,54.43892,-2.825593,England,Westmorland and Furness,0.07,0.16,1
 14880,0.0,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 540001RG,0.0,51.527809,0.085279,England,Greater London,0.07,0,1
-Egerton1,0.0,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
+Egerton1,0.1,53.636515,-2.448375,England,Blackburn with Darwen,0.07,0.2,1
 605324,0.0,54.583702,-3.237013,England,Cumberland,0.07,0.07,1
 E60880,0.0,51.164146,-1.894828,England,Wiltshire,0.07,0.04,1
 E85220,0.0,51.037989,-3.736447,England,Devon,0.07,0.14,1
@@ -1326,7 +1326,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1030,0.0,52.740274,-3.6463927,Wales,Gwynedd,0.41,0.37,3
 1031,0.0,52.648513,-3.5993058,Wales,Powys,0.41,0.29,3
 1032,0.0,52.930315,-4.1223199,Wales,Gwynedd,0.41,0.37,3
-1033,0.6,52.797615,-3.785006,Wales,Gwynedd,0.41,0.37,3
+1033,0.0,52.797615,-3.785006,Wales,Gwynedd,0.41,0.37,3
 1034,0.0,51.809656,-3.2167269,Wales,Blaenau Gwent,0.41,0.4,3
 1035,0.0,51.755288,-3.1299887,Wales,Blaenau Gwent,0.41,0.4,3
 1036,0.0,51.589311,-3.1640454,Wales,Caerphilly County Borough,0.41,0.33,3
