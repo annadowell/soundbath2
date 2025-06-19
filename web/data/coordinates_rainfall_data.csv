@@ -471,7 +471,7 @@ E37271,0.0,52.049494,0.452229,England,Essex,0.07,0,1
 589359,0.0,54.342135,-3.21744,England,Westmorland and Furness,0.07,0.16,1
 E2544,0.0,52.495753,-0.470258,England,North Northamptonshire,0.07,0,1
 239579TP,,51.527809,0.085279,England,Greater London,0.07,0,1
-586493,0.0,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
+586493,0.1,54.246782,-2.923038,England,Westmorland and Furness,0.07,0.16,1
 E21179,0.0,51.636308,0.385069,England,Essex,0.07,0,1
 243045TP,0.0,51.965517,0.147752,England,Essex,0.07,0,1
 558016,0.0,53.24456,-1.997705,England,Cheshire East,0.07,0.14,1
@@ -1341,7 +1341,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1045,0.0,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1046,0.0,51.48559,-3.2672733,Wales,Cardiff,0.41,0,3
 1047,0.0,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
-1048,0.0,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
+1048,0.4,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1049,0.0,51.939018,-3.4015996,Wales,Powys,0.41,0.29,3
 1050,0.0,51.577237,-2.8022824,Wales,Monmouthshire,0.41,0.8,3
 1051,0.0,51.887655,-3.6229202,Wales,Powys,0.41,0.29,3
