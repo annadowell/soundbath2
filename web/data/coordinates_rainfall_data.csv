@@ -261,7 +261,7 @@ E9290,0.0,51.04624,-0.400084,England,West Sussex,0.07,0.04,1
 1082,0.0,52.186855,-1.418519,England,Warwickshire,0.07,0.13,1
 1121,0.0,52.718322,-2.717219,England,Shropshire,0.07,0.16,1
 261021TP,0.0,51.653876,-1.288038,England,Oxfordshire,0.07,0.07,1
-1770,0.0,52.288216,-1.222206,England,West Northamptonshire,0.07,0.02,1
+1770,0.4,52.288216,-1.222206,England,West Northamptonshire,0.07,0.02,1
 602253,0.0,54.779014,-2.608625,England,Westmorland and Furness,0.07,0.16,1
 288504TP,0.0,51.349274,0.009666,England,London Borough of Bromley,0.07,0,1
 269627TP,0.0,51.345161,-1.239706,England,Hampshire,0.07,0.07,1
@@ -423,7 +423,7 @@ E25051,0.0,53.235003,0.102885,England,Lincolnshire,0.07,0,1
 E802,0.0,51.194952,0.237676,England,Kent,0.07,0.01,1
 E24901,0.0,51.793116,0.963307,England,Essex,0.07,0,1
 25394,0.0,54.894495,-1.489343,England,Tyne and Wear,0.07,0,1
-603111,0.2,55.093207,-2.481773,England,Northumberland,0.07,0,1
+603111,0.0,55.093207,-2.481773,England,Northumberland,0.07,0,1
 592848,,54.532336,-3.062374,England,Cumberland,0.07,0.07,1
 E8530,0.0,50.913393,0.044891,England,East Sussex,0.07,0,1
 E42961,0.0,52.945882,0.745281,England,Norfolk,0.07,0,1
@@ -751,7 +751,7 @@ E1976,0.0,52.615107,-0.675844,England,Rutland,0.07,0,1
 43201,0.0,51.085428,-2.353299,England,Somerset,0.07,0.05,1
 3779,0.0,53.591168,-0.7392,England,North Lincolnshire,0.07,0,1
 E43545,0.0,53.2518,-0.151126,England,Lincolnshire,0.07,0,1
-E5731,0.0,52.226854,-0.464875,England,Bedford,0.07,0,1
+E5731,0.1,52.226854,-0.464875,England,Bedford,0.07,0,1
 35103,0.0,54.541989,-0.815179,England,North Yorkshire,0.07,0.06,1
 E5170,0.0,51.117863,1.194265,England,Kent,0.07,0.01,1
 1040,0.0,52.309441,-1.774803,England,Warwickshire,0.07,0.13,1
@@ -906,7 +906,7 @@ E7260,0.0,50.8635,0.56711,England,East Sussex,0.07,0,1
 582970,0.0,54.122231,-2.572947,England,Lancashire,0.07,0.08,1
 48103,0.0,50.1602,-5.114418,England,Cornwall,0.07,0.08,1
 49147,0.0,50.391624,-5.071876,England,Cornwall,0.07,0.08,1
-46167,0.0,50.592206,-3.717163,England,Devon,0.07,0.14,1
+46167,0.1,50.592206,-3.717163,England,Devon,0.07,0.14,1
 E7190,,50.811276,0.219288,England,East Sussex,0.07,0,1
 E7190,,50.811276,0.219288,England,East Sussex,0.07,0,1
 588886,0.0,54.136092,-3.238939,England,Westmorland and Furness,0.07,0.16,1
