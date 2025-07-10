@@ -762,7 +762,7 @@ E24908,0.0,51.584133,0.637851,England,Essex,0.07,0,1
 592464,0.0,54.511299,-3.197753,England,Cumberland,0.07,0.07,1
 14555,0.0,54.97002,-2.500603,England,Northumberland,0.07,0,1
 1140,,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
-1140,0.4,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
+1140,0.0,51.875411,-2.019556,England,Gloucestershire,0.07,0.1,1
 288092TP,0.0,51.4214,-0.109429,England,London Borough of Croydon,0.07,0,1
 44132,0.0,50.658982,-2.415165,England,Dorset,0.07,0.17,1
 3771,0.0,52.948025,-1.088386,England,Nottinghamshire,0.07,0,1
@@ -1018,7 +1018,7 @@ E82880,0.0,51.199461,-3.702435,England,Somerset,0.07,0.05,1
 266474TP_TEMPNo,0.0,51.427328,-1.724504,England,Wiltshire,0.07,0.04,1
 290320,0.0,51.292886,0.195101,England,Kent,0.07,0.01,1
 603315,0.0,55.026371,-2.560748,England,Cumberland,0.07,0.07,1
-598145,0.1,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
+598145,0.0,54.504409,-2.241634,England,Westmorland and Furness,0.07,0.16,1
 569723,0.0,53.604601,-2.556847,England,Lancashire,0.07,0.08,1
 1403SE,,51.130603,1.318089,England,Kent,0.07,0.01,1
 1403SE,0.0,51.130603,1.318089,England,Kent,0.07,0.01,1
