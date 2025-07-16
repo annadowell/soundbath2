@@ -7,7 +7,7 @@ E1310,,52.493886,-0.649292,England,North Northamptonshire,0.07,0,1
 3275,0.0,52.635078,-1.944539,England,Walsall,0.07,0.2,1
 3167,0.0,52.419334,-1.990391,England,Worcestershire,0.07,0.14,1
 3307,0.0,53.196879,-1.901908,England,Staffordshire,0.07,0.14,1
-3404,0.4,53.287863,-1.579192,England,Derbyshire,0.07,0.07,1
+3404,0.0,53.287863,-1.579192,England,Derbyshire,0.07,0.07,1
 3014,0.0,52.886657,-2.182004,England,Staffordshire,0.07,0.14,1
 3901,0.0,53.305797,-1.088289,England,Nottinghamshire,0.07,0,1
 3999,0.0,52.564065,-1.199634,England,Leicestershire,0.07,0,1
@@ -86,7 +86,7 @@ E44121,0.0,51.931385,0.712001,England,Essex,0.07,0,1
 47105,0.0,50.686858,-4.234529,England,Devon,0.07,0.14,1
 E44111,0.0,51.874052,0.368575,England,Essex,0.07,0,1
 E24289,0.0,52.172202,0.251294,England,Cambridgeshire,0.07,0,1
-49149,0.0,50.679797,-4.695684,England,Cornwall,0.07,0.08,1
+49149,0.399,50.679797,-4.695684,England,Cornwall,0.07,0.08,1
 E871,0.0,51.274484,0.217164,England,Kent,0.07,0.01,1
 1201,0.0,52.343809,-1.955178,England,Worcestershire,0.07,0.14,1
 E7155,0.0,52.645246,-0.420704,England,City of Peterborough,0.07,0,1
@@ -922,7 +922,7 @@ E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 588006,0.0,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 270397,0.0,51.44172,-0.937391,England,England,0.07,0,1
-604742,0.1,54.670137,-2.788412,England,Westmorland and Furness,0.07,0.16,1
+604742,0.0,54.670137,-2.788412,England,Westmorland and Furness,0.07,0.16,1
 46168,0.0,50.680022,-3.738768,England,Devon,0.07,0.14,1
 577794,0.0,53.986056,-2.662577,England,Lancashire,0.07,0.08,1
 4527,,52.762972,-1.234524,England,Leicestershire,0.07,0,1
