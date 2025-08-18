@@ -95,7 +95,7 @@ E12560,0.0,51.006173,-1.114132,England,Hampshire,0.07,0.07,1
 52224,0.0,51.173877,-2.508462,England,Somerset,0.07,0.05,1
 E24935,0.0,51.702642,0.87633,England,Essex,0.07,0,1
 E45881,0.0,53.219937,-0.507486,England,Lincolnshire,0.07,0,1
-51127,0.021,51.163886,-3.611019,England,Somerset,0.07,0.05,1
+51127,0.0,51.163886,-3.611019,England,Somerset,0.07,0.05,1
 1814,0.0,52.481443,-1.558947,England,Warwickshire,0.07,0.13,1
 264845TP,0.0,51.532367,-1.135676,England,Oxfordshire,0.07,0.07,1
 63518,0.0,53.876425,-1.532241,England,Leeds,0.07,0.2,1
@@ -605,7 +605,7 @@ E1691,0.0,51.100206,0.007416,England,East Sussex,0.07,0,1
 E1645,0.0,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
 E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 3603,0.0,53.079174,-0.867665,England,Nottinghamshire,0.07,0,1
-51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
+51102,0.03,51.117739,-3.349372,England,Somerset,0.07,0.05,1
 E7180,0.0,50.903167,0.47968,England,East Sussex,0.07,0,1
 E7170,0.0,53.077492,-0.622888,England,Lincolnshire,0.07,0,1
 E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
@@ -1389,7 +1389,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1093,0.0,51.504862,-3.5398578,Wales,Bridgend County Borough,0.41,0.13,3
 1094,0.0,51.644625,-3.6452708,Wales,Neath Port Talbot,0.41,0.52,3
 1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
-1096,0.0,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
+1096,0.2,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
 1097,0.6,51.851752,-4.8887233,Wales,Pembrokeshire,0.41,0.57,3
 1098,0.0,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
 1099,0.0,51.933469,-4.812237,Wales,Pembrokeshire,0.41,0.57,3
