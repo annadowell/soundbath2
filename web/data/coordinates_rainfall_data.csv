@@ -7,7 +7,7 @@ E1310,,52.493886,-0.649292,England,North Northamptonshire,0.07,0,1
 3275,0.0,52.635078,-1.944539,England,Walsall,0.07,0.2,1
 3167,0.0,52.419334,-1.990391,England,Worcestershire,0.07,0.14,1
 3307,0.0,53.196879,-1.901908,England,Staffordshire,0.07,0.14,1
-3404,0.0,53.287863,-1.579192,England,Derbyshire,0.07,0.07,1
+3404,0.2,53.287863,-1.579192,England,Derbyshire,0.07,0.07,1
 3014,0.0,52.886657,-2.182004,England,Staffordshire,0.07,0.14,1
 3901,0.0,53.305797,-1.088289,England,Nottinghamshire,0.07,0,1
 3999,0.0,52.564065,-1.199634,England,Leicestershire,0.07,0,1
@@ -790,7 +790,7 @@ E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 575335,0.0,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
 605382,,54.680261,-2.999541,England,Westmorland and Furness,0.07,0.16,1
 E1716,0.0,52.434206,-0.92251,England,West Northamptonshire,0.07,0.02,1
-40492,0.2,53.6913,-0.031959,England,East Riding of Yorkshire,0.07,0,1
+40492,0.0,53.6913,-0.031959,England,East Riding of Yorkshire,0.07,0,1
 586898,0.0,54.420696,-2.979342,England,Westmorland and Furness,0.07,0.16,1
 E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 45208,0.0,50.850579,-2.888483,England,Somerset,0.07,0.05,1
@@ -854,7 +854,7 @@ E5724,0.0,53.088074,0.270439,England,Lincolnshire,0.07,0,1
 270669TP,0.0,51.292403,-1.035495,England,Hampshire,0.07,0.07,1
 3323,0.0,53.025808,-1.723384,England,Derbyshire,0.07,0.07,1
 50105,0.0,50.703195,-3.977548,England,Devon,0.07,0.14,1
-997,0.2,55.58067,-1.645446,England,Northumberland,0.07,0,1
+997,0.0,55.58067,-1.645446,England,Northumberland,0.07,0,1
 45100,0.0,51.161592,-3.769689,England,Devon,0.07,0.14,1
 47160,0.2,50.877791,-4.488167,England,Cornwall,0.07,0.08,1
 47156,0.0,50.700026,-4.056719,England,Devon,0.07,0.14,1
@@ -1391,12 +1391,12 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1095,0.0,51.581417,-3.6196189,Wales,Bridgend County Borough,0.41,0.13,3
 1096,0.0,51.760836,-5.0170933,Wales,Pembrokeshire,0.41,0.57,3
 1097,0.0,51.851752,-4.8887233,Wales,Pembrokeshire,0.41,0.57,3
-1098,0.0,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
+1098,0.2,51.949257,-4.591997,Wales,Pembrokeshire,0.41,0.57,3
 1099,0.0,51.933469,-4.812237,Wales,Pembrokeshire,0.41,0.57,3
 1100,0.2,51.942333,-5.0822954,Wales,Pembrokeshire,0.41,0.57,3
 1101,0.0,51.720185,-4.7250113,Wales,Pembrokeshire,0.41,0.57,3
 1102,0.0,51.786916,-4.6363572,Wales,Carmarthenshire,0.41,0.52,3
-1103,0.2,51.67497,-4.7279362,Wales,Pembrokeshire,0.41,0.57,3
+1103,0.0,51.67497,-4.7279362,Wales,Pembrokeshire,0.41,0.57,3
 1104,0.0,51.944699,-4.5026199,Wales,Carmarthenshire,0.41,0.52,3
 1105,0.0,52.456274,-3.939291,Wales,Ceredigion,0.41,0.2,3
 1106,0.0,52.438418,-4.032387,Wales,Ceredigion,0.41,0.2,3
