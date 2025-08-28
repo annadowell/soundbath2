@@ -1063,7 +1063,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 133144,0.0,55.26142915,-2.824951121,Scotland,Scottish Borders,0.08,0,2
 115521,0.25,55.03779638,-4.566314357,Scotland,Dumfries and Galloway,0.08,0.3,2
 335609,0.0,56.02806207,-3.978158502,Scotland,Falkirk,0.08,0,2
-14987,0.0,55.4061286,-3.211513384,Scotland,Scottish Borders,0.08,0,2
+14987,0.25,55.4061286,-3.211513384,Scotland,Scottish Borders,0.08,0,2
 115523,0.0,55.66513433,-3.895712474,Scotland,South Lanarkshire,0.08,0,2
 335612,0.0,55.86190844,-3.206554074,Scotland,Midlothian,0.08,0,2
 234176,0.0,57.34816,-3.034565786,Scotland,Moray,0.08,0,2
@@ -1338,7 +1338,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1042,7.8,51.793003,-3.4337095,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1043,1.8,51.679039,-3.4881214,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1044,1.0,51.657853,-3.3975177,Wales,Rhondda Cynon Taf,0.41,0.4,3
-1045,1.8,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
+1045,4.6,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1046,0.0,51.48559,-3.2672733,Wales,Cardiff,0.41,0,3
 1047,0.2,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1048,2.2,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
