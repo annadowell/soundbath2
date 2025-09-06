@@ -214,7 +214,7 @@ E4510,0.0,51.105558,0.979102,England,Kent,0.07,0.01,1
 E4520,0.0,51.225958,0.726173,England,Kent,0.07,0.01,1
 5782,0.0,55.154354,-1.944254,England,Northumberland,0.07,0,1
 E41311,0.0,51.520749,0.616886,England,Essex,0.07,0,1
-E2331,0.1,52.473204,-0.862668,England,North Northamptonshire,0.07,0,1
+E2331,0.0,52.473204,-0.862668,England,North Northamptonshire,0.07,0,1
 920359,0.0,55.553328,-1.997587,England,Northumberland,0.07,0,1
 1119,0.0,52.031946,-2.435056,England,Herefordshire,0.07,0.07,1
 30377,0.0,54.526112,-1.506309,England,Darlington,0.07,0,1
@@ -330,7 +330,7 @@ E24506,0.0,52.898685,0.4791,England,Norfolk,0.07,0,1
 E37151,0.0,51.904776,0.848521,England,Essex,0.07,0,1
 28185,0.0,54.560368,-1.983723,England,County Durham,0.07,0.05,1
 46106,0.0,50.548234,-3.940001,England,Devon,0.07,0.14,1
-246424TP,0.0,51.501145,-0.205547,England,Royal Borough of Kensington and Chelsea,0.07,0,1
+246424TP,0.2,51.501145,-0.205547,England,Royal Borough of Kensington and Chelsea,0.07,0,1
 44101,0.0,50.800366,-2.738533,England,Dorset,0.07,0.17,1
 3066,0.0,55.350136,-2.171067,England,Northumberland,0.07,0,1
 1687,0.0,52.016552,-2.653481,England,Herefordshire,0.07,0.07,1
@@ -687,7 +687,7 @@ E21096,0.0,52.583985,0.346152,England,Norfolk,0.07,0,1
 E14850,0.0,50.626578,-1.225903,England,Isle of Wight,0.07,0.01,1
 1713,0.0,52.84224,-2.872181,England,Shropshire,0.07,0.16,1
 22163,0.0,54.761631,-1.902834,England,County Durham,0.07,0.05,1
-52147,0.004,51.053779,-2.892367,England,Somerset,0.07,0.05,1
+52147,0.0,51.053779,-2.892367,England,Somerset,0.07,0.05,1
 E23470,0.0,52.191671,1.4844,England,Suffolk,0.07,0,1
 E1457,0.0,53.275431,-0.63753,England,Lincolnshire,0.07,0,1
 560557,0.0,53.431001,-2.352893,England,Trafford,0.07,0.15,1
@@ -1158,7 +1158,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 15200,0.0,55.83652095,-3.435270947,Scotland,West Lothian,0.08,0,2
 335640,0.0,56.52513594,-2.648539891,Scotland,Angus,0.08,0,2
 115227,0.0,57.42757524,-1.909678484,Scotland,Aberdeenshire,0.08,0.02,2
-115582,0.0,56.26715284,-5.494662553,Scotland,Argyll and Bute,0.08,0.15,2
+115582,0.05,56.26715284,-5.494662553,Scotland,Argyll and Bute,0.08,0.15,2
 15166,0.0,56.1262023,-4.446294544,Scotland,Stirling,0.08,0,2
 469625,0.0,55.74447583,-4.86116797,Scotland,North Ayrshire,0.08,0,2
 115584,0.0,55.34214596,-3.452988353,Scotland,Dumfries and Galloway,0.08,0.3,2
