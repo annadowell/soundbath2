@@ -633,7 +633,7 @@ E10360,0.0,51.037622,-0.899591,England,Hampshire,0.07,0.07,1
 4942,0.0,55.347002,-1.630189,England,Northumberland,0.07,0,1
 584098,0.0,54.128677,-2.71229,England,Lancashire,0.07,0.08,1
 48105,0.0,50.303659,-5.098505,England,Cornwall,0.07,0.08,1
-84532,0.1,53.366844,-1.351488,England,Rotherham,0.07,0,1
+84532,0.0,53.366844,-1.351488,England,Rotherham,0.07,0,1
 48155,0.0,50.593242,-4.743017,England,Cornwall,0.07,0.08,1
 E14880,,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 43205,0.0,50.755028,-1.936857,England,"Bournemouth, Christchurch and Poole",0.07,0.4,1
@@ -1200,7 +1200,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 115368,0.0,57.73309629,-4.936434641,Scotland,Highland,0.08,0.08,2
 14910,0.0,56.22701614,-4.43624573,Scotland,Stirling,0.08,0,2
 485489,0.0,56.23604254,-4.853369348,Scotland,Argyll and Bute,0.08,0.15,2
-354622,0.0,57.56195723,-7.316740973,Scotland,Western Isles,0.08,0,2
+354622,0.05,57.56195723,-7.316740973,Scotland,Western Isles,0.08,0,2
 14898,0.0,56.23425763,-4.25686637,Scotland,Stirling,0.08,0,2
 336847,0.0,57.41478835,-3.691385645,Scotland,Highland,0.08,0.08,2
 509677,0.0,55.78853152,-4.618943233,Scotland,Renfrewshire,0.08,0,2
@@ -1338,7 +1338,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 1042,0.0,51.793003,-3.4337095,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1043,0.4,51.679039,-3.4881214,Wales,Rhondda Cynon Taf,0.41,0.4,3
 1044,0.0,51.657853,-3.3975177,Wales,Rhondda Cynon Taf,0.41,0.4,3
-1045,0.0,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
+1045,0.2,51.797889,-3.3662566,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1046,0.0,51.48559,-3.2672733,Wales,Cardiff,0.41,0,3
 1047,0.0,51.684092,-3.2987023,Wales,Merthyr Tydfil County Borough,0.41,0.5,3
 1048,0.0,51.681388,-3.5444086,Wales,Rhondda Cynon Taf,0.41,0.4,3
