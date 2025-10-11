@@ -605,7 +605,7 @@ E1691,0.0,51.100206,0.007416,England,East Sussex,0.07,0,1
 E1645,0.0,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
 E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 3603,0.0,53.079174,-0.867665,England,Nottinghamshire,0.07,0,1
-51102,0.005,51.117739,-3.349372,England,Somerset,0.07,0.05,1
+51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
 E7180,0.0,50.903167,0.47968,England,East Sussex,0.07,0,1
 E7170,0.0,53.077492,-0.622888,England,Lincolnshire,0.07,0,1
 E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
@@ -783,7 +783,7 @@ E21602,0.0,51.733425,0.429285,England,Essex,0.07,0,1
 E8743,,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 E8743,0.0,50.853435,-0.133909,England,Brighton and Hove,0.07,0,1
 3571,0.0,53.105132,-2.154547,England,Staffordshire,0.07,0.14,1
-E5723,0.0,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
+E5723,0.1,53.093909,-0.172837,England,Lincolnshire,0.07,0,1
 E1606,0.0,52.930882,-0.4014,England,Lincolnshire,0.07,0,1
 34091,0.0,54.596104,-1.039588,England,Redcar and Cleveland,0.07,0,1
 575335,,53.862447,-2.348914,England,Lancashire,0.07,0.08,1
@@ -994,7 +994,7 @@ E82960,0.0,50.475407,-3.581856,England,Torbay,0.07,0.45,1
 1775,0.0,52.27751,-1.599081,England,Warwickshire,0.07,0.13,1
 E84540,0.0,51.134635,-4.240361,England,Devon,0.07,0.14,1
 E84360,0.0,50.799653,-3.737529,England,Devon,0.07,0.14,1
-E82040,0.1,50.686641,-3.300157,England,Devon,0.07,0.14,1
+E82040,0.0,50.686641,-3.300157,England,Devon,0.07,0.14,1
 E84500,0.0,51.195117,-3.978505,England,Devon,0.07,0.14,1
 62916,,53.911915,-1.662765,England,North Yorkshire,0.07,0.06,1
 574786,0.0,53.823309,-2.154144,England,Lancashire,0.07,0.08,1
