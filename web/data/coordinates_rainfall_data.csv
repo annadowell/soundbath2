@@ -41,7 +41,7 @@ E24195,0.0,52.103622,0.807145,England,Suffolk,0.07,0,1
 37292,0.0,54.204227,-0.30358,England,North Yorkshire,0.07,0.06,1
 86575,0.0,53.591095,-1.271011,England,Doncaster,0.07,0,1
 E1179,0.0,52.456899,-1.052938,England,Leicestershire,0.07,0,1
-E4753,0.2,51.160348,1.119955,England,Kent,0.07,0.01,1
+E4753,0.0,51.160348,1.119955,England,Kent,0.07,0.01,1
 E24847,0.0,51.889291,0.584473,England,Essex,0.07,0,1
 3173,0.0,53.017139,-1.981319,England,Staffordshire,0.07,0.14,1
 82732,0.0,53.352459,-1.545506,England,Sheffield,0.07,0,1
@@ -61,7 +61,7 @@ E7055,0.0,52.327013,-1.00142,England,West Northamptonshire,0.07,0.02,1
 E7045,0.0,52.185547,-0.867095,England,West Northamptonshire,0.07,0.02,1
 44200,0.0,50.837132,-2.59994,England,Dorset,0.07,0.17,1
 58461,0.0,53.979278,-1.646973,England,North Yorkshire,0.07,0.06,1
-E4530,0.0,51.156945,1.009589,England,Kent,0.07,0.01,1
+E4530,0.2,51.156945,1.009589,England,Kent,0.07,0.01,1
 1339,0.0,52.718219,-2.570654,England,Telford and Wrekin,0.07,0.2,1
 564769,,53.300189,-2.155251,England,Cheshire East,0.07,0.14,1
 564769,0.0,53.300189,-2.155251,England,Cheshire East,0.07,0.14,1
@@ -236,7 +236,7 @@ E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
 587552,,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
 587552,0.0,54.313112,-2.946042,England,Westmorland and Furness,0.07,0.16,1
 E7135,0.2,53.572235,-0.236854,England,Lincolnshire,0.07,0,1
-E2420,0.0,51.130083,0.749109,England,Kent,0.07,0.01,1
+E2420,0.1,51.130083,0.749109,England,Kent,0.07,0.01,1
 E11820,0.0,50.828711,-1.195588,England,Hampshire,0.07,0.07,1
 62046,0.0,54.071438,-1.913617,England,North Yorkshire,0.07,0.06,1
 44215,0.0,50.743404,-2.638425,England,Dorset,0.07,0.17,1
@@ -621,7 +621,7 @@ E8510,0.0,50.90639,-0.072052,England,East Sussex,0.07,0,1
 E13560,0.0,50.993139,-1.491976,England,Hampshire,0.07,0.07,1
 45157,,51.032617,-3.399666,England,Somerset,0.07,0.05,1
 285630TP,0.0,51.288167,-0.337196,England,Surrey,0.07,0,1
-E7070,0.0,52.207563,-0.73336,England,West Northamptonshire,0.07,0.02,1
+E7070,0.1,52.207563,-0.73336,England,West Northamptonshire,0.07,0.02,1
 37239,0.0,54.27325,-0.422074,England,North Yorkshire,0.07,0.06,1
 E6770,0.0,50.965787,0.453104,England,East Sussex,0.07,0,1
 7533,,55.035539,-1.772312,England,Northumberland,0.07,0,1
