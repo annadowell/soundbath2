@@ -586,7 +586,7 @@ E42135,0.0,53.232468,-0.366215,England,Lincolnshire,0.07,0,1
 290007TP,0.0,51.507135,0.134772,England,London Borough of Bexley,0.07,0,1
 605936,0.0,54.716254,-2.87779,England,Westmorland and Furness,0.07,0.16,1
 45166,0.0,50.859966,-3.239613,England,Devon,0.07,0.14,1
-3641,0.0,52.738326,-1.320862,England,Leicestershire,0.07,0,1
+3641,0.2,52.738326,-1.320862,England,Leicestershire,0.07,0,1
 3349,0.0,52.901997,-1.860947,England,Staffordshire,0.07,0.14,1
 3861,0.0,53.521199,-1.045964,England,Doncaster,0.07,0,1
 45113,,50.799653,-3.737529,England,Devon,0.07,0.14,1
@@ -678,7 +678,7 @@ E44091,0.0,51.964319,0.607714,England,Essex,0.07,0,1
 52129,0.0,50.875913,-2.981351,England,Somerset,0.07,0.05,1
 E21589,0.0,52.080162,1.29614,England,Suffolk,0.07,0,1
 79621,0.0,53.698015,-1.667505,England,Kirklees,0.07,0.03,1
-3683,0.2,52.697431,-1.117291,England,Leicestershire,0.07,0,1
+3683,0.0,52.697431,-1.117291,England,Leicestershire,0.07,0,1
 28502,0.0,54.504568,-2.141258,England,County Durham,0.07,0.05,1
 3026,0.0,52.79928,-2.275079,England,Staffordshire,0.07,0.14,1
 52223,0.0,51.393485,-2.917648,England,North Somerset,0.07,0,1
@@ -794,7 +794,7 @@ E1716,0.0,52.434206,-0.92251,England,West Northamptonshire,0.07,0.02,1
 586898,0.0,54.420696,-2.979342,England,Westmorland and Furness,0.07,0.16,1
 E14430,0.0,50.760875,-1.670302,England,Hampshire,0.07,0.07,1
 45208,0.0,50.850579,-2.888483,England,Somerset,0.07,0.05,1
-1761,0.0,52.051393,-1.762976,England,Gloucestershire,0.07,0.1,1
+1761,0.2,52.051393,-1.762976,England,Gloucestershire,0.07,0.1,1
 3775,0.0,53.07731,-1.190151,England,Nottinghamshire,0.07,0,1
 1112,,51.684691,-2.162673,England,Gloucestershire,0.07,0.1,1
 600140,0.0,54.500172,-2.930285,England,Westmorland and Furness,0.07,0.16,1
@@ -1289,7 +1289,7 @@ E71440,0.0,51.277138,-1.712499,England,Wiltshire,0.07,0.04,1
 234331,0.0,57.58239454,-3.608335401,Scotland,Moray,0.08,0,2
 369554,0.0,56.89929851,-2.820760629,Scotland,Angus,0.08,0,2
 115660,0.0,55.79484353,-4.353627607,Scotland,Glasgow City,0.08,0,2
-116008,0.05,60.2593269,-1.288604022,Scotland,Shetland,0.08,0,2
+116008,0.0,60.2593269,-1.288604022,Scotland,Shetland,0.08,0,2
 115250,0.0,57.14756943,-2.291989375,Scotland,Aberdeenshire,0.08,0.02,2
 14881,0.0,55.87157334,-3.682936938,Scotland,West Lothian,0.08,0,2
 502874,0.0,55.1412921,-4.677220867,Scotland,South Ayrshire,0.08,0.88,2
