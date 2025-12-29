@@ -64,7 +64,7 @@ E7045,0.0,52.185547,-0.867095,England,West Northamptonshire,0.07,0.02,1
 E4530,0.0,51.156945,1.009589,England,Kent,0.07,0.01,1
 1339,0.0,52.718219,-2.570654,England,Telford and Wrekin,0.07,0.2,1
 564769,,53.300189,-2.155251,England,Cheshire East,0.07,0.14,1
-564769,0.1,53.300189,-2.155251,England,Cheshire East,0.07,0.14,1
+564769,0.0,53.300189,-2.155251,England,Cheshire East,0.07,0.14,1
 43228,0.0,50.968057,-2.158729,England,Dorset,0.07,0.17,1
 E22255,0.0,52.170162,0.400362,England,Cambridgeshire,0.07,0,1
 E23717,0.0,52.132732,-0.418436,England,Bedford,0.07,0,1
@@ -229,7 +229,7 @@ E27601,0.0,51.530977,0.519422,England,Essex,0.07,0,1
 E25041,0.0,52.786909,-0.264322,England,Lincolnshire,0.07,0,1
 37973,0.0,54.297778,-1.167931,England,North Yorkshire,0.07,0.06,1
 E9360,0.0,50.929113,-0.384184,England,West Sussex,0.07,0.04,1
-E9350,0.0,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
+E9350,0.01,50.999283,-0.143741,England,West Sussex,0.07,0.04,1
 248965TP,0.0,51.792696,-2.00792,England,Gloucestershire,0.07,0.1,1
 3860,0.0,53.407215,-1.191422,England,Rotherham,0.07,0,1
 32,,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
