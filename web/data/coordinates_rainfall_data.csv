@@ -434,7 +434,7 @@ E24746,0.0,52.089557,-0.0565,England,Cambridgeshire,0.07,0,1
 E270,0.0,51.321154,0.447621,England,Kent,0.07,0.01,1
 E42991,0.0,52.558433,1.367321,England,Norfolk,0.07,0,1
 E42981,0.0,52.554012,1.032047,England,Norfolk,0.07,0,1
-E7200,0.2,52.555577,-0.828089,England,Leicestershire,0.07,0,1
+E7200,0.0,52.555577,-0.828089,England,Leicestershire,0.07,0,1
 287722TP,0.0,51.344874,-0.103964,England,London Borough of Croydon,0.07,0,1
 E14080,0.0,51.252655,-1.256994,England,Hampshire,0.07,0.07,1
 E46061,0.0,53.546796,-0.159424,England,North East Lincolnshire,0.07,0,1
@@ -517,7 +517,7 @@ E19017,0.0,52.058925,0.296651,England,Essex,0.07,0,1
 240662TP,0.0,51.937159,-0.384591,England,Hertfordshire,0.07,0,1
 558491,0.0,53.38925,-1.919511,England,Derbyshire,0.07,0.07,1
 59793,0.0,53.966652,-1.115089,England,York,0.07,0,1
-13553,0.0,54.820161,-2.445834,England,Westmorland and Furness,0.07,0.16,1
+13553,0.01,54.820161,-2.445834,England,Westmorland and Furness,0.07,0.16,1
 50108,,50.925011,-3.713738,England,Devon,0.07,0.14,1
 E14920,0.0,50.691845,-1.308358,England,Isle of Wight,0.07,0.01,1
 38476,0.0,54.107252,-0.128568,England,East Riding of Yorkshire,0.07,0,1
