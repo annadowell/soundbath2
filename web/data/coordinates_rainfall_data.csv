@@ -28,7 +28,7 @@ E10510,,51.053802,-0.642384,England,West Sussex,0.07,0.04,1
 E1039,0.0,53.102452,0.317508,England,Lincolnshire,0.07,0,1
 E8770,0.0,50.893868,0.081008,England,East Sussex,0.07,0,1
 244569TP,0.0,51.727077,-0.10539,England,Hertfordshire,0.07,0,1
-595273,0.1,54.760082,-3.214413,England,Cumberland,0.07,0.07,1
+595273,0.0,54.760082,-3.214413,England,Cumberland,0.07,0.07,1
 46104,0.0,50.53756,-3.702476,England,Devon,0.07,0.14,1
 77066,0.0,53.70469,-2.135531,England,Calderdale,0.07,0.13,1
 E24195,0.0,52.103622,0.807145,England,Suffolk,0.07,0,1
@@ -135,7 +135,7 @@ E15510,0.0,51.307175,0.102521,England,Kent,0.07,0.01,1
 E10450,0.0,50.933357,-0.647317,England,West Sussex,0.07,0.04,1
 E3240,0.0,51.389586,0.842268,England,Kent,0.07,0.01,1
 591642,0.0,54.525099,-3.417569,England,Cumberland,0.07,0.07,1
-E7295,0.01,50.814838,0.358583,England,East Sussex,0.07,0,1
+E7295,0.0,50.814838,0.358583,England,East Sussex,0.07,0,1
 49102,0.0,50.382424,-4.56061,England,Cornwall,0.07,0.08,1
 E1613,0.0,53.397417,-0.269659,England,Lincolnshire,0.07,0,1
 E7095,0.0,53.326702,-0.11185,England,Lincolnshire,0.07,0,1
@@ -606,7 +606,7 @@ E1645,0.0,53.664551,-0.343494,England,North Lincolnshire,0.07,0,1
 E7130,0.0,53.534467,-0.499466,England,North Lincolnshire,0.07,0,1
 3603,0.0,53.079174,-0.867665,England,Nottinghamshire,0.07,0,1
 51102,0.0,51.117739,-3.349372,England,Somerset,0.07,0.05,1
-E7180,0.4,50.903167,0.47968,England,East Sussex,0.07,0,1
+E7180,0.0,50.903167,0.47968,England,East Sussex,0.07,0,1
 E7170,0.0,53.077492,-0.622888,England,Lincolnshire,0.07,0,1
 E2476,0.0,52.252632,-1.146653,England,West Northamptonshire,0.07,0.02,1
 245176TP,0.0,51.588712,-0.112596,England,London Borough of Haringey,0.07,0,1
