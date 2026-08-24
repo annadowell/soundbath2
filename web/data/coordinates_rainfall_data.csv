@@ -388,7 +388,7 @@ E2365,0.0,52.632078,-0.313309,England,City of Peterborough,0.07,0,1
 3652,0.0,52.836792,-1.251041,England,Nottinghamshire,0.07,0,1
 596026,,54.849851,-3.310562,England,Cumberland,0.07,0.07,1
 596026,0.0,54.849851,-3.310562,England,Cumberland,0.07,0.07,1
-E11040,0.02,50.889075,-0.881768,England,West Sussex,0.07,0.04,1
+E11040,0.0,50.889075,-0.881768,England,West Sussex,0.07,0.04,1
 E14910,0.0,50.722216,-1.142162,England,Isle of Wight,0.07,0.01,1
 E12580,0.0,51.089429,-1.328148,England,Hampshire,0.07,0.07,1
 000102TP,,51.914149,0.249994,England,Essex,0.07,0,1
@@ -546,7 +546,7 @@ E12160,0.0,50.942234,-1.227791,England,Hampshire,0.07,0.07,1
 45231,0.0,50.76725,-2.963477,England,Devon,0.07,0.14,1
 247540TP,0.0,51.479469,-0.451216,England,London Borough of Hillingdon,0.07,0,1
 74385,0.0,53.947438,-2.020525,England,North Yorkshire,0.07,0.06,1
-35305,0.0,54.486239,-0.724171,England,North Yorkshire,0.07,0.06,1
+35305,0.22,54.486239,-0.724171,England,North Yorkshire,0.07,0.06,1
 1774,0.0,52.338976,-2.542273,England,Worcestershire,0.07,0.14,1
 E9720,0.0,50.860296,-0.483186,England,West Sussex,0.07,0.04,1
 1548,0.0,52.408068,-2.335847,England,Worcestershire,0.07,0.14,1
@@ -634,7 +634,7 @@ E10360,0.0,51.037622,-0.899591,England,Hampshire,0.07,0.07,1
 584098,0.0,54.128677,-2.71229,England,Lancashire,0.07,0.08,1
 48105,0.0,50.303659,-5.098505,England,Cornwall,0.07,0.08,1
 84532,0.0,53.366844,-1.351488,England,Rotherham,0.07,0,1
-48155,0.0,50.593242,-4.743017,England,Cornwall,0.07,0.08,1
+48155,0.17,50.593242,-4.743017,England,Cornwall,0.07,0.08,1
 E14880,,50.671665,-1.399223,England,Isle of Wight,0.07,0.01,1
 43205,0.0,50.755028,-1.936857,England,"Bournemouth, Christchurch and Poole",0.07,0.4,1
 561613,0.0,53.663285,-2.180798,England,Lancashire,0.07,0.08,1
@@ -918,7 +918,7 @@ E1711,,51.142735,0.09504,England,Kent,0.07,0.01,1
 E2400,,51.096946,0.544313,England,Kent,0.07,0.01,1
 E2400,0.0,51.096946,0.544313,England,Kent,0.07,0.01,1
 2705SO,0.0,50.759531,-0.787028,England,West Sussex,0.07,0.04,1
-035024NE,0.0,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
+035024NE,0.11,54.505434,-0.84558,England,Redcar and Cleveland,0.07,0,1
 588006,,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 588006,0.0,54.378286,-3.103039,England,Westmorland and Furness,0.07,0.16,1
 270397,0.0,51.44172,-0.937391,England,England,0.07,0,1
